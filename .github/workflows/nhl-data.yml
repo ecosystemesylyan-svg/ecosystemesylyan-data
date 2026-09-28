@@ -1,7 +1,7 @@
 name: Donnees NHL EcosystemeSylyan
 
 on:
-    workflow_dispatch:
+  workflow_dispatch:
     inputs:
       date:
         description: "Date NHL (AAAA-MM-JJ)"
