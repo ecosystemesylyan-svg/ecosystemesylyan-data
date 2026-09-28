@@ -1,0 +1,36 @@
+name: Donnees NHL EcosystemeSylyan
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  nhl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Recuperer le depot
+        uses: actions/checkout@v4
+
+      - name: Recuperer les donnees NHL
+        run: |
+          mkdir -p nhl
+          DATE=$(TZ=America/Toronto date +%F)
+          curl --fail --retry 3 \
+            "https://api-web.nhle.com/v1/score/$DATE" \
+            -o "nhl/$DATE.json"
+
+          cp "nhl/$DATE.json" nhl/today.json
+
+      - name: Sauvegarder les donnees
+        run: |
+          git config user.name "EcosystemeSylyan NHL Bot"
+          git config user.email "actions@github.com"
+          git add nhl/
+          git diff --cached --quiet && exit 0
+          git commit -m "Mise a jour NHL"
+          git push
