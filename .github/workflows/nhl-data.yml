@@ -1,7 +1,12 @@
 name: Donnees NHL EcosystemeSylyan
 
 on:
-  workflow_dispatch:
+    workflow_dispatch:
+    inputs:
+      date:
+        description: "Date NHL (AAAA-MM-JJ)"
+        required: false
+        type: string
   schedule:
     - cron: "*/15 * * * *"
 
@@ -19,7 +24,7 @@ jobs:
       - name: Recuperer les donnees NHL
         run: |
           mkdir -p nhl
-          DATE=$(TZ=America/Toronto date +%F)
+          DATE="${{ inputs.date || '' }}"; [ -n "$DATE" ] || DATE=$(TZ=America/Toronto date +%F)
           curl --fail --retry 3 \
             "https://api-web.nhle.com/v1/score/$DATE" \
             -o "nhl/$DATE.json"
