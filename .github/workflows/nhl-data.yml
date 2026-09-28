@@ -24,12 +24,14 @@ jobs:
       - name: Recuperer les donnees NHL
         run: |
           mkdir -p nhl
-          DATE="${{ inputs.date || '' }}"; [ -n "$DATE" ] || DATE=$(TZ=America/Toronto date +%F)
+          mkdir -p nhl/boxscores
+          INPUT_DATE="${{ inputs.date || '' }}"; DATE="$INPUT_DATE"; [ -n "$DATE" ] || DATE=$(TZ=America/Toronto date +%F)
           curl --fail --retry 3 \
             "https://api-web.nhle.com/v1/score/$DATE" \
             -o "nhl/$DATE.json"
 
-          cp "nhl/$DATE.json" nhl/today.json
+          curl --fail --retry 3 "https://api-web.nhle.com/v1/gamecenter/2026010053/boxscore" -o "nhl/boxscores/2026010053.json"
+          if [ -z "$INPUT_DATE" ]; then cp "nhl/$DATE.json" nhl/today.json; fi
 
       - name: Sauvegarder les donnees
         run: |
