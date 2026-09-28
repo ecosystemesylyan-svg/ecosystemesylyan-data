@@ -30,7 +30,7 @@ jobs:
             "https://api-web.nhle.com/v1/score/$DATE" \
             -o "nhl/$DATE.json"
 
-          curl --fail --retry 3 "https://api-web.nhle.com/v1/gamecenter/2026010053/boxscore" -o "nhl/boxscores/2026010053.json"
+          jq -r '.games[]?.id' "nhl/$DATE.json" | while read -r GAME_ID; do curl --fail --retry 3 "https://api-web.nhle.com/v1/gamecenter/$GAME_ID/boxscore" -o "nhl/boxscores/$GAME_ID.json"; done
           if [ -z "$INPUT_DATE" ]; then cp "nhl/$DATE.json" nhl/today.json; fi
 
       - name: Sauvegarder les donnees
