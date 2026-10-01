@@ -25,13 +25,30 @@ jobs:
         run: |
           mkdir -p nhl
           mkdir -p nhl/boxscores
-          INPUT_DATE="${{ inputs.date || '' }}"; DATE="$INPUT_DATE"; [ -n "$DATE" ] || DATE=$(TZ=America/Toronto date +%F)
-          curl --fail --retry 3 \
-            "https://api-web.nhle.com/v1/score/$DATE" \
-            -o "nhl/$DATE.json"
 
-          jq -r '.games[]?.id' "nhl/$DATE.json" | while read -r GAME_ID; do curl --fail --retry 3 "https://api-web.nhle.com/v1/gamecenter/$GAME_ID/boxscore" -o "nhl/boxscores/$GAME_ID.json"; done
-          if [ -z "$INPUT_DATE" ]; then cp "nhl/$DATE.json" nhl/today.json; fi
+          INPUT_DATE="${{ inputs.date || '' }}"
+
+          if [ -n "$INPUT_DATE" ]; then
+            DATES="$INPUT_DATE"
+          else
+            TODAY=$(TZ=America/Toronto date +%F)
+            YESTERDAY=$(TZ=America/Toronto date -d 'yesterday' +%F)
+            DATES="$TODAY $YESTERDAY"
+          fi
+
+          for DATE in $DATES; do
+            echo "Mise a jour NHL : $DATE"
+
+            curl --fail --retry 3 "https://api-web.nhle.com/v1/score/$DATE" -o "nhl/$DATE.json"
+
+            jq -r '.games[]?.id' "nhl/$DATE.json" | while read -r GAME_ID; do
+              curl --fail --retry 3 "https://api-web.nhle.com/v1/gamecenter/$GAME_ID/boxscore" -o "nhl/boxscores/$GAME_ID.json"
+            done
+          done
+
+          if [ -z "$INPUT_DATE" ]; then
+            cp "nhl/$TODAY.json" nhl/today.json
+          fi
 
       - name: Sauvegarder les donnees
         run: |
