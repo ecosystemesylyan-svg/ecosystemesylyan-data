@@ -25,6 +25,7 @@ jobs:
         run: |
           mkdir -p nhl
           mkdir -p nhl/boxscores
+          mkdir -p nhl/playbyplay
 
           INPUT_DATE="${{ inputs.date || '' }}"
 
@@ -43,6 +44,17 @@ jobs:
 
             jq -r '.games[]?.id' "nhl/$DATE.json" | while read -r GAME_ID; do
               curl --fail --retry 3 "https://api-web.nhle.com/v1/gamecenter/$GAME_ID/boxscore" -o "nhl/boxscores/$GAME_ID.json"
+            done
+
+            # Jeu par jeu (mises au jeu, mises en echec, etc.)
+            # Seulement pour les matchs termines, pour ne pas alourdir le depot.
+            # Un echec ici n'arrete jamais le reste de la mise a jour.
+            jq -r '.games[]? | select(.gameState == "OFF" or .gameState == "FINAL") | .id' "nhl/$DATE.json" | while read -r GAME_ID; do
+              if curl --fail --retry 3 "https://api-web.nhle.com/v1/gamecenter/$GAME_ID/play-by-play" -o "/tmp/pbp-$GAME_ID.json"; then
+                mv "/tmp/pbp-$GAME_ID.json" "nhl/playbyplay/$GAME_ID.json"
+              else
+                echo "Jeu par jeu indisponible pour le match $GAME_ID"
+              fi
             done
           done
 
