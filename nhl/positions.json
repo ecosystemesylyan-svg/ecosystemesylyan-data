@@ -91,10 +91,10 @@
    "nom": "Alex Killorn",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8473994": {
@@ -361,10 +361,10 @@
    "nom": "Mikael Granlund",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 28,
-   "gagnees": 13,
-   "moyenne": 14.0,
+   "matchs": 3,
+   "misesAuJeu": 44,
+   "gagnees": 19,
+   "moyenne": 14.67,
    "statut": "officiel"
   },
   "8475799": {
@@ -877,6 +877,16 @@
    "moyenne": 14.33,
    "statut": "officiel"
   },
+  "8477450": {
+   "nom": "Jason Dickinson",
+   "equipe": "EDM",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 11,
+   "gagnees": 4,
+   "moyenne": 11.0,
+   "statut": "officiel"
+  },
   "8477451": {
    "nom": "Ryan Hartman",
    "equipe": "MIN",
@@ -1051,10 +1061,10 @@
    "nom": "Leon Draisaitl",
    "equipe": "EDM",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 46,
-   "gagnees": 25,
-   "moyenne": 15.33,
+   "matchs": 4,
+   "misesAuJeu": 59,
+   "gagnees": 33,
+   "moyenne": 14.75,
    "statut": "officiel"
   },
   "8477935": {
@@ -1121,10 +1131,10 @@
    "nom": "Kasperi Kapanen",
    "equipe": "EDM",
    "pos": "R",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 2,
    "gagnees": 2,
-   "moyenne": 0.67,
+   "moyenne": 0.5,
    "statut": "officiel"
   },
   "8477955": {
@@ -1321,10 +1331,10 @@
    "nom": "Connor McDavid",
    "equipe": "EDM",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 39,
-   "gagnees": 19,
-   "moyenne": 13.0,
+   "matchs": 4,
+   "misesAuJeu": 53,
+   "gagnees": 29,
+   "moyenne": 13.25,
    "statut": "officiel"
   },
   "8478403": {
@@ -1371,7 +1381,7 @@
    "nom": "A.J. Greer",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1491,10 +1501,10 @@
    "nom": "Mathieu Joseph",
    "equipe": "EDM",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 0,
+   "matchs": 4,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.5,
    "statut": "officiel"
   },
   "8478474": {
@@ -1741,20 +1751,20 @@
    "nom": "Trent Frederic",
    "equipe": "EDM",
    "pos": "C",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 5,
    "gagnees": 2,
-   "moyenne": 1.67,
+   "moyenne": 1.25,
    "statut": "centre_aile"
   },
   "8479368": {
    "nom": "Max Jones",
    "equipe": "EDM",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8479385": {
@@ -2041,7 +2051,7 @@
    "nom": "Alex Formenton",
    "equipe": "EDM",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2071,10 +2081,10 @@
    "nom": "Ryan Poehling",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 19,
-   "gagnees": 4,
-   "moyenne": 9.5,
+   "matchs": 3,
+   "misesAuJeu": 28,
+   "gagnees": 9,
+   "moyenne": 9.33,
    "statut": "officiel"
   },
   "8480074": {
@@ -2511,10 +2521,10 @@
    "nom": "Judd Caulfield",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8481540": {
@@ -2621,10 +2631,10 @@
    "nom": "Vasily Podkolzin",
    "equipe": "EDM",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 2,
-   "gagnees": 0,
-   "moyenne": 0.67,
+   "matchs": 4,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.75,
    "statut": "officiel"
   },
   "8481618": {
@@ -2731,11 +2741,11 @@
    "nom": "Nikita Nesterenko",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 0,
+   "matchs": 3,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.0,
-   "statut": "officiel"
+   "moyenne": 0.67,
+   "statut": "centre_aile"
   },
   "8481789": {
    "nom": "Tye Kartye",
@@ -3021,10 +3031,10 @@
    "nom": "Jeff Malott",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 2,
-   "misesAuJeu": 0,
+   "matchs": 3,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8482460": {
@@ -3361,10 +3371,10 @@
    "nom": "Cutter Gauthier",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 2,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.5,
+   "matchs": 3,
+   "misesAuJeu": 6,
+   "gagnees": 1,
+   "moyenne": 2.0,
    "statut": "officiel"
   },
   "8483447": {
@@ -3391,7 +3401,7 @@
    "nom": "Isaac Howard",
    "equipe": "EDM",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3671,9 +3681,9 @@
    "nom": "Leo Carlsson",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 24,
-   "gagnees": 11,
+   "matchs": 3,
+   "misesAuJeu": 36,
+   "gagnees": 16,
    "moyenne": 12.0,
    "statut": "officiel"
   },
@@ -3851,9 +3861,9 @@
    "nom": "Josh Samanski",
    "equipe": "EDM",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 14,
-   "gagnees": 7,
+   "matchs": 3,
+   "misesAuJeu": 21,
+   "gagnees": 12,
    "moyenne": 7.0,
    "statut": "officiel"
   },
@@ -3861,10 +3871,10 @@
    "nom": "Beckett Sennecke",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8484786": {
@@ -4071,10 +4081,10 @@
    "nom": "Tim Washe",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 39,
-   "gagnees": 22,
-   "moyenne": 19.5,
+   "matchs": 3,
+   "misesAuJeu": 58,
+   "gagnees": 31,
+   "moyenne": 19.33,
    "statut": "officiel"
   },
   "8485702": {
@@ -4095,6 +4105,16 @@
    "misesAuJeu": 33,
    "gagnees": 9,
    "moyenne": 8.25,
+   "statut": "officiel"
+  },
+  "8486052": {
+   "nom": "Nikita Klepov",
+   "equipe": "ANA",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8486067": {
@@ -4121,10 +4141,10 @@
    "nom": "Owen Michaels",
    "equipe": "EDM",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 36,
-   "gagnees": 18,
-   "moyenne": 12.0,
+   "matchs": 4,
+   "misesAuJeu": 53,
+   "gagnees": 29,
+   "moyenne": 13.25,
    "statut": "ailier_centre"
   },
   "8486171": {
