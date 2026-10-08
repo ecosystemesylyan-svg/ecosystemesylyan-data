@@ -58,9 +58,206 @@ jobs:
             done
           done
 
+          # Rattrapage : matchs de saison ou de series deja termines
+          # dont le jeu par jeu n'a jamais ete telecharge.
+          for FICHIER in nhl/20??-??-??.json; do
+            [ -f "$FICHIER" ] || continue
+
+            jq -r '.games[]? | select((.gameType == 2 or .gameType == 3) and .gameState == "OFF") | .id' "$FICHIER" | while read -r GAME_ID; do
+              [ -f "nhl/playbyplay/$GAME_ID.json" ] && continue
+
+              if curl --fail --retry 3 "https://api-web.nhle.com/v1/gamecenter/$GAME_ID/play-by-play" -o "/tmp/pbp-$GAME_ID.json"; then
+                mv "/tmp/pbp-$GAME_ID.json" "nhl/playbyplay/$GAME_ID.json"
+                echo "Rattrapage du match $GAME_ID"
+              else
+                echo "Rattrapage impossible pour le match $GAME_ID"
+              fi
+            done
+          done
+
           if [ -z "$INPUT_DATE" ]; then
             cp "nhl/$TODAY.json" nhl/today.json
           fi
+
+      - name: Calculer les positions reelles
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          # Positions reelles des attaquants, selon les mises au jeu.
+          #
+          # Pour chaque attaquant, on regarde ses 5 derniers matchs joues
+          # (saison reguliere et series) et on compte les mises au jeu prises.
+          #
+          #   classe centre, moins de 2 par match  -> "centre_aile"   (joue a l'aile)
+          #   classe ailier, 5 ou plus par match   -> "ailier_centre" (joue au centre)
+          #   sinon                                -> "officiel"
+          #
+          # Moins de 3 matchs joues : pas assez de donnees -> "officiel".
+
+          import glob
+          import json
+          import os
+
+          MATCHS = 5
+          MIN_MATCHS = 3
+          SEUIL_AILE = 2.0
+          SEUIL_CENTRE = 5.0
+
+          def charger(chemin):
+              try:
+                  with open(chemin, encoding="utf-8") as f:
+                      return json.load(f)
+              except Exception:
+                  return None
+
+          def a_joue(toi):
+              return str(toi or "").strip() not in ("", "0:00", "00:00")
+
+          historique = {}
+          infos = {}
+          dernier_match = ""
+
+          for chemin in sorted(glob.glob("nhl/playbyplay/*.json")):
+              pbp = charger(chemin)
+
+              if not isinstance(pbp, dict):
+                  continue
+
+              if pbp.get("gameType") not in (2, 3):
+                  continue
+
+              if pbp.get("gameState") not in ("OFF", "FINAL"):
+                  continue
+
+              match_id = int(pbp.get("id") or 0)
+              date = str(pbp.get("gameDate") or "")
+
+              if not match_id or not date:
+                  continue
+
+              dernier_match = max(dernier_match, date)
+
+              equipes = {}
+              for cote in ("awayTeam", "homeTeam"):
+                  equipe = pbp.get(cote) or {}
+                  equipes[equipe.get("id")] = equipe.get("abbrev", "")
+
+              prises = {}
+              gagnees = {}
+
+              for jeu in pbp.get("plays") or []:
+                  if jeu.get("typeDescKey") != "faceoff":
+                      continue
+
+                  details = jeu.get("details") or {}
+                  gagnant = details.get("winningPlayerId")
+                  perdant = details.get("losingPlayerId")
+
+                  if gagnant:
+                      prises[gagnant] = prises.get(gagnant, 0) + 1
+                      gagnees[gagnant] = gagnees.get(gagnant, 0) + 1
+
+                  if perdant:
+                      prises[perdant] = prises.get(perdant, 0) + 1
+
+              # Attaquants qui ont reellement joue (temps de glace du sommaire).
+              joueurs_du_match = {}
+              sommaire = charger("nhl/boxscores/%d.json" % match_id)
+
+              if isinstance(sommaire, dict):
+                  stats = sommaire.get("playerByGameStats") or {}
+
+                  for cote in ("awayTeam", "homeTeam"):
+                      abbrev = (sommaire.get(cote) or {}).get("abbrev", "")
+
+                      for j in (stats.get(cote) or {}).get("forwards") or []:
+                          if not a_joue(j.get("toi")):
+                              continue
+
+                          joueurs_du_match[j.get("playerId")] = {
+                              "pos": j.get("position", ""),
+                              "equipe": abbrev,
+                          }
+
+              noms = {}
+              for spot in pbp.get("rosterSpots") or []:
+                  pid = spot.get("playerId")
+                  prenom = (spot.get("firstName") or {}).get("default", "")
+                  nom = (spot.get("lastName") or {}).get("default", "")
+                  noms[pid] = (prenom + " " + nom).strip()
+
+                  # Secours si le sommaire manque.
+                  if not isinstance(sommaire, dict) and spot.get("positionCode") in ("C", "L", "R"):
+                      joueurs_du_match[pid] = {
+                          "pos": spot.get("positionCode"),
+                          "equipe": equipes.get(spot.get("teamId"), ""),
+                      }
+
+              for pid, j in joueurs_du_match.items():
+                  if not pid or j["pos"] not in ("C", "L", "R"):
+                      continue
+
+                  historique.setdefault(pid, []).append(
+                      (date, match_id, prises.get(pid, 0), gagnees.get(pid, 0))
+                  )
+
+                  precedent = infos.get(pid)
+                  if precedent is None or (date, match_id) >= precedent["cle"]:
+                      infos[pid] = {
+                          "cle": (date, match_id),
+                          "pos": j["pos"],
+                          "equipe": j["equipe"],
+                          "nom": noms.get(pid, ""),
+                      }
+
+          joueurs = {}
+
+          for pid, matchs in historique.items():
+              recents = sorted(matchs, reverse=True)[:MATCHS]
+              mj = len(recents)
+              total = sum(m[2] for m in recents)
+              gagne = sum(m[3] for m in recents)
+              moyenne = round(total / mj, 2) if mj else 0.0
+              pos = infos[pid]["pos"]
+
+              statut = "officiel"
+
+              if mj >= MIN_MATCHS:
+                  if pos == "C" and moyenne < SEUIL_AILE:
+                      statut = "centre_aile"
+                  elif pos in ("L", "R") and moyenne >= SEUIL_CENTRE:
+                      statut = "ailier_centre"
+
+              joueurs[str(pid)] = {
+                  "nom": infos[pid]["nom"],
+                  "equipe": infos[pid]["equipe"],
+                  "pos": pos,
+                  "matchs": mj,
+                  "misesAuJeu": total,
+                  "gagnees": gagne,
+                  "moyenne": moyenne,
+                  "statut": statut,
+              }
+
+          resultat = {
+              "dernierMatch": dernier_match,
+              "regle": {
+                  "matchs": MATCHS,
+                  "minMatchs": MIN_MATCHS,
+                  "seuilAile": SEUIL_AILE,
+                  "seuilCentre": SEUIL_CENTRE,
+              },
+              "joueurs": dict(sorted(joueurs.items(), key=lambda kv: int(kv[0]))),
+          }
+
+          os.makedirs("nhl", exist_ok=True)
+
+          with open("nhl/positions.json", "w", encoding="utf-8") as f:
+              json.dump(resultat, f, ensure_ascii=False, indent=1)
+              f.write("\n")
+
+          print("Positions calculees pour", len(joueurs), "attaquants")
+          PY
 
       - name: Sauvegarder les donnees
         run: |
