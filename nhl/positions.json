@@ -1,0 +1,4121 @@
+{
+ "dernierMatch": "2026-10-06",
+ "regle": {
+  "matchs": 5,
+  "minMatchs": 3,
+  "seuilAile": 2.0,
+  "seuilCentre": 5.0
+ },
+ "joueurs": {
+  "8470621": {
+   "nom": "Corey Perry",
+   "equipe": "LAK",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8471214": {
+   "nom": "Alex Ovechkin",
+   "equipe": "WSH",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8471215": {
+   "nom": "Evgeni Malkin",
+   "equipe": "PIT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.67,
+   "statut": "centre_aile"
+  },
+  "8471675": {
+   "nom": "Sidney Crosby",
+   "equipe": "PIT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 70,
+   "gagnees": 39,
+   "moyenne": 23.33,
+   "statut": "officiel"
+  },
+  "8473419": {
+   "nom": "Brad Marchand",
+   "equipe": "FLA",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8473422": {
+   "nom": "Nick Foligno",
+   "equipe": "MIN",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 9,
+   "gagnees": 3,
+   "moyenne": 3.0,
+   "statut": "officiel"
+  },
+  "8473512": {
+   "nom": "Claude Giroux",
+   "equipe": "OTT",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 30,
+   "gagnees": 20,
+   "moyenne": 10.0,
+   "statut": "ailier_centre"
+  },
+  "8473533": {
+   "nom": "Jordan Staal",
+   "equipe": "CAR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 89,
+   "gagnees": 47,
+   "moyenne": 22.25,
+   "statut": "officiel"
+  },
+  "8473986": {
+   "nom": "Alex Killorn",
+   "equipe": "ANA",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8473994": {
+   "nom": "Jamie Benn",
+   "equipe": "DAL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8474141": {
+   "nom": "Patrick Kane",
+   "equipe": "CHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8474150": {
+   "nom": "Mikael Backlund",
+   "equipe": "CGY",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 55,
+   "gagnees": 27,
+   "moyenne": 18.33,
+   "statut": "officiel"
+  },
+  "8474189": {
+   "nom": "Lars Eller",
+   "equipe": "FLA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 40,
+   "gagnees": 17,
+   "moyenne": 10.0,
+   "statut": "officiel"
+  },
+  "8474564": {
+   "nom": "Steven Stamkos",
+   "equipe": "NSH",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 14,
+   "gagnees": 9,
+   "moyenne": 4.67,
+   "statut": "officiel"
+  },
+  "8474586": {
+   "nom": "Jordan Eberle",
+   "equipe": "SEA",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8475151": {
+   "nom": "Kyle Palmieri",
+   "equipe": "NYI",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "centre_aile"
+  },
+  "8475158": {
+   "nom": "Ryan O'Reilly",
+   "equipe": "NSH",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 51,
+   "gagnees": 30,
+   "moyenne": 17.0,
+   "statut": "officiel"
+  },
+  "8475166": {
+   "nom": "John Tavares",
+   "equipe": "TOR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 61,
+   "gagnees": 35,
+   "moyenne": 15.25,
+   "statut": "officiel"
+  },
+  "8475170": {
+   "nom": "Brayden Schenn",
+   "equipe": "NYI",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 16,
+   "gagnees": 9,
+   "moyenne": 5.33,
+   "statut": "officiel"
+  },
+  "8475172": {
+   "nom": "Nazem Kadri",
+   "equipe": "COL",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 8,
+   "gagnees": 5,
+   "moyenne": 4.0,
+   "statut": "officiel"
+  },
+  "8475184": {
+   "nom": "Chris Kreider",
+   "equipe": "MTL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8475220": {
+   "nom": "Marcus Foligno",
+   "equipe": "MIN",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8475231": {
+   "nom": "Casey Cizikas",
+   "equipe": "NYI",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 26,
+   "gagnees": 14,
+   "moyenne": 8.67,
+   "statut": "officiel"
+  },
+  "8475235": {
+   "nom": "Nicolas Deslauriers",
+   "equipe": "CAR",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8475287": {
+   "nom": "Erik Haula",
+   "equipe": "LAK",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 54,
+   "gagnees": 27,
+   "moyenne": 18.0,
+   "statut": "ailier_centre"
+  },
+  "8475314": {
+   "nom": "Anders Lee",
+   "equipe": "UTA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8475343": {
+   "nom": "Nic Dowd",
+   "equipe": "VGK",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 46,
+   "gagnees": 17,
+   "moyenne": 11.5,
+   "statut": "officiel"
+  },
+  "8475692": {
+   "nom": "Mats Zuccarello",
+   "equipe": "LAK",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8475726": {
+   "nom": "Tyler Toffoli",
+   "equipe": "SJS",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "centre_aile"
+  },
+  "8475745": {
+   "nom": "Charlie Coyle",
+   "equipe": "CBJ",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 33,
+   "gagnees": 19,
+   "moyenne": 16.5,
+   "statut": "officiel"
+  },
+  "8475754": {
+   "nom": "Brock Nelson",
+   "equipe": "COL",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 32,
+   "gagnees": 13,
+   "moyenne": 16.0,
+   "statut": "officiel"
+  },
+  "8475768": {
+   "nom": "Jaden Schwartz",
+   "equipe": "COL",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8475786": {
+   "nom": "Zach Hyman",
+   "equipe": "EDM",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8475791": {
+   "nom": "Taylor Hall",
+   "equipe": "CAR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8475794": {
+   "nom": "Tyler Seguin",
+   "equipe": "DAL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 13,
+   "gagnees": 7,
+   "moyenne": 4.33,
+   "statut": "officiel"
+  },
+  "8475798": {
+   "nom": "Mikael Granlund",
+   "equipe": "ANA",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 28,
+   "gagnees": 13,
+   "moyenne": 14.0,
+   "statut": "officiel"
+  },
+  "8475799": {
+   "nom": "Nino Niederreiter",
+   "equipe": "WPG",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8475842": {
+   "nom": "Sam Carrick",
+   "equipe": "BUF",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 14,
+   "gagnees": 7,
+   "moyenne": 7.0,
+   "statut": "officiel"
+  },
+  "8475848": {
+   "nom": "Brendan Gallagher",
+   "equipe": "VAN",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8475913": {
+   "nom": "Mark Stone",
+   "equipe": "VGK",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8476278": {
+   "nom": "Colin Blackwell",
+   "equipe": "DAL",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8476292": {
+   "nom": "Ondrej Palat",
+   "equipe": "NYI",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8476374": {
+   "nom": "Sean Kuraly",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 25,
+   "gagnees": 15,
+   "moyenne": 8.33,
+   "statut": "officiel"
+  },
+  "8476389": {
+   "nom": "Vincent Trocheck",
+   "equipe": "UTA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 60,
+   "gagnees": 37,
+   "moyenne": 15.0,
+   "statut": "officiel"
+  },
+  "8476392": {
+   "nom": "Adam Lowry",
+   "equipe": "WPG",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 55,
+   "gagnees": 23,
+   "moyenne": 18.33,
+   "statut": "officiel"
+  },
+  "8476393": {
+   "nom": "Nick Cousins",
+   "equipe": "OTT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "centre_aile"
+  },
+  "8476399": {
+   "nom": "Blake Coleman",
+   "equipe": "MIN",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8476419": {
+   "nom": "Jean-Gabriel Pageau",
+   "equipe": "NYI",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 47,
+   "gagnees": 23,
+   "moyenne": 15.67,
+   "statut": "officiel"
+  },
+  "8476432": {
+   "nom": "Boone Jenner",
+   "equipe": "WSH",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 25,
+   "gagnees": 16,
+   "moyenne": 12.5,
+   "statut": "officiel"
+  },
+  "8476448": {
+   "nom": "William Karlsson",
+   "equipe": "VGK",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 62,
+   "gagnees": 42,
+   "moyenne": 15.5,
+   "statut": "officiel"
+  },
+  "8476453": {
+   "nom": "Nikita Kucherov",
+   "equipe": "TBL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8476455": {
+   "nom": "Gabriel Landeskog",
+   "equipe": "COL",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 11,
+   "gagnees": 7,
+   "moyenne": 5.5,
+   "statut": "officiel"
+  },
+  "8476458": {
+   "nom": "Ryan Strome",
+   "equipe": "CGY",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 22,
+   "gagnees": 9,
+   "moyenne": 7.33,
+   "statut": "officiel"
+  },
+  "8476459": {
+   "nom": "Mika Zibanejad",
+   "equipe": "NYR",
+   "pos": "C",
+   "matchs": 5,
+   "misesAuJeu": 78,
+   "gagnees": 45,
+   "moyenne": 15.6,
+   "statut": "officiel"
+  },
+  "8476460": {
+   "nom": "Mark Scheifele",
+   "equipe": "WPG",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 48,
+   "gagnees": 26,
+   "moyenne": 16.0,
+   "statut": "officiel"
+  },
+  "8476461": {
+   "nom": "Sean Couturier",
+   "equipe": "PHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 40,
+   "gagnees": 24,
+   "moyenne": 10.0,
+   "statut": "officiel"
+  },
+  "8476468": {
+   "nom": "J.T. Miller",
+   "equipe": "NYR",
+   "pos": "C",
+   "matchs": 5,
+   "misesAuJeu": 80,
+   "gagnees": 41,
+   "moyenne": 16.0,
+   "statut": "officiel"
+  },
+  "8476469": {
+   "nom": "Joel Armia",
+   "equipe": "LAK",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8476474": {
+   "nom": "Stefan Noesen",
+   "equipe": "NJD",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8476479": {
+   "nom": "Phillip Danault",
+   "equipe": "MTL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 31,
+   "gagnees": 18,
+   "moyenne": 10.33,
+   "statut": "officiel"
+  },
+  "8476480": {
+   "nom": "Vladislav Namestnikov",
+   "equipe": "WPG",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 27,
+   "gagnees": 14,
+   "moyenne": 9.0,
+   "statut": "officiel"
+  },
+  "8476483": {
+   "nom": "Rickard Rakell",
+   "equipe": "PIT",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 1.33,
+   "statut": "officiel"
+  },
+  "8476539": {
+   "nom": "Jonathan Marchessault",
+   "equipe": "NSH",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8476624": {
+   "nom": "Barclay Goodrow",
+   "equipe": "SJS",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "centre_aile"
+  },
+  "8476872": {
+   "nom": "Scott Laughton",
+   "equipe": "LAK",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 34,
+   "gagnees": 21,
+   "moyenne": 11.33,
+   "statut": "officiel"
+  },
+  "8476873": {
+   "nom": "Mark Jankowski",
+   "equipe": "CAR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 48,
+   "gagnees": 23,
+   "moyenne": 12.0,
+   "statut": "ailier_centre"
+  },
+  "8476878": {
+   "nom": "Zemgus Girgensons",
+   "equipe": "TBL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 37,
+   "gagnees": 18,
+   "moyenne": 12.33,
+   "statut": "officiel"
+  },
+  "8476880": {
+   "nom": "Tom Wilson",
+   "equipe": "WSH",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8476881": {
+   "nom": "Tomas Hertl",
+   "equipe": "VGK",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 48,
+   "gagnees": 27,
+   "moyenne": 12.0,
+   "statut": "officiel"
+  },
+  "8476882": {
+   "nom": "Teuvo Teravainen",
+   "equipe": "CHI",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "centre_aile"
+  },
+  "8476887": {
+   "nom": "Filip Forsberg",
+   "equipe": "NSH",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8476889": {
+   "nom": "Radek Faksa",
+   "equipe": "DAL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 22,
+   "gagnees": 7,
+   "moyenne": 7.33,
+   "statut": "officiel"
+  },
+  "8476905": {
+   "nom": "Chandler Stephenson",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 74,
+   "gagnees": 44,
+   "moyenne": 18.5,
+   "statut": "officiel"
+  },
+  "8476921": {
+   "nom": "Jordan Martinook",
+   "equipe": "CAR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 3,
+   "gagnees": 3,
+   "moyenne": 0.75,
+   "statut": "officiel"
+  },
+  "8476925": {
+   "nom": "Colton Sissons",
+   "equipe": "TOR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 27,
+   "gagnees": 16,
+   "moyenne": 6.75,
+   "statut": "officiel"
+  },
+  "8476927": {
+   "nom": "Teddy Blueger",
+   "equipe": "TOR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 22,
+   "gagnees": 10,
+   "moyenne": 5.5,
+   "statut": "officiel"
+  },
+  "8476981": {
+   "nom": "Josh Anderson",
+   "equipe": "MTL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8477021": {
+   "nom": "Alexander Kerfoot",
+   "equipe": "NSH",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "centre_aile"
+  },
+  "8477402": {
+   "nom": "Pavel Buchnevich",
+   "equipe": "STL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8477404": {
+   "nom": "Jake Guentzel",
+   "equipe": "TBL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 22,
+   "gagnees": 13,
+   "moyenne": 7.33,
+   "statut": "officiel"
+  },
+  "8477407": {
+   "nom": "Anthony Duclair",
+   "equipe": "NYI",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8477409": {
+   "nom": "Carter Verhaeghe",
+   "equipe": "FLA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.5,
+   "statut": "centre_aile"
+  },
+  "8477416": {
+   "nom": "Oliver Bjorkstrand",
+   "equipe": "NYR",
+   "pos": "R",
+   "matchs": 5,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.4,
+   "statut": "officiel"
+  },
+  "8477426": {
+   "nom": "Nick Paul",
+   "equipe": "TOR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 32,
+   "gagnees": 14,
+   "moyenne": 8.0,
+   "statut": "ailier_centre"
+  },
+  "8477429": {
+   "nom": "Andrew Copp",
+   "equipe": "DET",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 66,
+   "gagnees": 40,
+   "moyenne": 22.0,
+   "statut": "officiel"
+  },
+  "8477446": {
+   "nom": "Michael McCarron",
+   "equipe": "MIN",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 43,
+   "gagnees": 24,
+   "moyenne": 14.33,
+   "statut": "officiel"
+  },
+  "8477451": {
+   "nom": "Ryan Hartman",
+   "equipe": "MIN",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 32,
+   "gagnees": 18,
+   "moyenne": 10.67,
+   "statut": "ailier_centre"
+  },
+  "8477456": {
+   "nom": "J.T. Compher",
+   "equipe": "DET",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 26,
+   "gagnees": 11,
+   "moyenne": 13.0,
+   "statut": "officiel"
+  },
+  "8477476": {
+   "nom": "Artturi Lehkonen",
+   "equipe": "COL",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8477478": {
+   "nom": "William Carrier",
+   "equipe": "CAR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8477479": {
+   "nom": "Tyler Bertuzzi",
+   "equipe": "CHI",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8477492": {
+   "nom": "Nathan MacKinnon",
+   "equipe": "COL",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 37,
+   "gagnees": 17,
+   "moyenne": 18.5,
+   "statut": "officiel"
+  },
+  "8477493": {
+   "nom": "Aleksander Barkov",
+   "equipe": "FLA",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 26,
+   "gagnees": 14,
+   "moyenne": 13.0,
+   "statut": "officiel"
+  },
+  "8477496": {
+   "nom": "Elias Lindholm",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 69,
+   "gagnees": 41,
+   "moyenne": 17.25,
+   "statut": "officiel"
+  },
+  "8477497": {
+   "nom": "Sean Monahan",
+   "equipe": "CBJ",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 36,
+   "gagnees": 14,
+   "moyenne": 18.0,
+   "statut": "officiel"
+  },
+  "8477500": {
+   "nom": "Bo Horvat",
+   "equipe": "NYI",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 50,
+   "gagnees": 27,
+   "moyenne": 16.67,
+   "statut": "officiel"
+  },
+  "8477501": {
+   "nom": "Valeri Nichushkin",
+   "equipe": "CBJ",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8477505": {
+   "nom": "Alexander Wennberg",
+   "equipe": "SJS",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 45,
+   "gagnees": 25,
+   "moyenne": 15.0,
+   "statut": "officiel"
+  },
+  "8477511": {
+   "nom": "Anthony Mantha",
+   "equipe": "NJD",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8477527": {
+   "nom": "Ross Johnston",
+   "equipe": "STL",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8477903": {
+   "nom": "Garnet Hathaway",
+   "equipe": "FLA",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8477919": {
+   "nom": "Frederick Gaudreau",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 53,
+   "gagnees": 26,
+   "moyenne": 13.25,
+   "statut": "officiel"
+  },
+  "8477933": {
+   "nom": "Sam Reinhart",
+   "equipe": "FLA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 28,
+   "gagnees": 13,
+   "moyenne": 7.0,
+   "statut": "officiel"
+  },
+  "8477934": {
+   "nom": "Leon Draisaitl",
+   "equipe": "EDM",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 46,
+   "gagnees": 25,
+   "moyenne": 15.33,
+   "statut": "officiel"
+  },
+  "8477935": {
+   "nom": "Sam Bennett",
+   "equipe": "FLA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 51,
+   "gagnees": 22,
+   "moyenne": 12.75,
+   "statut": "officiel"
+  },
+  "8477939": {
+   "nom": "William Nylander",
+   "equipe": "TOR",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 7,
+   "gagnees": 2,
+   "moyenne": 1.75,
+   "statut": "officiel"
+  },
+  "8477940": {
+   "nom": "Nikolaj Ehlers",
+   "equipe": "CAR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8477946": {
+   "nom": "Dylan Larkin",
+   "equipe": "DET",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 17,
+   "gagnees": 11,
+   "moyenne": 17.0,
+   "statut": "officiel"
+  },
+  "8477949": {
+   "nom": "Alex Tuch",
+   "equipe": "WSH",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 9,
+   "gagnees": 2,
+   "moyenne": 4.5,
+   "statut": "officiel"
+  },
+  "8477951": {
+   "nom": "Nick Schmaltz",
+   "equipe": "UTA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 18,
+   "gagnees": 7,
+   "moyenne": 4.5,
+   "statut": "officiel"
+  },
+  "8477953": {
+   "nom": "Kasperi Kapanen",
+   "equipe": "EDM",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8477955": {
+   "nom": "Jared McCann",
+   "equipe": "SEA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8477956": {
+   "nom": "David Pastrnak",
+   "equipe": "BOS",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8477960": {
+   "nom": "Adrian Kempe",
+   "equipe": "LAK",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 1.67,
+   "statut": "officiel"
+  },
+  "8477964": {
+   "nom": "Ivan Barbashev",
+   "equipe": "VGK",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8477987": {
+   "nom": "Ryan Donato",
+   "equipe": "CHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 5,
+   "gagnees": 1,
+   "moyenne": 1.25,
+   "statut": "centre_aile"
+  },
+  "8477989": {
+   "nom": "Christian Dvorak",
+   "equipe": "PHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 59,
+   "gagnees": 32,
+   "moyenne": 14.75,
+   "statut": "officiel"
+  },
+  "8477998": {
+   "nom": "Warren Foegele",
+   "equipe": "OTT",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8478010": {
+   "nom": "Brayden Point",
+   "equipe": "TBL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 27,
+   "gagnees": 12,
+   "moyenne": 9.0,
+   "statut": "officiel"
+  },
+  "8478020": {
+   "nom": "Michael Amadio",
+   "equipe": "OTT",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478042": {
+   "nom": "Viktor Arvidsson",
+   "equipe": "DET",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.67,
+   "statut": "officiel"
+  },
+  "8478046": {
+   "nom": "Danton Heinen",
+   "equipe": "CBJ",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 12,
+   "gagnees": 5,
+   "moyenne": 6.0,
+   "statut": "officiel"
+  },
+  "8478109": {
+   "nom": "Victor Olofsson",
+   "equipe": "VGK",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.25,
+   "statut": "officiel"
+  },
+  "8478133": {
+   "nom": "Jake Evans",
+   "equipe": "MTL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 49,
+   "gagnees": 27,
+   "moyenne": 16.33,
+   "statut": "officiel"
+  },
+  "8478147": {
+   "nom": "Bokondji Imama",
+   "equipe": "FLA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8478173": {
+   "nom": "Hayden Hodgson",
+   "equipe": "OTT",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478233": {
+   "nom": "Andrew Mangiapane",
+   "equipe": "CHI",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478366": {
+   "nom": "Frank Vatrano",
+   "equipe": "ANA",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478398": {
+   "nom": "Kyle Connor",
+   "equipe": "WPG",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478401": {
+   "nom": "Pavel Zacha",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 57,
+   "gagnees": 30,
+   "moyenne": 14.25,
+   "statut": "officiel"
+  },
+  "8478402": {
+   "nom": "Connor McDavid",
+   "equipe": "EDM",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 39,
+   "gagnees": 19,
+   "moyenne": 13.0,
+   "statut": "officiel"
+  },
+  "8478403": {
+   "nom": "Jack Eichel",
+   "equipe": "VGK",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 63,
+   "gagnees": 29,
+   "moyenne": 15.75,
+   "statut": "officiel"
+  },
+  "8478413": {
+   "nom": "Jordan Greenway",
+   "equipe": "CHI",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8478414": {
+   "nom": "Timo Meier",
+   "equipe": "NJD",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 1.33,
+   "statut": "officiel"
+  },
+  "8478420": {
+   "nom": "Mikko Rantanen",
+   "equipe": "DAL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 2.0,
+   "statut": "officiel"
+  },
+  "8478421": {
+   "nom": "A.J. Greer",
+   "equipe": "ANA",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478424": {
+   "nom": "Jansen Harkins",
+   "equipe": "TBL",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 4,
+   "gagnees": 0,
+   "moyenne": 4.0,
+   "statut": "officiel"
+  },
+  "8478427": {
+   "nom": "Sebastian Aho",
+   "equipe": "CAR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 54,
+   "gagnees": 35,
+   "moyenne": 13.5,
+   "statut": "officiel"
+  },
+  "8478434": {
+   "nom": "Keegan Kolesar",
+   "equipe": "DET",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478438": {
+   "nom": "Tommy Novak",
+   "equipe": "PIT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 34,
+   "gagnees": 9,
+   "moyenne": 11.33,
+   "statut": "officiel"
+  },
+  "8478439": {
+   "nom": "Travis Konecny",
+   "equipe": "PHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 4,
+   "gagnees": 3,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8478440": {
+   "nom": "Dylan Strome",
+   "equipe": "WSH",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 25,
+   "gagnees": 13,
+   "moyenne": 12.5,
+   "statut": "officiel"
+  },
+  "8478444": {
+   "nom": "Brock Boeser",
+   "equipe": "VAN",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8478449": {
+   "nom": "Roope Hintz",
+   "equipe": "DAL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 35,
+   "gagnees": 18,
+   "moyenne": 11.67,
+   "statut": "officiel"
+  },
+  "8478458": {
+   "nom": "Jack Roslovic",
+   "equipe": "TOR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 12,
+   "gagnees": 6,
+   "moyenne": 3.0,
+   "statut": "officiel"
+  },
+  "8478462": {
+   "nom": "Nicolas Roy",
+   "equipe": "COL",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 13,
+   "gagnees": 6,
+   "moyenne": 6.5,
+   "statut": "officiel"
+  },
+  "8478463": {
+   "nom": "Anthony Beauvillier",
+   "equipe": "WSH",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478472": {
+   "nom": "Mathieu Joseph",
+   "equipe": "EDM",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478474": {
+   "nom": "Lawson Crouse",
+   "equipe": "UTA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8478483": {
+   "nom": "Mitch Marner",
+   "equipe": "VGK",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478493": {
+   "nom": "Joel Eriksson Ek",
+   "equipe": "MIN",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 53,
+   "gagnees": 24,
+   "moyenne": 17.67,
+   "statut": "officiel"
+  },
+  "8478498": {
+   "nom": "Jake DeBrusk",
+   "equipe": "VAN",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8478508": {
+   "nom": "Yakov Trenin",
+   "equipe": "MIN",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "centre_aile"
+  },
+  "8478519": {
+   "nom": "Anthony Cirelli",
+   "equipe": "TBL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 50,
+   "gagnees": 26,
+   "moyenne": 16.67,
+   "statut": "officiel"
+  },
+  "8478542": {
+   "nom": "Evan Rodrigues",
+   "equipe": "NJD",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 49,
+   "gagnees": 26,
+   "moyenne": 16.33,
+   "statut": "officiel"
+  },
+  "8478550": {
+   "nom": "Artemi Panarin",
+   "equipe": "LAK",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478569": {
+   "nom": "Noel Acciari",
+   "equipe": "PHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 51,
+   "gagnees": 29,
+   "moyenne": 12.75,
+   "statut": "officiel"
+  },
+  "8478831": {
+   "nom": "Kevin Stenlund",
+   "equipe": "UTA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 49,
+   "gagnees": 27,
+   "moyenne": 12.25,
+   "statut": "officiel"
+  },
+  "8478856": {
+   "nom": "Conor Garland",
+   "equipe": "CBJ",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478864": {
+   "nom": "Kirill Kaprizov",
+   "equipe": "MIN",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 1.33,
+   "statut": "officiel"
+  },
+  "8478891": {
+   "nom": "Mason Appleton",
+   "equipe": "DET",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8478975": {
+   "nom": "Mason Marchment",
+   "equipe": "SJS",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8479066": {
+   "nom": "Ryan Lomberg",
+   "equipe": "CBJ",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8479314": {
+   "nom": "Matthew Tkachuk",
+   "equipe": "FLA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479318": {
+   "nom": "Auston Matthews",
+   "equipe": "TOR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 54,
+   "gagnees": 27,
+   "moyenne": 13.5,
+   "statut": "officiel"
+  },
+  "8479336": {
+   "nom": "Carl Grundstrom",
+   "equipe": "PHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479337": {
+   "nom": "Alex DeBrincat",
+   "equipe": "DET",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8479343": {
+   "nom": "Clayton Keller",
+   "equipe": "UTA",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479346": {
+   "nom": "Dillon Dube",
+   "equipe": "STL",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8479351": {
+   "nom": "Sam Steel",
+   "equipe": "DAL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 4,
+   "gagnees": 4,
+   "moyenne": 1.33,
+   "statut": "centre_aile"
+  },
+  "8479353": {
+   "nom": "Brett Howden",
+   "equipe": "VGK",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 3,
+   "gagnees": 3,
+   "moyenne": 0.75,
+   "statut": "centre_aile"
+  },
+  "8479359": {
+   "nom": "Beck Malenstyn",
+   "equipe": "BUF",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479365": {
+   "nom": "Trent Frederic",
+   "equipe": "EDM",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 1.67,
+   "statut": "centre_aile"
+  },
+  "8479368": {
+   "nom": "Max Jones",
+   "equipe": "EDM",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8479385": {
+   "nom": "Jordan Kyrou",
+   "equipe": "WSH",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479400": {
+   "nom": "Pierre-Luc Dubois",
+   "equipe": "WSH",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 29,
+   "gagnees": 11,
+   "moyenne": 14.5,
+   "statut": "officiel"
+  },
+  "8479407": {
+   "nom": "Jesper Bratt",
+   "equipe": "NJD",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479420": {
+   "nom": "Tage Thompson",
+   "equipe": "BUF",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 42,
+   "gagnees": 20,
+   "moyenne": 14.0,
+   "statut": "officiel"
+  },
+  "8479520": {
+   "nom": "Brandon Duhaime",
+   "equipe": "TOR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8479525": {
+   "nom": "Ross Colton",
+   "equipe": "NSH",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "centre_aile"
+  },
+  "8479542": {
+   "nom": "Brandon Hagel",
+   "equipe": "TBL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8479619": {
+   "nom": "Michael Carcone",
+   "equipe": "UTA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8479661": {
+   "nom": "Tanner Jeannot",
+   "equipe": "BOS",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.75,
+   "statut": "officiel"
+  },
+  "8479671": {
+   "nom": "Mathieu Olivier",
+   "equipe": "CBJ",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479675": {
+   "nom": "Trevor Moore",
+   "equipe": "LAK",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479705": {
+   "nom": "Jeffrey Viel",
+   "equipe": "TBL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479772": {
+   "nom": "Zack MacEwen",
+   "equipe": "TOR",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8479941": {
+   "nom": "Justin Danforth",
+   "equipe": "BUF",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 7,
+   "gagnees": 4,
+   "moyenne": 7.0,
+   "statut": "officiel"
+  },
+  "8479987": {
+   "nom": "Morgan Geekie",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 10,
+   "gagnees": 3,
+   "moyenne": 2.5,
+   "statut": "officiel"
+  },
+  "8479992": {
+   "nom": "Michael Rasmussen",
+   "equipe": "DET",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.0,
+   "statut": "centre_aile"
+  },
+  "8479996": {
+   "nom": "Cody Glass",
+   "equipe": "NJD",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 35,
+   "gagnees": 20,
+   "moyenne": 11.67,
+   "statut": "officiel"
+  },
+  "8479999": {
+   "nom": "Casey Mittelstadt",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 1.0,
+   "statut": "centre_aile"
+  },
+  "8480002": {
+   "nom": "Nico Hischier",
+   "equipe": "NJD",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 63,
+   "gagnees": 33,
+   "moyenne": 21.0,
+   "statut": "officiel"
+  },
+  "8480003": {
+   "nom": "Jesper Boqvist",
+   "equipe": "NJD",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480009": {
+   "nom": "Eeli Tolvanen",
+   "equipe": "NYR",
+   "pos": "R",
+   "matchs": 5,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.2,
+   "statut": "officiel"
+  },
+  "8480012": {
+   "nom": "Elias Pettersson",
+   "equipe": "VAN",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 80,
+   "gagnees": 41,
+   "moyenne": 20.0,
+   "statut": "officiel"
+  },
+  "8480014": {
+   "nom": "Gabriel Vilardi",
+   "equipe": "WPG",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 9,
+   "gagnees": 6,
+   "moyenne": 3.0,
+   "statut": "officiel"
+  },
+  "8480015": {
+   "nom": "Owen Tippett",
+   "equipe": "PHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480018": {
+   "nom": "Nick Suzuki",
+   "equipe": "MTL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 54,
+   "gagnees": 26,
+   "moyenne": 18.0,
+   "statut": "officiel"
+  },
+  "8480023": {
+   "nom": "Robert Thomas",
+   "equipe": "STL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 65,
+   "gagnees": 31,
+   "moyenne": 21.67,
+   "statut": "officiel"
+  },
+  "8480027": {
+   "nom": "Jason Robertson",
+   "equipe": "DAL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480028": {
+   "nom": "Morgan Frost",
+   "equipe": "CGY",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 36,
+   "gagnees": 20,
+   "moyenne": 12.0,
+   "statut": "officiel"
+  },
+  "8480029": {
+   "nom": "Alex Formenton",
+   "equipe": "EDM",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480039": {
+   "nom": "Martin Necas",
+   "equipe": "COL",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480064": {
+   "nom": "Josh Norris",
+   "equipe": "BUF",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 21,
+   "gagnees": 12,
+   "moyenne": 7.0,
+   "statut": "officiel"
+  },
+  "8480068": {
+   "nom": "Ryan Poehling",
+   "equipe": "ANA",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 19,
+   "gagnees": 4,
+   "moyenne": 9.5,
+   "statut": "officiel"
+  },
+  "8480074": {
+   "nom": "Alexandre Texier",
+   "equipe": "MTL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480113": {
+   "nom": "Alex Iafallo",
+   "equipe": "WPG",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8480185": {
+   "nom": "Eetu Luostarinen",
+   "equipe": "FLA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 1.0,
+   "statut": "centre_aile"
+  },
+  "8480188": {
+   "nom": "Fabian Zetterlund",
+   "equipe": "OTT",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8480208": {
+   "nom": "Drake Batherson",
+   "equipe": "OTT",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8480220": {
+   "nom": "Noah Cates",
+   "equipe": "PHI",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 43,
+   "gagnees": 24,
+   "moyenne": 10.75,
+   "statut": "ailier_centre"
+  },
+  "8480281": {
+   "nom": "Alexey Toropchenko",
+   "equipe": "STL",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480289": {
+   "nom": "Morgan Barron",
+   "equipe": "WPG",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 1.33,
+   "statut": "centre_aile"
+  },
+  "8480355": {
+   "nom": "Mark Kastelic",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 14,
+   "gagnees": 5,
+   "moyenne": 3.5,
+   "statut": "officiel"
+  },
+  "8480448": {
+   "nom": "Parker Kelly",
+   "equipe": "COL",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8480459": {
+   "nom": "Pius Suter",
+   "equipe": "STL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 27,
+   "gagnees": 10,
+   "moyenne": 9.0,
+   "statut": "officiel"
+  },
+  "8480748": {
+   "nom": "Kiefer Sherwood",
+   "equipe": "SJS",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480762": {
+   "nom": "Eric Robinson",
+   "equipe": "CAR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480797": {
+   "nom": "Joel Farabee",
+   "equipe": "CGY",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8480801": {
+   "nom": "Brady Tkachuk",
+   "equipe": "FLA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 20,
+   "gagnees": 13,
+   "moyenne": 5.0,
+   "statut": "ailier_centre"
+  },
+  "8480802": {
+   "nom": "Ryan McLeod",
+   "equipe": "BUF",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 34,
+   "gagnees": 19,
+   "moyenne": 11.33,
+   "statut": "officiel"
+  },
+  "8480813": {
+   "nom": "Joseph Veleno",
+   "equipe": "NYR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 39,
+   "gagnees": 21,
+   "moyenne": 9.75,
+   "statut": "officiel"
+  },
+  "8480829": {
+   "nom": "Jesperi Kotkaniemi",
+   "equipe": "CAR",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480830": {
+   "nom": "Andrei Svechnikov",
+   "equipe": "CAR",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8480835": {
+   "nom": "Jack Drury",
+   "equipe": "NSH",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 34,
+   "gagnees": 15,
+   "moyenne": 11.33,
+   "statut": "officiel"
+  },
+  "8480840": {
+   "nom": "Oskar Bäck",
+   "equipe": "DAL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.67,
+   "statut": "centre_aile"
+  },
+  "8480842": {
+   "nom": "Filip Hallander",
+   "equipe": "PIT",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480848": {
+   "nom": "Ty Dellandrea",
+   "equipe": "SJS",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 11,
+   "gagnees": 3,
+   "moyenne": 11.0,
+   "statut": "officiel"
+  },
+  "8480849": {
+   "nom": "Barrett Hayton",
+   "equipe": "UTA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 46,
+   "gagnees": 20,
+   "moyenne": 11.5,
+   "statut": "officiel"
+  },
+  "8480855": {
+   "nom": "Jack McBain",
+   "equipe": "UTA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 7,
+   "gagnees": 6,
+   "moyenne": 1.75,
+   "statut": "centre_aile"
+  },
+  "8480870": {
+   "nom": "Bo Groulx",
+   "equipe": "TOR",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.67,
+   "statut": "centre_aile"
+  },
+  "8480876": {
+   "nom": "Curtis Douglas",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480893": {
+   "nom": "Kirill Marchenko",
+   "equipe": "TOR",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8480980": {
+   "nom": "Connor Dewar",
+   "equipe": "PIT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.0,
+   "statut": "centre_aile"
+  },
+  "8480995": {
+   "nom": "Pontus Holmberg",
+   "equipe": "TBL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8481013": {
+   "nom": "Jonatan Berggren",
+   "equipe": "STL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8481024": {
+   "nom": "Linus Karlsson",
+   "equipe": "VAN",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.5,
+   "statut": "centre_aile"
+  },
+  "8481028": {
+   "nom": "Martin Pospisil",
+   "equipe": "CGY",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 29,
+   "gagnees": 13,
+   "moyenne": 9.67,
+   "statut": "officiel"
+  },
+  "8481032": {
+   "nom": "Paul Cotter",
+   "equipe": "VAN",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 42,
+   "gagnees": 22,
+   "moyenne": 10.5,
+   "statut": "ailier_centre"
+  },
+  "8481043": {
+   "nom": "Cole Koepke",
+   "equipe": "WPG",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481068": {
+   "nom": "Yegor Sharangovich",
+   "equipe": "CGY",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 5,
+   "gagnees": 4,
+   "moyenne": 1.67,
+   "statut": "centre_aile"
+  },
+  "8481481": {
+   "nom": "Blake Lizotte",
+   "equipe": "PIT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 41,
+   "gagnees": 19,
+   "moyenne": 13.67,
+   "statut": "officiel"
+  },
+  "8481522": {
+   "nom": "Peyton Krebs",
+   "equipe": "BUF",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
+   "statut": "centre_aile"
+  },
+  "8481523": {
+   "nom": "Kirby Dach",
+   "equipe": "MTL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 1.33,
+   "statut": "centre_aile"
+  },
+  "8481528": {
+   "nom": "Dylan Cozens",
+   "equipe": "OTT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 43,
+   "gagnees": 22,
+   "moyenne": 14.33,
+   "statut": "officiel"
+  },
+  "8481532": {
+   "nom": "Alex Turcotte",
+   "equipe": "LAK",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 24,
+   "gagnees": 12,
+   "moyenne": 8.0,
+   "statut": "officiel"
+  },
+  "8481533": {
+   "nom": "Trevor Zegras",
+   "equipe": "PHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 45,
+   "gagnees": 17,
+   "moyenne": 11.25,
+   "statut": "officiel"
+  },
+  "8481535": {
+   "nom": "Nils Hoglander",
+   "equipe": "NSH",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8481538": {
+   "nom": "Judd Caulfield",
+   "equipe": "ANA",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8481540": {
+   "nom": "Cole Caufield",
+   "equipe": "MTL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8481553": {
+   "nom": "Bobby Brink",
+   "equipe": "MIN",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8481554": {
+   "nom": "Kaapo Kakko",
+   "equipe": "SEA",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481557": {
+   "nom": "Matt Boldy",
+   "equipe": "MIN",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 5,
+   "gagnees": 1,
+   "moyenne": 1.67,
+   "statut": "officiel"
+  },
+  "8481559": {
+   "nom": "Jack Hughes",
+   "equipe": "NJD",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 30,
+   "gagnees": 7,
+   "moyenne": 10.0,
+   "statut": "officiel"
+  },
+  "8481580": {
+   "nom": "Connor McMichael",
+   "equipe": "STL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 1.67,
+   "statut": "officiel"
+  },
+  "8481582": {
+   "nom": "Nick Robertson",
+   "equipe": "PIT",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8481596": {
+   "nom": "Shane Pinto",
+   "equipe": "OTT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 45,
+   "gagnees": 20,
+   "moyenne": 15.0,
+   "statut": "officiel"
+  },
+  "8481601": {
+   "nom": "Simon Holmstrom",
+   "equipe": "NYI",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481604": {
+   "nom": "Pavel Dorofeyev",
+   "equipe": "NYR",
+   "pos": "R",
+   "matchs": 5,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481617": {
+   "nom": "Vasily Podkolzin",
+   "equipe": "EDM",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8481618": {
+   "nom": "Alex Newhook",
+   "equipe": "MTL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 31,
+   "gagnees": 20,
+   "moyenne": 10.33,
+   "statut": "officiel"
+  },
+  "8481624": {
+   "nom": "Ilya Mikheyev",
+   "equipe": "TBL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481641": {
+   "nom": "Joel Kiviranta",
+   "equipe": "DAL",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481656": {
+   "nom": "Aliaksei Protas",
+   "equipe": "WSH",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 1.5,
+   "statut": "officiel"
+  },
+  "8481711": {
+   "nom": "Matias Maccelli",
+   "equipe": "NYI",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481716": {
+   "nom": "Dmitri Voronkov",
+   "equipe": "CBJ",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8481721": {
+   "nom": "Arseny Gritsyuk",
+   "equipe": "NJD",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481725": {
+   "nom": "Elmer Soderblom",
+   "equipe": "PIT",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481726": {
+   "nom": "Adam Edstrom",
+   "equipe": "NSH",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "centre_aile"
+  },
+  "8481732": {
+   "nom": "Andre Lee",
+   "equipe": "LAK",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481754": {
+   "nom": "Nikita Nesterenko",
+   "equipe": "ANA",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481789": {
+   "nom": "Tye Kartye",
+   "equipe": "NYR",
+   "pos": "L",
+   "matchs": 5,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
+   "statut": "officiel"
+  },
+  "8482055": {
+   "nom": "Drew O'Connor",
+   "equipe": "VAN",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 6,
+   "gagnees": 4,
+   "moyenne": 1.5,
+   "statut": "officiel"
+  },
+  "8482062": {
+   "nom": "Cole Smith",
+   "equipe": "CHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8482074": {
+   "nom": "Connor Zary",
+   "equipe": "CGY",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 3,
+   "gagnees": 0,
+   "moyenne": 1.5,
+   "statut": "officiel"
+  },
+  "8482077": {
+   "nom": "Dylan Holloway",
+   "equipe": "STL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482078": {
+   "nom": "Lucas Raymond",
+   "equipe": "DET",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482079": {
+   "nom": "Marco Rossi",
+   "equipe": "VAN",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 20,
+   "gagnees": 10,
+   "moyenne": 5.0,
+   "statut": "officiel"
+  },
+  "8482088": {
+   "nom": "Justin Sourdif",
+   "equipe": "WSH",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.5,
+   "statut": "officiel"
+  },
+  "8482089": {
+   "nom": "Jake Neighbours",
+   "equipe": "STL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482092": {
+   "nom": "Ridly Greig",
+   "equipe": "OTT",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 2.0,
+   "statut": "officiel"
+  },
+  "8482097": {
+   "nom": "Jack Quinn",
+   "equipe": "BUF",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482109": {
+   "nom": "Alexis Lafrenière",
+   "equipe": "NYR",
+   "pos": "L",
+   "matchs": 5,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8482110": {
+   "nom": "Dawson Mercer",
+   "equipe": "NJD",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "centre_aile"
+  },
+  "8482113": {
+   "nom": "Anton Lundell",
+   "equipe": "FLA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 56,
+   "gagnees": 32,
+   "moyenne": 14.0,
+   "statut": "officiel"
+  },
+  "8482116": {
+   "nom": "Tim Stützle",
+   "equipe": "OTT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 44,
+   "gagnees": 26,
+   "moyenne": 14.67,
+   "statut": "officiel"
+  },
+  "8482118": {
+   "nom": "Sam Colangelo",
+   "equipe": "ANA",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482124": {
+   "nom": "Quinton Byfield",
+   "equipe": "LAK",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 54,
+   "gagnees": 37,
+   "moyenne": 18.0,
+   "statut": "ailier_centre"
+  },
+  "8482145": {
+   "nom": "Mavrik Bourque",
+   "equipe": "NSH",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 29,
+   "gagnees": 14,
+   "moyenne": 9.67,
+   "statut": "officiel"
+  },
+  "8482146": {
+   "nom": "Luke Evangelista",
+   "equipe": "NJD",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482148": {
+   "nom": "Hendrix Lapierre",
+   "equipe": "PIT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 15,
+   "gagnees": 5,
+   "moyenne": 5.0,
+   "statut": "officiel"
+  },
+  "8482149": {
+   "nom": "Cole Perfetti",
+   "equipe": "WPG",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 0,
+   "moyenne": 1.0,
+   "statut": "centre_aile"
+  },
+  "8482155": {
+   "nom": "Alex Laferriere",
+   "equipe": "LAK",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8482157": {
+   "nom": "Will Cuylle",
+   "equipe": "NYR",
+   "pos": "L",
+   "matchs": 5,
+   "misesAuJeu": 17,
+   "gagnees": 9,
+   "moyenne": 3.4,
+   "statut": "officiel"
+  },
+  "8482159": {
+   "nom": "Tyson Foerster",
+   "equipe": "PHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482175": {
+   "nom": "JJ Peterka",
+   "equipe": "BOS",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482177": {
+   "nom": "Marat Khusnutdinov",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.5,
+   "statut": "centre_aile"
+  },
+  "8482201": {
+   "nom": "Gage Goncalves",
+   "equipe": "TBL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "centre_aile"
+  },
+  "8482259": {
+   "nom": "Bobby McMann",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.25,
+   "statut": "centre_aile"
+  },
+  "8482408": {
+   "nom": "Jeff Malott",
+   "equipe": "ANA",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482460": {
+   "nom": "Matt Rempe",
+   "equipe": "NYR",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482475": {
+   "nom": "Egor Chinakhov",
+   "equipe": "PIT",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482476": {
+   "nom": "Emil Heineman",
+   "equipe": "NYI",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8482659": {
+   "nom": "Josh Doan",
+   "equipe": "BUF",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8482660": {
+   "nom": "Kent Johnson",
+   "equipe": "CBJ",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8482665": {
+   "nom": "Matty Beniers",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 61,
+   "gagnees": 26,
+   "moyenne": 15.25,
+   "statut": "officiel"
+  },
+  "8482667": {
+   "nom": "William Eklund",
+   "equipe": "OTT",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482679": {
+   "nom": "Matt Coronato",
+   "equipe": "CGY",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 21,
+   "gagnees": 14,
+   "moyenne": 7.0,
+   "statut": "ailier_centre"
+  },
+  "8482691": {
+   "nom": "Aatu Räty",
+   "equipe": "VAN",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 26,
+   "gagnees": 16,
+   "moyenne": 13.0,
+   "statut": "officiel"
+  },
+  "8482699": {
+   "nom": "Dylan Guenther",
+   "equipe": "UTA",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8482702": {
+   "nom": "Logan Stankoven",
+   "equipe": "CAR",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 43,
+   "gagnees": 16,
+   "moyenne": 10.75,
+   "statut": "officiel"
+  },
+  "8482703": {
+   "nom": "Colton Dach",
+   "equipe": "EDM",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 31,
+   "gagnees": 17,
+   "moyenne": 10.33,
+   "statut": "officiel"
+  },
+  "8482705": {
+   "nom": "Cole Sillinger",
+   "equipe": "CBJ",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8482713": {
+   "nom": "Mackie Samoskevich",
+   "equipe": "SEA",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482720": {
+   "nom": "Matthew Knies",
+   "equipe": "CBJ",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8482726": {
+   "nom": "Samuel Helenius",
+   "equipe": "LAK",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 5,
+   "gagnees": 1,
+   "moyenne": 5.0,
+   "statut": "officiel"
+  },
+  "8482737": {
+   "nom": "Zachary Bolduc",
+   "equipe": "MTL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8482740": {
+   "nom": "Wyatt Johnston",
+   "equipe": "DAL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 26,
+   "gagnees": 11,
+   "moyenne": 8.67,
+   "statut": "officiel"
+  },
+  "8482745": {
+   "nom": "Mason McTavish",
+   "equipe": "STL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 46,
+   "gagnees": 25,
+   "moyenne": 15.33,
+   "statut": "officiel"
+  },
+  "8482747": {
+   "nom": "Brennan Othmann",
+   "equipe": "CGY",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482751": {
+   "nom": "Ryan Winterton",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.25,
+   "statut": "centre_aile"
+  },
+  "8482758": {
+   "nom": "Ville Koivunen",
+   "equipe": "PIT",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482765": {
+   "nom": "Isak Rosen",
+   "equipe": "WPG",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482768": {
+   "nom": "Fedor Svechkov",
+   "equipe": "COL",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 13,
+   "gagnees": 5,
+   "moyenne": 6.5,
+   "statut": "officiel"
+  },
+  "8482784": {
+   "nom": "Zach Dean",
+   "equipe": "STL",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 6,
+   "gagnees": 2,
+   "moyenne": 6.0,
+   "statut": "officiel"
+  },
+  "8482802": {
+   "nom": "Carter Mazur",
+   "equipe": "DET",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482809": {
+   "nom": "Jackson Blake",
+   "equipe": "CAR",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482859": {
+   "nom": "Zack Ostapchuk",
+   "equipe": "SJS",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 23,
+   "gagnees": 6,
+   "moyenne": 7.67,
+   "statut": "officiel"
+  },
+  "8482874": {
+   "nom": "Jacob Melanson",
+   "equipe": "SEA",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8482877": {
+   "nom": "Jaroslav Chmelar",
+   "equipe": "NYR",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8483395": {
+   "nom": "Arshdeep Bains",
+   "equipe": "VAN",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8483431": {
+   "nom": "Logan Cooley",
+   "equipe": "UTA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 47,
+   "gagnees": 24,
+   "moyenne": 11.75,
+   "statut": "officiel"
+  },
+  "8483445": {
+   "nom": "Cutter Gauthier",
+   "equipe": "ANA",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8483447": {
+   "nom": "Conor Geekie",
+   "equipe": "TBL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 20,
+   "gagnees": 9,
+   "moyenne": 6.67,
+   "statut": "officiel"
+  },
+  "8483450": {
+   "nom": "Ryan Greene",
+   "equipe": "CHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 58,
+   "gagnees": 23,
+   "moyenne": 14.5,
+   "statut": "officiel"
+  },
+  "8483455": {
+   "nom": "Isaac Howard",
+   "equipe": "EDM",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8483464": {
+   "nom": "Marco Kasper",
+   "equipe": "DET",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 14,
+   "gagnees": 9,
+   "moyenne": 14.0,
+   "statut": "officiel"
+  },
+  "8483468": {
+   "nom": "Jiri Kulich",
+   "equipe": "BUF",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 24,
+   "gagnees": 12,
+   "moyenne": 8.0,
+   "statut": "officiel"
+  },
+  "8483471": {
+   "nom": "Brad Lambert",
+   "equipe": "WPG",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 1.0,
+   "statut": "centre_aile"
+  },
+  "8483476": {
+   "nom": "Jonathan Lekkerimäki",
+   "equipe": "VAN",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8483489": {
+   "nom": "Fraser Minten",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 38,
+   "gagnees": 15,
+   "moyenne": 9.5,
+   "statut": "officiel"
+  },
+  "8483493": {
+   "nom": "Frank Nazar",
+   "equipe": "CHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 64,
+   "gagnees": 29,
+   "moyenne": 16.0,
+   "statut": "officiel"
+  },
+  "8483499": {
+   "nom": "Liam Ohgren",
+   "equipe": "VAN",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8483500": {
+   "nom": "Noah Ostlund",
+   "equipe": "BUF",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 31,
+   "gagnees": 14,
+   "moyenne": 10.33,
+   "statut": "officiel"
+  },
+  "8483505": {
+   "nom": "Matthew Poitras",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 7,
+   "gagnees": 2,
+   "moyenne": 7.0,
+   "statut": "officiel"
+  },
+  "8483513": {
+   "nom": "Reid Schaefer",
+   "equipe": "NSH",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8483515": {
+   "nom": "Juraj Slafkovský",
+   "equipe": "MTL",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8483516": {
+   "nom": "Jimmy Snuggerud",
+   "equipe": "STL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8483524": {
+   "nom": "Shane Wright",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 17,
+   "gagnees": 7,
+   "moyenne": 4.25,
+   "statut": "officiel"
+  },
+  "8483525": {
+   "nom": "Danila Yurov",
+   "equipe": "MIN",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 24,
+   "gagnees": 12,
+   "moyenne": 8.0,
+   "statut": "ailier_centre"
+  },
+  "8483553": {
+   "nom": "Marc Gatcomb",
+   "equipe": "VGK",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "centre_aile"
+  },
+  "8483570": {
+   "nom": "Ben Meyers",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 2.5,
+   "statut": "officiel"
+  },
+  "8483609": {
+   "nom": "Adam Klapka",
+   "equipe": "CGY",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8483676": {
+   "nom": "Stephen Halliday",
+   "equipe": "OTT",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 19,
+   "gagnees": 8,
+   "moyenne": 6.33,
+   "statut": "officiel"
+  },
+  "8483690": {
+   "nom": "Noah Laba",
+   "equipe": "NYR",
+   "pos": "C",
+   "matchs": 5,
+   "misesAuJeu": 53,
+   "gagnees": 25,
+   "moyenne": 10.6,
+   "statut": "officiel"
+  },
+  "8483695": {
+   "nom": "Amadeus Lombardi",
+   "equipe": "NJD",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "centre_aile"
+  },
+  "8483731": {
+   "nom": "Alex Bump",
+   "equipe": "PHI",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8483771": {
+   "nom": "Sandis Vilmanis",
+   "equipe": "FLA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8483808": {
+   "nom": "Andrei Kuzmenko",
+   "equipe": "PIT",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8483890": {
+   "nom": "Braeden Bowman",
+   "equipe": "VGK",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484136": {
+   "nom": "Max Sasson",
+   "equipe": "VAN",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 39,
+   "gagnees": 13,
+   "moyenne": 9.75,
+   "statut": "officiel"
+  },
+  "8484142": {
+   "nom": "Denver Barkey",
+   "equipe": "PHI",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8484145": {
+   "nom": "Zach Benson",
+   "equipe": "BUF",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8484153": {
+   "nom": "Leo Carlsson",
+   "equipe": "ANA",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 24,
+   "gagnees": 11,
+   "moyenne": 12.0,
+   "statut": "officiel"
+  },
+  "8484158": {
+   "nom": "Easton Cowan",
+   "equipe": "TOR",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484160": {
+   "nom": "Nate Danielson",
+   "equipe": "DET",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 22,
+   "gagnees": 12,
+   "moyenne": 7.33,
+   "statut": "officiel"
+  },
+  "8484164": {
+   "nom": "Dalibor Dvorsky",
+   "equipe": "STL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 32,
+   "gagnees": 13,
+   "moyenne": 10.67,
+   "statut": "ailier_centre"
+  },
+  "8484166": {
+   "nom": "Adam Fantilli",
+   "equipe": "CBJ",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 40,
+   "gagnees": 31,
+   "moyenne": 20.0,
+   "statut": "officiel"
+  },
+  "8484180": {
+   "nom": "Samuel Honzek",
+   "equipe": "CGY",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
+   "statut": "officiel"
+  },
+  "8484185": {
+   "nom": "Nick Lardis",
+   "equipe": "CHI",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484186": {
+   "nom": "Ryan Leonard",
+   "equipe": "WSH",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484197": {
+   "nom": "Oliver Moore",
+   "equipe": "CHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 16,
+   "gagnees": 10,
+   "moyenne": 4.0,
+   "statut": "officiel"
+  },
+  "8484210": {
+   "nom": "Gabe Perreault",
+   "equipe": "NYR",
+   "pos": "R",
+   "matchs": 5,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484221": {
+   "nom": "Calum Ritchie",
+   "equipe": "NYI",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 19,
+   "gagnees": 7,
+   "moyenne": 6.33,
+   "statut": "officiel"
+  },
+  "8484227": {
+   "nom": "Will Smith",
+   "equipe": "SJS",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 4,
+   "gagnees": 3,
+   "moyenne": 1.33,
+   "statut": "centre_aile"
+  },
+  "8484241": {
+   "nom": "Matthew Wood",
+   "equipe": "NSH",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 30,
+   "gagnees": 10,
+   "moyenne": 10.0,
+   "statut": "ailier_centre"
+  },
+  "8484387": {
+   "nom": "Matvei Michkov",
+   "equipe": "PHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 4,
+   "gagnees": 3,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8484388": {
+   "nom": "Daniil But",
+   "equipe": "UTA",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.75,
+   "statut": "officiel"
+  },
+  "8484390": {
+   "nom": "Roman Kantserov",
+   "equipe": "CHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 37,
+   "gagnees": 16,
+   "moyenne": 9.25,
+   "statut": "ailier_centre"
+  },
+  "8484403": {
+   "nom": "Florian Xhekaj",
+   "equipe": "MTL",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8484471": {
+   "nom": "Emmitt Finnie",
+   "equipe": "DET",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 25,
+   "gagnees": 9,
+   "moyenne": 8.33,
+   "statut": "officiel"
+  },
+  "8484509": {
+   "nom": "Josh Samanski",
+   "equipe": "EDM",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 14,
+   "gagnees": 7,
+   "moyenne": 7.0,
+   "statut": "officiel"
+  },
+  "8484762": {
+   "nom": "Beckett Sennecke",
+   "equipe": "ANA",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.5,
+   "statut": "officiel"
+  },
+  "8484786": {
+   "nom": "Cole Beaudoin",
+   "equipe": "NYR",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 11,
+   "gagnees": 6,
+   "moyenne": 11.0,
+   "statut": "officiel"
+  },
+  "8484794": {
+   "nom": "Michael Brandsegg-Nygård",
+   "equipe": "DET",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484797": {
+   "nom": "Konsta Helenius",
+   "equipe": "BUF",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.33,
+   "statut": "centre_aile"
+  },
+  "8484800": {
+   "nom": "Berkly Catton",
+   "equipe": "SEA",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 30,
+   "gagnees": 14,
+   "moyenne": 7.5,
+   "statut": "officiel"
+  },
+  "8484801": {
+   "nom": "Macklin Celebrini",
+   "equipe": "SJS",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 30,
+   "gagnees": 15,
+   "moyenne": 15.0,
+   "statut": "officiel"
+  },
+  "8484803": {
+   "nom": "Trevor Connelly",
+   "equipe": "VGK",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484829": {
+   "nom": "Justin Hryckowian",
+   "equipe": "DAL",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 18,
+   "gagnees": 14,
+   "moyenne": 6.0,
+   "statut": "officiel"
+  },
+  "8484860": {
+   "nom": "Matvei Gridin",
+   "equipe": "CGY",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484911": {
+   "nom": "Collin Graf",
+   "equipe": "SJS",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 8,
+   "gagnees": 3,
+   "moyenne": 2.67,
+   "statut": "officiel"
+  },
+  "8484938": {
+   "nom": "Arttu Hyry",
+   "equipe": "DAL",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 26,
+   "gagnees": 19,
+   "moyenne": 8.67,
+   "statut": "ailier_centre"
+  },
+  "8484958": {
+   "nom": "Maxim Tsyplakov",
+   "equipe": "CGY",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 0,
+   "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8484984": {
+   "nom": "Ivan Demidov",
+   "equipe": "MTL",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484994": {
+   "nom": "Igor Chernyshov",
+   "equipe": "SJS",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484999": {
+   "nom": "Ilya Protas",
+   "equipe": "WSH",
+   "pos": "L",
+   "matchs": 2,
+   "misesAuJeu": 15,
+   "gagnees": 6,
+   "moyenne": 7.5,
+   "statut": "officiel"
+  },
+  "8485388": {
+   "nom": "Victor Eklund",
+   "equipe": "NYI",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.67,
+   "statut": "officiel"
+  },
+  "8485391": {
+   "nom": "Anton Frondell",
+   "equipe": "CHI",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 52,
+   "gagnees": 20,
+   "moyenne": 13.0,
+   "statut": "officiel"
+  },
+  "8485395": {
+   "nom": "James Hagens",
+   "equipe": "BOS",
+   "pos": "C",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "centre_aile"
+  },
+  "8485402": {
+   "nom": "Michael Misa",
+   "equipe": "SJS",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 35,
+   "gagnees": 16,
+   "moyenne": 11.67,
+   "statut": "officiel"
+  },
+  "8485406": {
+   "nom": "Porter Martone",
+   "equipe": "PHI",
+   "pos": "R",
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.25,
+   "statut": "officiel"
+  },
+  "8485414": {
+   "nom": "Ben Kindel",
+   "equipe": "PIT",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 21,
+   "gagnees": 10,
+   "moyenne": 10.5,
+   "statut": "officiel"
+  },
+  "8485512": {
+   "nom": "Tim Washe",
+   "equipe": "ANA",
+   "pos": "C",
+   "matchs": 2,
+   "misesAuJeu": 39,
+   "gagnees": 22,
+   "moyenne": 19.5,
+   "statut": "officiel"
+  },
+  "8485702": {
+   "nom": "Maxim Shabanov",
+   "equipe": "MIN",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8486025": {
+   "nom": "Viggo Björck",
+   "equipe": "WPG",
+   "pos": "C",
+   "matchs": 3,
+   "misesAuJeu": 27,
+   "gagnees": 7,
+   "moyenne": 9.0,
+   "statut": "officiel"
+  },
+  "8486067": {
+   "nom": "Gavin McKenna",
+   "equipe": "TOR",
+   "pos": "L",
+   "matchs": 4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8486103": {
+   "nom": "Ivar Stenberg",
+   "equipe": "SJS",
+   "pos": "L",
+   "matchs": 3,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 1.33,
+   "statut": "officiel"
+  },
+  "8486161": {
+   "nom": "Owen Michaels",
+   "equipe": "EDM",
+   "pos": "R",
+   "matchs": 3,
+   "misesAuJeu": 36,
+   "gagnees": 18,
+   "moyenne": 12.0,
+   "statut": "ailier_centre"
+  },
+  "8486171": {
+   "nom": "T.J. Hughes",
+   "equipe": "COL",
+   "pos": "R",
+   "matchs": 2,
+   "misesAuJeu": 8,
+   "gagnees": 5,
+   "moyenne": 4.0,
+   "statut": "officiel"
+  }
+ }
+}
