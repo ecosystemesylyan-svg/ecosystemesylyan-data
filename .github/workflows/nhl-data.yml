@@ -400,6 +400,134 @@ jobs:
           )
           PY
 
+      - name: Calculer les statistiques de la saison
+        continue-on-error: true
+        run: |
+          python3 - <<'PY'
+          # Statistiques de la saison de chaque patineur, calculees a partir
+          # des sommaires de match deja ranges dans nhl/boxscores.
+          #
+          # Sert a l'ordinateur de DG Amusant pour former ses equipes selon
+          # la production reelle des joueurs (jamais de hasard).
+          #
+          # "actif" = le joueur a joue dans le plus recent match de son equipe.
+
+          import glob
+          import json
+          import os
+
+          def charger(chemin):
+              try:
+                  with open(chemin, encoding="utf-8") as f:
+                      return json.load(f)
+              except Exception:
+                  return None
+
+          def secondes(toi):
+              try:
+                  minutes, sec = str(toi or "0:00").split(":")
+                  return int(minutes) * 60 + int(sec)
+              except Exception:
+                  return 0
+
+          matchs = []
+          for chemin in glob.glob("nhl/boxscores/*.json"):
+              b = charger(chemin)
+              if not isinstance(b, dict):
+                  continue
+              if b.get("gameType") != 2 or b.get("gameState") not in ("OFF", "FINAL"):
+                  continue
+              matchs.append(b)
+
+          if not matchs:
+              print("Aucun match de saison termine, fichier non modifie")
+              raise SystemExit(0)
+
+          saison = max(int(b.get("season") or 0) for b in matchs)
+          matchs = [b for b in matchs if int(b.get("season") or 0) == saison]
+          matchs.sort(key=lambda b: (str(b.get("gameDate") or ""), int(b.get("id") or 0)))
+
+          # Noms complets, quand on les connait.
+          noms = {}
+          carriere = charger("nhl/carriere.json")
+          if isinstance(carriere, dict):
+              colonnes = carriere.get("colonnes") or []
+              if "id" in colonnes and "nom" in colonnes:
+                  i_id, i_nom = colonnes.index("id"), colonnes.index("nom")
+                  for j in carriere.get("joueurs") or []:
+                      noms[j[i_id]] = j[i_nom]
+
+          joueurs = {}
+          dernier_match_equipe = {}
+          dernier_match = ""
+
+          for b in matchs:
+              cle = (str(b.get("gameDate") or ""), int(b.get("id") or 0))
+              dernier_match = max(dernier_match, cle[0])
+              stats = b.get("playerByGameStats") or {}
+
+              for cote in ("awayTeam", "homeTeam"):
+                  equipe = (b.get(cote) or {}).get("abbrev", "")
+                  if not equipe:
+                      continue
+
+                  dernier_match_equipe[equipe] = cle
+                  bloc = stats.get(cote) or {}
+
+                  for groupe in ("forwards", "defense"):
+                      for p in bloc.get(groupe) or []:
+                          pid = p.get("playerId")
+                          toi = secondes(p.get("toi"))
+                          pos = p.get("position") or ""
+
+                          if not pid or toi <= 0 or pos not in ("C", "L", "R", "D"):
+                              continue
+
+                          j = joueurs.setdefault(pid, {
+                              "pj": 0, "buts": 0, "passes": 0, "toi": 0,
+                          })
+                          j["pj"] += 1
+                          j["buts"] += int(p.get("goals") or 0)
+                          j["passes"] += int(p.get("assists") or 0)
+                          j["toi"] += toi
+                          # Les matchs sont en ordre : la derniere valeur est la plus recente.
+                          j["equipe"] = equipe
+                          j["pos"] = pos
+                          j["dernier"] = cle
+                          j["nomCourt"] = (p.get("name") or {}).get("default", "")
+
+          liste = []
+          for pid, j in joueurs.items():
+              liste.append({
+                  "id": pid,
+                  "nom": noms.get(pid) or j["nomCourt"],
+                  "equipe": j["equipe"],
+                  "pos": j["pos"],
+                  "pj": j["pj"],
+                  "buts": j["buts"],
+                  "passes": j["passes"],
+                  "points": j["buts"] + j["passes"],
+                  "toiMoyen": round(j["toi"] / j["pj"]),
+                  "actif": 1 if j["dernier"] == dernier_match_equipe.get(j["equipe"]) else 0,
+              })
+
+          liste.sort(key=lambda j: j["id"])
+
+          resultat = {
+              "saison": str(saison),
+              "dernierMatch": dernier_match,
+              "joueurs": liste,
+          }
+
+          os.makedirs("nhl", exist_ok=True)
+          with open("nhl/saison.json", "w", encoding="utf-8") as f:
+              json.dump(resultat, f, ensure_ascii=False, separators=(",", ":"))
+              f.write("\n")
+
+          print("Statistiques de saison :", len(liste), "patineurs,",
+                sum(j["actif"] for j in liste), "actifs")
+          PY
+
       - name: Sauvegarder les donnees
         run: |
           git config user.name "EcosystemeSylyan NHL Bot"
