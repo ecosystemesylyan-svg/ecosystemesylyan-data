@@ -1132,9 +1132,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 24,
+   "misesAuJeu": 23,
    "gagnees": 11,
-   "moyenne": 4.8,
+   "moyenne": 4.6,
    "statut": "officiel"
   },
   "8477953": {
@@ -3392,9 +3392,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
+   "misesAuJeu": 66,
    "gagnees": 32,
-   "moyenne": 13.0,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8483445": {
