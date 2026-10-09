@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-07",
+ "dernierMatch": "2026-10-08",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -81,10 +81,10 @@
    "nom": "Jordan Staal",
    "equipe": "CAR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 89,
-   "gagnees": 47,
-   "moyenne": 22.25,
+   "matchs": 5,
+   "misesAuJeu": 109,
+   "gagnees": 59,
+   "moyenne": 21.8,
    "statut": "officiel"
   },
   "8473986": {
@@ -341,10 +341,10 @@
    "nom": "Taylor Hall",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8475794": {
@@ -671,10 +671,10 @@
    "nom": "Mark Jankowski",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 48,
-   "gagnees": 23,
-   "moyenne": 12.0,
+   "matchs": 5,
+   "misesAuJeu": 59,
+   "gagnees": 27,
+   "moyenne": 11.8,
    "statut": "ailier_centre"
   },
   "8476878": {
@@ -751,10 +751,10 @@
    "nom": "Jordan Martinook",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 3,
+   "matchs": 5,
+   "misesAuJeu": 4,
    "gagnees": 3,
-   "moyenne": 0.75,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8476925": {
@@ -921,10 +921,10 @@
    "nom": "William Carrier",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8477479": {
@@ -1091,7 +1091,7 @@
    "nom": "Nikolaj Ehlers",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1401,10 +1401,10 @@
    "nom": "Sebastian Aho",
    "equipe": "CAR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 54,
-   "gagnees": 35,
-   "moyenne": 13.5,
+   "matchs": 5,
+   "misesAuJeu": 61,
+   "gagnees": 37,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8478434": {
@@ -1451,10 +1451,10 @@
    "nom": "Brock Boeser",
    "equipe": "VAN",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478449": {
@@ -1541,10 +1541,10 @@
    "nom": "Jake DeBrusk",
    "equipe": "VAN",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8478508": {
@@ -1981,9 +1981,9 @@
    "nom": "Elias Pettersson",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 80,
-   "gagnees": 41,
+   "matchs": 5,
+   "misesAuJeu": 100,
+   "gagnees": 48,
    "moyenne": 20.0,
    "statut": "officiel"
   },
@@ -2211,7 +2211,7 @@
    "nom": "Eric Robinson",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2261,20 +2261,20 @@
    "nom": "Jesperi Kotkaniemi",
    "equipe": "CAR",
    "pos": "C",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
-   "statut": "officiel"
+   "statut": "centre_aile"
   },
   "8480830": {
    "nom": "Andrei Svechnikov",
    "equipe": "CAR",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8480835": {
@@ -2401,10 +2401,10 @@
    "nom": "Linus Karlsson",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 6,
-   "gagnees": 3,
-   "moyenne": 1.5,
+   "matchs": 5,
+   "misesAuJeu": 9,
+   "gagnees": 5,
+   "moyenne": 1.8,
    "statut": "centre_aile"
   },
   "8481028": {
@@ -2421,10 +2421,10 @@
    "nom": "Paul Cotter",
    "equipe": "VAN",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 42,
    "gagnees": 22,
-   "moyenne": 10.5,
+   "moyenne": 8.4,
    "statut": "ailier_centre"
   },
   "8481043": {
@@ -2761,10 +2761,10 @@
    "nom": "Drew O'Connor",
    "equipe": "VAN",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 6,
    "gagnees": 4,
-   "moyenne": 1.5,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8482062": {
@@ -2811,10 +2811,10 @@
    "nom": "Marco Rossi",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 20,
-   "gagnees": 10,
-   "moyenne": 5.0,
+   "matchs": 5,
+   "misesAuJeu": 26,
+   "gagnees": 15,
+   "moyenne": 5.2,
    "statut": "officiel"
   },
   "8482088": {
@@ -3121,10 +3121,10 @@
    "nom": "Aatu Räty",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 26,
-   "gagnees": 16,
-   "moyenne": 13.0,
+   "matchs": 3,
+   "misesAuJeu": 33,
+   "gagnees": 20,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8482699": {
@@ -3141,10 +3141,10 @@
    "nom": "Logan Stankoven",
    "equipe": "CAR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 43,
-   "gagnees": 16,
-   "moyenne": 10.75,
+   "matchs": 5,
+   "misesAuJeu": 48,
+   "gagnees": 17,
+   "moyenne": 9.6,
    "statut": "officiel"
   },
   "8482703": {
@@ -3311,7 +3311,7 @@
    "nom": "Jackson Blake",
    "equipe": "CAR",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3351,10 +3351,10 @@
    "nom": "Arshdeep Bains",
    "equipe": "VAN",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.5,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8483431": {
@@ -3441,7 +3441,7 @@
    "nom": "Jonathan Lekkerimäki",
    "equipe": "VAN",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3471,10 +3471,10 @@
    "nom": "Liam Ohgren",
    "equipe": "VAN",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8483500": {
@@ -3651,10 +3651,10 @@
    "nom": "Max Sasson",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 39,
-   "gagnees": 13,
-   "moyenne": 9.75,
+   "matchs": 5,
+   "misesAuJeu": 47,
+   "gagnees": 20,
+   "moyenne": 9.4,
    "statut": "officiel"
   },
   "8484142": {
