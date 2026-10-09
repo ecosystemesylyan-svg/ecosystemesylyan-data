@@ -1822,9 +1822,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 4,
-   "misesAuJeu": 56,
+   "misesAuJeu": 55,
    "gagnees": 26,
-   "moyenne": 14.0,
+   "moyenne": 13.75,
    "statut": "officiel"
   },
   "8479520": {
@@ -2492,9 +2492,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 4,
-   "misesAuJeu": 6,
+   "misesAuJeu": 7,
    "gagnees": 3,
-   "moyenne": 1.5,
+   "moyenne": 1.75,
    "statut": "centre_aile"
   },
   "8481523": {
