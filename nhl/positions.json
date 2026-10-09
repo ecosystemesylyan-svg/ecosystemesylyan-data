@@ -121,10 +121,10 @@
    "nom": "Mikael Backlund",
    "equipe": "CGY",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 55,
-   "gagnees": 27,
-   "moyenne": 18.33,
+   "matchs": 4,
+   "misesAuJeu": 76,
+   "gagnees": 34,
+   "moyenne": 19.0,
    "statut": "officiel"
   },
   "8474189": {
@@ -201,9 +201,9 @@
    "nom": "Nazem Kadri",
    "equipe": "COL",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 15,
-   "gagnees": 7,
+   "matchs": 4,
+   "misesAuJeu": 20,
+   "gagnees": 9,
    "moyenne": 5.0,
    "statut": "officiel"
   },
@@ -311,20 +311,20 @@
    "nom": "Brock Nelson",
    "equipe": "COL",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 48,
-   "gagnees": 21,
-   "moyenne": 16.0,
+   "matchs": 4,
+   "misesAuJeu": 70,
+   "gagnees": 34,
+   "moyenne": 17.5,
    "statut": "officiel"
   },
   "8475768": {
    "nom": "Jaden Schwartz",
    "equipe": "COL",
    "pos": "L",
-   "matchs": 3,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "matchs": 4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8475786": {
@@ -531,20 +531,20 @@
    "nom": "Gabriel Landeskog",
    "equipe": "COL",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 14,
    "gagnees": 9,
-   "moyenne": 4.67,
+   "moyenne": 3.5,
    "statut": "officiel"
   },
   "8476458": {
    "nom": "Ryan Strome",
    "equipe": "CGY",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 22,
-   "gagnees": 9,
-   "moyenne": 7.33,
+   "matchs": 4,
+   "misesAuJeu": 26,
+   "gagnees": 10,
+   "moyenne": 6.5,
    "statut": "officiel"
   },
   "8476459": {
@@ -921,7 +921,7 @@
    "nom": "Artturi Lehkonen",
    "equipe": "COL",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -951,10 +951,10 @@
    "nom": "Nathan MacKinnon",
    "equipe": "COL",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 53,
-   "gagnees": 23,
-   "moyenne": 17.67,
+   "matchs": 4,
+   "misesAuJeu": 70,
+   "gagnees": 33,
+   "moyenne": 17.5,
    "statut": "officiel"
   },
   "8477493": {
@@ -1501,10 +1501,10 @@
    "nom": "Nicolas Roy",
    "equipe": "COL",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 21,
-   "gagnees": 12,
-   "moyenne": 7.0,
+   "matchs": 4,
+   "misesAuJeu": 30,
+   "gagnees": 18,
+   "moyenne": 7.5,
    "statut": "officiel"
   },
   "8478463": {
@@ -2061,10 +2061,10 @@
    "nom": "Morgan Frost",
    "equipe": "CGY",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 36,
-   "gagnees": 20,
-   "moyenne": 12.0,
+   "matchs": 4,
+   "misesAuJeu": 52,
+   "gagnees": 26,
+   "moyenne": 13.0,
    "statut": "officiel"
   },
   "8480029": {
@@ -2081,10 +2081,10 @@
    "nom": "Martin Necas",
    "equipe": "COL",
    "pos": "C",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "centre_aile"
   },
   "8480064": {
@@ -2201,9 +2201,9 @@
    "nom": "Parker Kelly",
    "equipe": "COL",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 3,
-   "gagnees": 1,
+   "matchs": 4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
    "moyenne": 1.0,
    "statut": "centre_aile"
   },
@@ -2241,10 +2241,10 @@
    "nom": "Joel Farabee",
    "equipe": "CGY",
    "pos": "L",
-   "matchs": 3,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 1.0,
+   "matchs": 4,
+   "misesAuJeu": 7,
+   "gagnees": 3,
+   "moyenne": 1.75,
    "statut": "officiel"
   },
   "8480801": {
@@ -2431,10 +2431,10 @@
    "nom": "Martin Pospisil",
    "equipe": "CGY",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 29,
-   "gagnees": 13,
-   "moyenne": 9.67,
+   "matchs": 4,
+   "misesAuJeu": 42,
+   "gagnees": 22,
+   "moyenne": 10.5,
    "statut": "officiel"
   },
   "8481032": {
@@ -2461,10 +2461,10 @@
    "nom": "Yegor Sharangovich",
    "equipe": "CGY",
    "pos": "C",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 5,
    "gagnees": 4,
-   "moyenne": 1.67,
+   "moyenne": 1.25,
    "statut": "centre_aile"
   },
   "8481477": {
@@ -3141,10 +3141,10 @@
    "nom": "Matt Coronato",
    "equipe": "CGY",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 21,
-   "gagnees": 14,
-   "moyenne": 7.0,
+   "matchs": 4,
+   "misesAuJeu": 25,
+   "gagnees": 16,
+   "moyenne": 6.25,
    "statut": "ailier_centre"
   },
   "8482691": {
@@ -3251,7 +3251,7 @@
    "nom": "Zachary L'Heureux",
    "equipe": "COL",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3311,10 +3311,10 @@
    "nom": "Fedor Svechkov",
    "equipe": "COL",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 17,
-   "gagnees": 6,
-   "moyenne": 5.67,
+   "matchs": 4,
+   "misesAuJeu": 26,
+   "gagnees": 11,
+   "moyenne": 6.5,
    "statut": "officiel"
   },
   "8482784": {
@@ -3601,10 +3601,10 @@
    "nom": "Adam Klapka",
    "equipe": "CGY",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 1,
+   "matchs": 4,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.33,
+   "moyenne": 0.5,
    "statut": "officiel"
   },
   "8483676": {
@@ -3717,6 +3717,16 @@
    "moyenne": 12.0,
    "statut": "officiel"
   },
+  "8484154": {
+   "nom": "Jonathan Castagna",
+   "equipe": "CGY",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 6.0,
+   "statut": "officiel"
+  },
   "8484158": {
    "nom": "Easton Cowan",
    "equipe": "TOR",
@@ -3761,10 +3771,10 @@
    "nom": "Samuel Honzek",
    "equipe": "CGY",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8484185": {
@@ -3825,6 +3835,16 @@
    "misesAuJeu": 18,
    "gagnees": 8,
    "moyenne": 4.5,
+   "statut": "officiel"
+  },
+  "8484234": {
+   "nom": "Aydar Suniev",
+   "equipe": "CGY",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8484241": {
@@ -3981,10 +4001,10 @@
    "nom": "Matvei Gridin",
    "equipe": "CGY",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 0,
+   "matchs": 4,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8484911": {
@@ -4181,10 +4201,10 @@
    "nom": "T.J. Hughes",
    "equipe": "COL",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 13,
-   "gagnees": 9,
-   "moyenne": 4.33,
+   "matchs": 4,
+   "misesAuJeu": 19,
+   "gagnees": 12,
+   "moyenne": 4.75,
    "statut": "officiel"
   }
  }
