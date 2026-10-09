@@ -181,10 +181,10 @@
    "nom": "John Tavares",
    "equipe": "TOR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 61,
-   "gagnees": 35,
-   "moyenne": 15.25,
+   "matchs": 5,
+   "misesAuJeu": 74,
+   "gagnees": 43,
+   "moyenne": 14.8,
    "statut": "officiel"
   },
   "8475170": {
@@ -271,10 +271,10 @@
    "nom": "Nic Dowd",
    "equipe": "VGK",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 46,
-   "gagnees": 17,
-   "moyenne": 11.5,
+   "matchs": 5,
+   "misesAuJeu": 55,
+   "gagnees": 20,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8475692": {
@@ -411,10 +411,10 @@
    "nom": "Mark Stone",
    "equipe": "VGK",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 0,
+   "matchs": 5,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8476278": {
@@ -511,10 +511,10 @@
    "nom": "William Karlsson",
    "equipe": "VGK",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 62,
-   "gagnees": 42,
-   "moyenne": 15.5,
+   "matchs": 5,
+   "misesAuJeu": 77,
+   "gagnees": 47,
+   "moyenne": 15.4,
    "statut": "officiel"
   },
   "8476453": {
@@ -701,10 +701,10 @@
    "nom": "Tomas Hertl",
    "equipe": "VGK",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 48,
-   "gagnees": 27,
-   "moyenne": 12.0,
+   "matchs": 5,
+   "misesAuJeu": 54,
+   "gagnees": 30,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8476882": {
@@ -761,20 +761,20 @@
    "nom": "Colton Sissons",
    "equipe": "TOR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 27,
-   "gagnees": 16,
-   "moyenne": 6.75,
+   "matchs": 5,
+   "misesAuJeu": 32,
+   "gagnees": 20,
+   "moyenne": 6.4,
    "statut": "officiel"
   },
   "8476927": {
    "nom": "Teddy Blueger",
    "equipe": "TOR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 22,
-   "gagnees": 10,
-   "moyenne": 5.5,
+   "matchs": 5,
+   "misesAuJeu": 33,
+   "gagnees": 16,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8476952": {
@@ -861,9 +861,9 @@
    "nom": "Nick Paul",
    "equipe": "TOR",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 32,
-   "gagnees": 14,
+   "matchs": 5,
+   "misesAuJeu": 40,
+   "gagnees": 18,
    "moyenne": 8.0,
    "statut": "ailier_centre"
   },
@@ -1091,10 +1091,10 @@
    "nom": "William Nylander",
    "equipe": "TOR",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 7,
+   "matchs": 5,
+   "misesAuJeu": 8,
    "gagnees": 2,
-   "moyenne": 1.75,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8477940": {
@@ -1181,10 +1181,10 @@
    "nom": "Ivan Barbashev",
    "equipe": "VGK",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.5,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477987": {
@@ -1361,10 +1361,10 @@
    "nom": "Jack Eichel",
    "equipe": "VGK",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 63,
-   "gagnees": 29,
-   "moyenne": 15.75,
+   "matchs": 5,
+   "misesAuJeu": 83,
+   "gagnees": 38,
+   "moyenne": 16.6,
    "statut": "officiel"
   },
   "8478413": {
@@ -1491,10 +1491,10 @@
    "nom": "Jack Roslovic",
    "equipe": "TOR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 12,
+   "matchs": 5,
+   "misesAuJeu": 13,
    "gagnees": 6,
-   "moyenne": 3.0,
+   "moyenne": 2.6,
    "statut": "officiel"
   },
   "8478462": {
@@ -1541,7 +1541,7 @@
    "nom": "Mitch Marner",
    "equipe": "VGK",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1691,10 +1691,10 @@
    "nom": "Auston Matthews",
    "equipe": "TOR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 54,
-   "gagnees": 27,
-   "moyenne": 13.5,
+   "matchs": 5,
+   "misesAuJeu": 75,
+   "gagnees": 42,
+   "moyenne": 15.0,
    "statut": "officiel"
   },
   "8479336": {
@@ -1751,11 +1751,11 @@
    "nom": "Brett Howden",
    "equipe": "VGK",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 3,
-   "gagnees": 3,
-   "moyenne": 0.75,
-   "statut": "centre_aile"
+   "matchs": 5,
+   "misesAuJeu": 11,
+   "gagnees": 7,
+   "moyenne": 2.2,
+   "statut": "officiel"
   },
   "8479359": {
    "nom": "Beck Malenstyn",
@@ -1831,10 +1831,10 @@
    "nom": "Brandon Duhaime",
    "equipe": "TOR",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 1,
+   "matchs": 5,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479525": {
@@ -2361,10 +2361,10 @@
    "nom": "Bo Groulx",
    "equipe": "TOR",
    "pos": "C",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 5,
    "gagnees": 3,
-   "moyenne": 1.67,
+   "moyenne": 1.25,
    "statut": "centre_aile"
   },
   "8480876": {
@@ -2381,7 +2381,7 @@
    "nom": "Kirill Marchenko",
    "equipe": "TOR",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2535,6 +2535,16 @@
    "misesAuJeu": 48,
    "gagnees": 17,
    "moyenne": 9.6,
+   "statut": "officiel"
+  },
+  "8481534": {
+   "nom": "Raphael Lavoie",
+   "equipe": "VGK",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8481535": {
@@ -3581,10 +3591,10 @@
    "nom": "Marc Gatcomb",
    "equipe": "VGK",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 1,
+   "matchs": 5,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8483570": {
@@ -3671,7 +3681,7 @@
    "nom": "Braeden Bowman",
    "equipe": "VGK",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3731,10 +3741,10 @@
    "nom": "Easton Cowan",
    "equipe": "TOR",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 0,
+   "matchs": 5,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8484160": {
@@ -3981,10 +3991,10 @@
    "nom": "Trevor Connelly",
    "equipe": "VGK",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 0,
+   "matchs": 5,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8484829": {
@@ -4171,7 +4181,7 @@
    "nom": "Gavin McKenna",
    "equipe": "TOR",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
