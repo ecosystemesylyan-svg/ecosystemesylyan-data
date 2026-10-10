@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-09",
+ "dernierMatch": "2026-10-10",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -242,6 +242,16 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8475253": {
+   "nom": "Garrett Wilson",
+   "equipe": "PHI",
+   "pos": "L",
+   "matchs": 1,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -572,9 +582,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 29,
-   "moyenne": 10.2,
+   "misesAuJeu": 63,
+   "gagnees": 33,
+   "moyenne": 12.6,
    "statut": "officiel"
   },
   "8476468": {
@@ -972,9 +982,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 89,
-   "gagnees": 51,
-   "moyenne": 17.8,
+   "misesAuJeu": 92,
+   "gagnees": 54,
+   "moyenne": 18.4,
    "statut": "officiel"
   },
   "8477497": {
@@ -1202,9 +1212,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 69,
-   "gagnees": 35,
-   "moyenne": 13.8,
+   "misesAuJeu": 67,
+   "gagnees": 30,
+   "moyenne": 13.4,
    "statut": "officiel"
   },
   "8477998": {
@@ -1261,7 +1271,7 @@
    "nom": "Michael Bunting",
    "equipe": "PHI",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1342,9 +1352,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 70,
-   "gagnees": 37,
-   "moyenne": 14.0,
+   "misesAuJeu": 66,
+   "gagnees": 33,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8478402": {
@@ -1612,9 +1622,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
-   "gagnees": 34,
-   "moyenne": 11.8,
+   "misesAuJeu": 53,
+   "gagnees": 28,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8478831": {
@@ -1872,9 +1882,9 @@
    "equipe": "BOS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 3,
-   "moyenne": 1.4,
+   "misesAuJeu": 10,
+   "gagnees": 4,
+   "moyenne": 2.0,
    "statut": "officiel"
   },
   "8479671": {
@@ -1932,9 +1942,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 14,
-   "gagnees": 5,
-   "moyenne": 2.8,
+   "misesAuJeu": 11,
+   "gagnees": 4,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8479992": {
@@ -1962,9 +1972,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 8,
+   "gagnees": 4,
+   "moyenne": 1.6,
    "statut": "centre_aile"
   },
   "8480002": {
@@ -2162,9 +2172,9 @@
    "equipe": "PHI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 31,
-   "moyenne": 10.2,
+   "misesAuJeu": 48,
+   "gagnees": 28,
+   "moyenne": 9.6,
    "statut": "ailier_centre"
   },
   "8480281": {
@@ -2202,9 +2212,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 8,
-   "moyenne": 3.8,
+   "misesAuJeu": 20,
+   "gagnees": 10,
+   "moyenne": 4.0,
    "statut": "officiel"
   },
   "8480448": {
@@ -2542,9 +2552,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 48,
-   "gagnees": 17,
-   "moyenne": 9.6,
+   "misesAuJeu": 36,
+   "gagnees": 12,
+   "moyenne": 7.2,
    "statut": "officiel"
   },
   "8481534": {
@@ -3053,7 +3063,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 9,
-   "gagnees": 3,
+   "gagnees": 4,
    "moyenne": 1.8,
    "statut": "centre_aile"
   },
@@ -3503,7 +3513,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 52,
-   "gagnees": 20,
+   "gagnees": 22,
    "moyenne": 10.4,
    "statut": "officiel"
   },
@@ -3541,10 +3551,10 @@
    "nom": "Matthew Poitras",
    "equipe": "BOS",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 8,
+   "matchs": 3,
+   "misesAuJeu": 10,
    "gagnees": 2,
-   "moyenne": 4.0,
+   "moyenne": 3.33,
    "statut": "officiel"
   },
   "8483513": {
@@ -3711,10 +3721,10 @@
    "nom": "Denver Barkey",
    "equipe": "PHI",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 7,
-   "gagnees": 2,
-   "moyenne": 3.5,
+   "matchs": 3,
+   "misesAuJeu": 10,
+   "gagnees": 4,
+   "moyenne": 3.33,
    "statut": "officiel"
   },
   "8484145": {
@@ -3882,9 +3892,9 @@
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 11,
+   "misesAuJeu": 12,
    "gagnees": 7,
-   "moyenne": 2.2,
+   "moyenne": 2.4,
    "statut": "officiel"
   },
   "8484388": {
@@ -4112,9 +4122,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8485402": {
