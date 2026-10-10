@@ -31,20 +31,20 @@
    "nom": "Evgeni Malkin",
    "equipe": "PIT",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 3,
    "gagnees": 3,
-   "moyenne": 0.75,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8471675": {
    "nom": "Sidney Crosby",
    "equipe": "PIT",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 89,
-   "gagnees": 49,
-   "moyenne": 22.25,
+   "matchs": 5,
+   "misesAuJeu": 102,
+   "gagnees": 55,
+   "moyenne": 20.4,
    "statut": "officiel"
   },
   "8473419": {
@@ -301,10 +301,10 @@
    "nom": "Charlie Coyle",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 33,
-   "gagnees": 19,
-   "moyenne": 16.5,
+   "matchs": 3,
+   "misesAuJeu": 45,
+   "gagnees": 26,
+   "moyenne": 15.0,
    "statut": "officiel"
   },
   "8475754": {
@@ -381,7 +381,7 @@
    "nom": "Bryan Rust",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -631,10 +631,10 @@
    "nom": "Rickard Rakell",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8476539": {
@@ -981,10 +981,10 @@
    "nom": "Sean Monahan",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 36,
-   "gagnees": 14,
-   "moyenne": 18.0,
+   "matchs": 3,
+   "misesAuJeu": 43,
+   "gagnees": 18,
+   "moyenne": 14.33,
    "statut": "officiel"
   },
   "8477500": {
@@ -1001,10 +1001,10 @@
    "nom": "Valeri Nichushkin",
    "equipe": "CBJ",
    "pos": "R",
-   "matchs": 2,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8477505": {
@@ -1251,11 +1251,11 @@
    "nom": "Danton Heinen",
    "equipe": "CBJ",
    "pos": "L",
-   "matchs": 2,
-   "misesAuJeu": 12,
-   "gagnees": 5,
+   "matchs": 3,
+   "misesAuJeu": 18,
+   "gagnees": 8,
    "moyenne": 6.0,
-   "statut": "officiel"
+   "statut": "ailier_centre"
   },
   "8478047": {
    "nom": "Michael Bunting",
@@ -1441,10 +1441,10 @@
    "nom": "Tommy Novak",
    "equipe": "PIT",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 47,
-   "gagnees": 15,
-   "moyenne": 11.75,
+   "matchs": 5,
+   "misesAuJeu": 55,
+   "gagnees": 17,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8478439": {
@@ -1631,10 +1631,10 @@
    "nom": "Conor Garland",
    "equipe": "CBJ",
    "pos": "R",
-   "matchs": 2,
-   "misesAuJeu": 0,
+   "matchs": 3,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8478864": {
@@ -1671,10 +1671,10 @@
    "nom": "Ryan Lomberg",
    "equipe": "CBJ",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8479314": {
@@ -1881,7 +1881,7 @@
    "nom": "Mathieu Olivier",
    "equipe": "CBJ",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2401,10 +2401,10 @@
    "nom": "Connor Dewar",
    "equipe": "PIT",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 3,
+   "matchs": 5,
+   "misesAuJeu": 5,
    "gagnees": 1,
-   "moyenne": 0.75,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8480995": {
@@ -2491,10 +2491,10 @@
    "nom": "Blake Lizotte",
    "equipe": "PIT",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 52,
-   "gagnees": 20,
-   "moyenne": 13.0,
+   "matchs": 5,
+   "misesAuJeu": 67,
+   "gagnees": 24,
+   "moyenne": 13.4,
    "statut": "officiel"
   },
   "8481522": {
@@ -2641,10 +2641,10 @@
    "nom": "Nick Robertson",
    "equipe": "PIT",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8481596": {
@@ -2741,10 +2741,10 @@
    "nom": "Dmitri Voronkov",
    "equipe": "CBJ",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8481721": {
@@ -2991,10 +2991,10 @@
    "nom": "Hendrix Lapierre",
    "equipe": "PIT",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 15,
    "gagnees": 5,
-   "moyenne": 3.75,
+   "moyenne": 3.0,
    "statut": "officiel"
   },
   "8482149": {
@@ -3101,7 +3101,7 @@
    "nom": "Egor Chinakhov",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3131,11 +3131,11 @@
    "nom": "Kent Johnson",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
-   "statut": "officiel"
+   "moyenne": 0.33,
+   "statut": "centre_aile"
   },
   "8482665": {
    "nom": "Matty Beniers",
@@ -3211,11 +3211,11 @@
    "nom": "Cole Sillinger",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 2,
    "gagnees": 2,
-   "moyenne": 1.0,
-   "statut": "officiel"
+   "moyenne": 0.67,
+   "statut": "centre_aile"
   },
   "8482713": {
    "nom": "Mackie Samoskevich",
@@ -3231,10 +3231,10 @@
    "nom": "Matthew Knies",
    "equipe": "CBJ",
    "pos": "L",
-   "matchs": 2,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.5,
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8482726": {
@@ -3311,7 +3311,7 @@
    "nom": "Ville Koivunen",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3781,10 +3781,10 @@
    "nom": "Adam Fantilli",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 40,
-   "gagnees": 31,
-   "moyenne": 20.0,
+   "matchs": 3,
+   "misesAuJeu": 56,
+   "gagnees": 45,
+   "moyenne": 18.67,
    "statut": "officiel"
   },
   "8484180": {
@@ -4141,10 +4141,10 @@
    "nom": "Ben Kindel",
    "equipe": "PIT",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 30,
-   "gagnees": 14,
-   "moyenne": 10.0,
+   "matchs": 4,
+   "misesAuJeu": 37,
+   "gagnees": 17,
+   "moyenne": 9.25,
    "statut": "officiel"
   },
   "8485512": {
