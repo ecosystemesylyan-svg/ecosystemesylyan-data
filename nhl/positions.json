@@ -91,10 +91,10 @@
    "nom": "Alex Killorn",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8473994": {
@@ -361,10 +361,10 @@
    "nom": "Mikael Granlund",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 44,
-   "gagnees": 19,
-   "moyenne": 14.67,
+   "matchs": 4,
+   "misesAuJeu": 50,
+   "gagnees": 22,
+   "moyenne": 12.5,
    "statut": "officiel"
   },
   "8475799": {
@@ -461,10 +461,10 @@
    "nom": "Adam Lowry",
    "equipe": "WPG",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 78,
-   "gagnees": 37,
-   "moyenne": 19.5,
+   "matchs": 5,
+   "misesAuJeu": 90,
+   "gagnees": 43,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8476393": {
@@ -561,10 +561,10 @@
    "nom": "Mark Scheifele",
    "equipe": "WPG",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 66,
-   "gagnees": 33,
-   "moyenne": 16.5,
+   "matchs": 5,
+   "misesAuJeu": 79,
+   "gagnees": 39,
+   "moyenne": 15.8,
    "statut": "officiel"
   },
   "8476461": {
@@ -621,10 +621,10 @@
    "nom": "Vladislav Namestnikov",
    "equipe": "WPG",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 30,
-   "gagnees": 14,
-   "moyenne": 7.5,
+   "matchs": 5,
+   "misesAuJeu": 32,
+   "gagnees": 16,
+   "moyenne": 6.4,
    "statut": "officiel"
   },
   "8476483": {
@@ -1331,7 +1331,7 @@
    "nom": "Kyle Connor",
    "equipe": "WPG",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1401,10 +1401,10 @@
    "nom": "A.J. Greer",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 3,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "matchs": 4,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.75,
    "statut": "officiel"
   },
   "8478424": {
@@ -2011,10 +2011,10 @@
    "nom": "Gabriel Vilardi",
    "equipe": "WPG",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 13,
+   "matchs": 5,
+   "misesAuJeu": 17,
    "gagnees": 10,
-   "moyenne": 3.25,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8480015": {
@@ -2101,10 +2101,10 @@
    "nom": "Ryan Poehling",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 28,
-   "gagnees": 9,
-   "moyenne": 9.33,
+   "matchs": 4,
+   "misesAuJeu": 38,
+   "gagnees": 12,
+   "moyenne": 9.5,
    "statut": "officiel"
   },
   "8480074": {
@@ -2121,10 +2121,10 @@
    "nom": "Alex Iafallo",
    "equipe": "WPG",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8480185": {
@@ -2181,9 +2181,9 @@
    "nom": "Morgan Barron",
    "equipe": "WPG",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 8,
-   "gagnees": 3,
+   "matchs": 5,
+   "misesAuJeu": 10,
+   "gagnees": 5,
    "moyenne": 2.0,
    "statut": "officiel"
   },
@@ -2461,7 +2461,7 @@
    "nom": "Cole Koepke",
    "equipe": "WPG",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2571,10 +2571,10 @@
    "nom": "Judd Caulfield",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8481540": {
@@ -2791,10 +2791,10 @@
    "nom": "Nikita Nesterenko",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.67,
+   "moyenne": 0.5,
    "statut": "centre_aile"
   },
   "8481789": {
@@ -2951,10 +2951,10 @@
    "nom": "Sam Colangelo",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 1,
-   "misesAuJeu": 0,
+   "matchs": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.5,
    "statut": "officiel"
   },
   "8482124": {
@@ -3001,10 +3001,10 @@
    "nom": "Cole Perfetti",
    "equipe": "WPG",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 3,
-   "gagnees": 0,
-   "moyenne": 0.75,
+   "matchs": 5,
+   "misesAuJeu": 5,
+   "gagnees": 1,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8482155": {
@@ -3081,10 +3081,10 @@
    "nom": "Jeff Malott",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8482460": {
@@ -3321,7 +3321,7 @@
    "nom": "Isak Rosen",
    "equipe": "WPG",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3421,9 +3421,9 @@
    "nom": "Cutter Gauthier",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 3,
-   "misesAuJeu": 6,
-   "gagnees": 2,
+   "matchs": 4,
+   "misesAuJeu": 8,
+   "gagnees": 4,
    "moyenne": 2.0,
    "statut": "officiel"
   },
@@ -3481,10 +3481,10 @@
    "nom": "Brad Lambert",
    "equipe": "WPG",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 6,
    "gagnees": 3,
-   "moyenne": 1.5,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8483476": {
@@ -3731,10 +3731,10 @@
    "nom": "Leo Carlsson",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 36,
-   "gagnees": 16,
-   "moyenne": 12.0,
+   "matchs": 4,
+   "misesAuJeu": 45,
+   "gagnees": 23,
+   "moyenne": 11.25,
    "statut": "officiel"
   },
   "8484154": {
@@ -3941,10 +3941,10 @@
    "nom": "Beckett Sennecke",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8484786": {
@@ -4151,10 +4151,10 @@
    "nom": "Tim Washe",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 58,
-   "gagnees": 31,
-   "moyenne": 19.33,
+   "matchs": 4,
+   "misesAuJeu": 69,
+   "gagnees": 36,
+   "moyenne": 17.25,
    "statut": "officiel"
   },
   "8485702": {
@@ -4171,10 +4171,10 @@
    "nom": "Viggo Björck",
    "equipe": "WPG",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 33,
-   "gagnees": 9,
-   "moyenne": 8.25,
+   "matchs": 5,
+   "misesAuJeu": 40,
+   "gagnees": 12,
+   "moyenne": 8.0,
    "statut": "officiel"
   },
   "8486052": {
