@@ -131,10 +131,10 @@
    "nom": "Lars Eller",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 40,
-   "gagnees": 17,
-   "moyenne": 10.0,
+   "matchs": 5,
+   "misesAuJeu": 55,
+   "gagnees": 22,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8474564": {
@@ -491,10 +491,10 @@
    "nom": "Blake Coleman",
    "equipe": "MIN",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 3,
+   "matchs": 5,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 0.75,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8476419": {
@@ -851,10 +851,10 @@
    "nom": "Carter Verhaeghe",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 2,
+   "matchs": 5,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.5,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8477416": {
@@ -891,10 +891,10 @@
    "nom": "Michael McCarron",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 51,
-   "gagnees": 29,
-   "moyenne": 12.75,
+   "matchs": 5,
+   "misesAuJeu": 66,
+   "gagnees": 36,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8477450": {
@@ -911,10 +911,10 @@
    "nom": "Ryan Hartman",
    "equipe": "MIN",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 42,
-   "gagnees": 23,
-   "moyenne": 10.5,
+   "matchs": 5,
+   "misesAuJeu": 55,
+   "gagnees": 28,
+   "moyenne": 11.0,
    "statut": "ailier_centre"
   },
   "8477456": {
@@ -1051,7 +1051,7 @@
    "nom": "Garnet Hathaway",
    "equipe": "FLA",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1071,10 +1071,10 @@
    "nom": "Sam Reinhart",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 28,
+   "matchs": 5,
+   "misesAuJeu": 33,
    "gagnees": 13,
-   "moyenne": 7.0,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8477934": {
@@ -1091,10 +1091,10 @@
    "nom": "Sam Bennett",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 51,
-   "gagnees": 22,
-   "moyenne": 12.75,
+   "matchs": 5,
+   "misesAuJeu": 66,
+   "gagnees": 28,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8477939": {
@@ -1257,6 +1257,16 @@
    "moyenne": 1.5,
    "statut": "officiel"
   },
+  "8478043": {
+   "nom": "Sam Lafferty",
+   "equipe": "FLA",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 7,
+   "gagnees": 4,
+   "moyenne": 7.0,
+   "statut": "officiel"
+  },
   "8478046": {
    "nom": "Danton Heinen",
    "equipe": "CBJ",
@@ -1301,10 +1311,10 @@
    "nom": "Bokondji Imama",
    "equipe": "FLA",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8478173": {
@@ -1561,10 +1571,10 @@
    "nom": "Joel Eriksson Ek",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 74,
-   "gagnees": 35,
-   "moyenne": 18.5,
+   "matchs": 5,
+   "misesAuJeu": 93,
+   "gagnees": 50,
+   "moyenne": 18.6,
    "statut": "officiel"
   },
   "8478498": {
@@ -1581,10 +1591,10 @@
    "nom": "Yakov Trenin",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8478519": {
@@ -1651,10 +1661,10 @@
    "nom": "Kirill Kaprizov",
    "equipe": "MIN",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8478891": {
@@ -1691,7 +1701,7 @@
    "nom": "Matthew Tkachuk",
    "equipe": "FLA",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2141,10 +2151,10 @@
    "nom": "Eetu Luostarinen",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8480188": {
@@ -2271,10 +2281,10 @@
    "nom": "Brady Tkachuk",
    "equipe": "FLA",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 20,
-   "gagnees": 13,
-   "moyenne": 5.0,
+   "matchs": 5,
+   "misesAuJeu": 27,
+   "gagnees": 17,
+   "moyenne": 5.4,
    "statut": "ailier_centre"
   },
   "8480802": {
@@ -2491,10 +2501,10 @@
    "nom": "Nico Sturm",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 5,
-   "gagnees": 4,
-   "moyenne": 5.0,
+   "matchs": 2,
+   "misesAuJeu": 14,
+   "gagnees": 13,
+   "moyenne": 7.0,
    "statut": "officiel"
   },
   "8481481": {
@@ -2601,10 +2611,10 @@
    "nom": "Bobby Brink",
    "equipe": "MIN",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8481554": {
@@ -2621,10 +2631,10 @@
    "nom": "Matt Boldy",
    "equipe": "MIN",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 5,
-   "gagnees": 1,
-   "moyenne": 1.25,
+   "matchs": 5,
+   "misesAuJeu": 7,
+   "gagnees": 2,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8481559": {
@@ -2941,10 +2951,10 @@
    "nom": "Anton Lundell",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 56,
-   "gagnees": 32,
-   "moyenne": 14.0,
+   "matchs": 5,
+   "misesAuJeu": 74,
+   "gagnees": 38,
+   "moyenne": 14.8,
    "statut": "officiel"
   },
   "8482116": {
@@ -3507,6 +3517,16 @@
    "moyenne": 0.0,
    "statut": "officiel"
   },
+  "8483478": {
+   "nom": "Rieger Lorenz",
+   "equipe": "MIN",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8483489": {
    "nom": "Fraser Minten",
    "equipe": "BOS",
@@ -3601,10 +3621,10 @@
    "nom": "Danila Yurov",
    "equipe": "MIN",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 30,
-   "gagnees": 16,
-   "moyenne": 7.5,
+   "matchs": 5,
+   "misesAuJeu": 39,
+   "gagnees": 22,
+   "moyenne": 7.8,
    "statut": "ailier_centre"
   },
   "8483553": {
@@ -3681,10 +3701,10 @@
    "nom": "Sandis Vilmanis",
    "equipe": "FLA",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8483808": {
@@ -4171,7 +4191,7 @@
    "nom": "Maxim Shabanov",
    "equipe": "MIN",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
