@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-10",
+ "dernierMatch": "2026-10-11",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -21,7 +21,7 @@
    "nom": "Alex Ovechkin",
    "equipe": "WSH",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -152,9 +152,9 @@
    "equipe": "SEA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8475151": {
@@ -511,10 +511,10 @@
    "nom": "Boone Jenner",
    "equipe": "WSH",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 44,
-   "gagnees": 27,
-   "moyenne": 11.0,
+   "matchs": 5,
+   "misesAuJeu": 63,
+   "gagnees": 39,
+   "moyenne": 12.6,
    "statut": "officiel"
   },
   "8476448": {
@@ -701,10 +701,10 @@
    "nom": "Tom Wilson",
    "equipe": "WSH",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8476881": {
@@ -752,9 +752,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 91,
-   "gagnees": 53,
-   "moyenne": 18.2,
+   "misesAuJeu": 98,
+   "gagnees": 58,
+   "moyenne": 19.6,
    "statut": "officiel"
   },
   "8476921": {
@@ -1082,9 +1082,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 62,
-   "gagnees": 32,
-   "moyenne": 12.4,
+   "misesAuJeu": 61,
+   "gagnees": 33,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8477933": {
@@ -1151,10 +1151,10 @@
    "nom": "Alex Tuch",
    "equipe": "WSH",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 13,
    "gagnees": 4,
-   "moyenne": 3.25,
+   "moyenne": 2.6,
    "statut": "officiel"
   },
   "8477951": {
@@ -1182,9 +1182,9 @@
    "equipe": "SEA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8477956": {
@@ -1501,10 +1501,10 @@
    "nom": "Dylan Strome",
    "equipe": "WSH",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 48,
-   "gagnees": 24,
-   "moyenne": 12.0,
+   "matchs": 5,
+   "misesAuJeu": 70,
+   "gagnees": 36,
+   "moyenne": 14.0,
    "statut": "officiel"
   },
   "8478444": {
@@ -1551,10 +1551,10 @@
    "nom": "Anthony Beauvillier",
    "equipe": "WSH",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.25,
+   "matchs": 5,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478472": {
@@ -1831,10 +1831,10 @@
    "nom": "Jordan Kyrou",
    "equipe": "WSH",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 1,
+   "matchs": 5,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479400": {
@@ -2771,10 +2771,10 @@
    "nom": "Aliaksei Protas",
    "equipe": "WSH",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 4,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "matchs": 5,
+   "misesAuJeu": 6,
+   "gagnees": 4,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8481711": {
@@ -2921,10 +2921,10 @@
    "nom": "Justin Sourdif",
    "equipe": "WSH",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 13,
-   "gagnees": 6,
-   "moyenne": 3.25,
+   "matchs": 5,
+   "misesAuJeu": 26,
+   "gagnees": 12,
+   "moyenne": 5.2,
    "statut": "officiel"
   },
   "8482089": {
@@ -3122,9 +3122,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8482408": {
@@ -3192,9 +3192,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 76,
-   "gagnees": 34,
-   "moyenne": 15.2,
+   "misesAuJeu": 71,
+   "gagnees": 33,
+   "moyenne": 14.2,
    "statut": "officiel"
   },
   "8482667": {
@@ -3271,7 +3271,7 @@
    "nom": "Mackie Samoskevich",
    "equipe": "SEA",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3653,7 +3653,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 20,
-   "gagnees": 8,
+   "gagnees": 6,
    "moyenne": 4.0,
    "statut": "officiel"
   },
@@ -3681,10 +3681,20 @@
    "nom": "Ben Meyers",
    "equipe": "SEA",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 8,
-   "gagnees": 2,
-   "moyenne": 2.67,
+   "matchs": 4,
+   "misesAuJeu": 12,
+   "gagnees": 3,
+   "moyenne": 3.0,
+   "statut": "officiel"
+  },
+  "8483573": {
+   "nom": "Ethen Frank",
+   "equipe": "WSH",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8483609": {
@@ -3891,7 +3901,7 @@
    "nom": "Ryan Leonard",
    "equipe": "WSH",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4063,7 +4073,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 36,
-   "gagnees": 18,
+   "gagnees": 17,
    "moyenne": 7.2,
    "statut": "officiel"
   },
@@ -4161,10 +4171,10 @@
    "nom": "Ilya Protas",
    "equipe": "WSH",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 34,
-   "gagnees": 16,
-   "moyenne": 8.5,
+   "matchs": 5,
+   "misesAuJeu": 42,
+   "gagnees": 18,
+   "moyenne": 8.4,
    "statut": "ailier_centre"
   },
   "8485388": {
