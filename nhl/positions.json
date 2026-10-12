@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-11",
+ "dernierMatch": "2026-10-12",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -133,7 +133,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 55,
-   "gagnees": 22,
+   "gagnees": 24,
    "moyenne": 11.0,
    "statut": "officiel"
   },
@@ -862,9 +862,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 1,
-   "moyenne": 0.6,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8477416": {
@@ -1092,9 +1092,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 33,
-   "gagnees": 13,
-   "moyenne": 6.6,
+   "misesAuJeu": 37,
+   "gagnees": 20,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8477934": {
@@ -1112,9 +1112,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 28,
-   "moyenne": 13.2,
+   "misesAuJeu": 75,
+   "gagnees": 36,
+   "moyenne": 15.0,
    "statut": "officiel"
   },
   "8477939": {
@@ -1281,10 +1281,10 @@
    "nom": "Sam Lafferty",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 7,
+   "matchs": 2,
+   "misesAuJeu": 11,
    "gagnees": 4,
-   "moyenne": 7.0,
+   "moyenne": 5.5,
    "statut": "officiel"
   },
   "8478046": {
@@ -1862,9 +1862,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
+   "misesAuJeu": 63,
    "gagnees": 30,
-   "moyenne": 13.0,
+   "moyenne": 12.6,
    "statut": "officiel"
   },
   "8479520": {
@@ -2142,9 +2142,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 44,
+   "misesAuJeu": 45,
    "gagnees": 25,
-   "moyenne": 8.8,
+   "moyenne": 9.0,
    "statut": "officiel"
   },
   "8480068": {
@@ -2312,9 +2312,9 @@
    "equipe": "FLA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 27,
-   "gagnees": 17,
-   "moyenne": 5.4,
+   "misesAuJeu": 29,
+   "gagnees": 18,
+   "moyenne": 5.8,
    "statut": "ailier_centre"
   },
   "8480802": {
@@ -2322,9 +2322,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 48,
-   "gagnees": 25,
-   "moyenne": 9.6,
+   "misesAuJeu": 49,
+   "gagnees": 26,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8480813": {
@@ -2552,10 +2552,10 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 3,
-   "moyenne": 1.6,
-   "statut": "centre_aile"
+   "misesAuJeu": 14,
+   "gagnees": 7,
+   "moyenne": 2.8,
+   "statut": "officiel"
   },
   "8481523": {
    "nom": "Kirby Dach",
@@ -2983,7 +2983,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 74,
-   "gagnees": 38,
+   "gagnees": 37,
    "moyenne": 14.8,
    "statut": "officiel"
   },
@@ -3172,9 +3172,9 @@
    "equipe": "BUF",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8482660": {
@@ -3451,9 +3451,9 @@
    "nom": "Tyson Kozak",
    "equipe": "BUF",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 2,
-   "gagnees": 1,
+   "matchs": 2,
+   "misesAuJeu": 4,
+   "gagnees": 2,
    "moyenne": 2.0,
    "statut": "officiel"
   },
@@ -3531,10 +3531,10 @@
    "nom": "Jiri Kulich",
    "equipe": "BUF",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 32,
+   "matchs": 5,
+   "misesAuJeu": 36,
    "gagnees": 16,
-   "moyenne": 8.0,
+   "moyenne": 7.2,
    "statut": "officiel"
   },
   "8483471": {
@@ -3602,9 +3602,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 18,
-   "moyenne": 10.2,
+   "misesAuJeu": 46,
+   "gagnees": 14,
+   "moyenne": 9.2,
    "statut": "officiel"
   },
   "8483505": {
@@ -3762,9 +3762,9 @@
    "equipe": "FLA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8483808": {
@@ -3812,9 +3812,9 @@
    "equipe": "BUF",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 2,
-   "moyenne": 1.2,
+   "misesAuJeu": 8,
+   "gagnees": 3,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8484153": {
@@ -4061,10 +4061,10 @@
    "nom": "Konsta Helenius",
    "equipe": "BUF",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 1,
+   "matchs": 5,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8484800": {
