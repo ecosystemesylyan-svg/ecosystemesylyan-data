@@ -2313,7 +2313,7 @@
    "pos": "L",
    "matchs": 5,
    "misesAuJeu": 29,
-   "gagnees": 18,
+   "gagnees": 17,
    "moyenne": 5.8,
    "statut": "ailier_centre"
   },
@@ -2323,7 +2323,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 49,
-   "gagnees": 26,
+   "gagnees": 27,
    "moyenne": 9.8,
    "statut": "officiel"
   },
