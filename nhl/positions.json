@@ -241,10 +241,10 @@
    "nom": "Nicolas Deslauriers",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 2,
-   "misesAuJeu": 0,
+   "matchs": 3,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8475253": {
@@ -352,9 +352,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8475794": {
@@ -582,9 +582,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 63,
-   "gagnees": 33,
-   "moyenne": 12.6,
+   "misesAuJeu": 62,
+   "gagnees": 35,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8476468": {
@@ -682,9 +682,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 62,
-   "gagnees": 27,
-   "moyenne": 12.4,
+   "misesAuJeu": 67,
+   "gagnees": 29,
+   "moyenne": 13.4,
    "statut": "ailier_centre"
   },
   "8476878": {
@@ -962,9 +962,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8477479": {
@@ -1232,9 +1232,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 67,
-   "gagnees": 30,
-   "moyenne": 13.4,
+   "misesAuJeu": 68,
+   "gagnees": 33,
+   "moyenne": 13.6,
    "statut": "officiel"
   },
   "8477998": {
@@ -1301,7 +1301,7 @@
    "nom": "Michael Bunting",
    "equipe": "PHI",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1462,9 +1462,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 62,
-   "gagnees": 37,
-   "moyenne": 12.4,
+   "misesAuJeu": 73,
+   "gagnees": 40,
+   "moyenne": 14.6,
    "statut": "officiel"
   },
   "8478434": {
@@ -1652,9 +1652,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 53,
+   "misesAuJeu": 50,
    "gagnees": 28,
-   "moyenne": 10.6,
+   "moyenne": 10.0,
    "statut": "officiel"
   },
   "8478831": {
@@ -1741,7 +1741,7 @@
    "nom": "Carl Grundstrom",
    "equipe": "PHI",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2212,9 +2212,9 @@
    "equipe": "PHI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 48,
-   "gagnees": 28,
-   "moyenne": 9.6,
+   "misesAuJeu": 44,
+   "gagnees": 24,
+   "moyenne": 8.8,
    "statut": "ailier_centre"
   },
   "8480281": {
@@ -2292,9 +2292,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8480797": {
@@ -2341,10 +2341,10 @@
    "nom": "Jesperi Kotkaniemi",
    "equipe": "CAR",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "matchs": 5,
+   "misesAuJeu": 9,
+   "gagnees": 5,
+   "moyenne": 1.8,
    "statut": "centre_aile"
   },
   "8480830": {
@@ -2592,9 +2592,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 36,
-   "gagnees": 12,
-   "moyenne": 7.2,
+   "misesAuJeu": 41,
+   "gagnees": 13,
+   "moyenne": 8.2,
    "statut": "officiel"
   },
   "8481534": {
@@ -3242,9 +3242,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 18,
-   "moyenne": 10.8,
+   "misesAuJeu": 51,
+   "gagnees": 23,
+   "moyenne": 10.2,
    "statut": "officiel"
   },
   "8482703": {
@@ -3412,9 +3412,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482859": {
@@ -3801,10 +3801,10 @@
    "nom": "Denver Barkey",
    "equipe": "PHI",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 10,
+   "matchs": 4,
+   "misesAuJeu": 12,
    "gagnees": 4,
-   "moyenne": 3.33,
+   "moyenne": 3.0,
    "statut": "officiel"
   },
   "8484145": {
@@ -3972,9 +3972,9 @@
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 7,
-   "moyenne": 2.4,
+   "misesAuJeu": 11,
+   "gagnees": 5,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8484388": {
@@ -4222,9 +4222,9 @@
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8485414": {
