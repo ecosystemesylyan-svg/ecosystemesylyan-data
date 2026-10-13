@@ -282,9 +282,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 15,
-   "moyenne": 9.0,
+   "misesAuJeu": 56,
+   "gagnees": 23,
+   "moyenne": 11.2,
    "statut": "officiel"
   },
   "8475692": {
@@ -522,9 +522,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
-   "gagnees": 47,
-   "moyenne": 15.4,
+   "misesAuJeu": 74,
+   "gagnees": 46,
+   "moyenne": 14.8,
    "statut": "officiel"
   },
   "8476453": {
@@ -712,9 +712,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
+   "misesAuJeu": 62,
    "gagnees": 35,
-   "moyenne": 11.8,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8476882": {
@@ -912,9 +912,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 36,
-   "moyenne": 13.2,
+   "misesAuJeu": 68,
+   "gagnees": 34,
+   "moyenne": 13.6,
    "statut": "officiel"
   },
   "8477450": {
@@ -932,9 +932,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 28,
-   "moyenne": 11.0,
+   "misesAuJeu": 53,
+   "gagnees": 27,
+   "moyenne": 10.6,
    "statut": "ailier_centre"
   },
   "8477456": {
@@ -1212,9 +1212,9 @@
    "equipe": "VGK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477987": {
@@ -1402,9 +1402,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 87,
-   "gagnees": 40,
-   "moyenne": 17.4,
+   "misesAuJeu": 76,
+   "gagnees": 32,
+   "moyenne": 15.2,
    "statut": "officiel"
   },
   "8478413": {
@@ -1592,9 +1592,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 93,
-   "gagnees": 50,
-   "moyenne": 18.6,
+   "misesAuJeu": 88,
+   "gagnees": 49,
+   "moyenne": 17.6,
    "statut": "officiel"
   },
   "8478498": {
@@ -1613,7 +1613,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 2,
-   "gagnees": 0,
+   "gagnees": 1,
    "moyenne": 0.4,
    "statut": "centre_aile"
   },
@@ -1682,9 +1682,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8478891": {
@@ -1792,9 +1792,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 11,
+   "misesAuJeu": 12,
    "gagnees": 7,
-   "moyenne": 2.2,
+   "moyenne": 2.4,
    "statut": "officiel"
   },
   "8479359": {
@@ -2531,10 +2531,10 @@
    "nom": "Nico Sturm",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 14,
-   "gagnees": 13,
-   "moyenne": 7.0,
+   "matchs": 3,
+   "misesAuJeu": 17,
+   "gagnees": 15,
+   "moyenne": 5.67,
    "statut": "officiel"
   },
   "8481481": {
@@ -2601,11 +2601,11 @@
    "nom": "Raphael Lavoie",
    "equipe": "VGK",
    "pos": "C",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.5,
-   "statut": "officiel"
+   "moyenne": 0.33,
+   "statut": "centre_aile"
   },
   "8481535": {
    "nom": "Nils Hoglander",
@@ -2643,7 +2643,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 1,
-   "gagnees": 0,
+   "gagnees": 1,
    "moyenne": 0.2,
    "statut": "officiel"
   },
@@ -2662,9 +2662,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 7,
+   "misesAuJeu": 8,
    "gagnees": 2,
-   "moyenne": 1.4,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8481559": {
@@ -3561,7 +3561,7 @@
    "nom": "Rieger Lorenz",
    "equipe": "MIN",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3662,9 +3662,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 39,
+   "misesAuJeu": 41,
    "gagnees": 22,
-   "moyenne": 7.8,
+   "moyenne": 8.2,
    "statut": "ailier_centre"
   },
   "8483553": {
@@ -4092,9 +4092,9 @@
    "equipe": "VGK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8484829": {
