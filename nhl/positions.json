@@ -123,7 +123,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 94,
-   "gagnees": 43,
+   "gagnees": 44,
    "moyenne": 18.8,
    "statut": "officiel"
   },
@@ -382,9 +382,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 73,
+   "misesAuJeu": 77,
    "gagnees": 33,
-   "moyenne": 14.6,
+   "moyenne": 15.4,
    "statut": "officiel"
   },
   "8475799": {
@@ -562,9 +562,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 11,
-   "moyenne": 5.8,
+   "misesAuJeu": 24,
+   "gagnees": 10,
+   "moyenne": 4.8,
    "statut": "officiel"
   },
   "8476459": {
@@ -1371,10 +1371,10 @@
    "nom": "Frank Vatrano",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 2,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8478398": {
@@ -1451,10 +1451,10 @@
    "nom": "A.J. Greer",
    "equipe": "ANA",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 0.75,
+   "matchs": 5,
+   "misesAuJeu": 4,
+   "gagnees": 3,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8478424": {
@@ -2132,9 +2132,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 31,
-   "moyenne": 13.2,
+   "misesAuJeu": 65,
+   "gagnees": 29,
+   "moyenne": 13.0,
    "statut": "officiel"
   },
   "8480029": {
@@ -2322,9 +2322,9 @@
    "equipe": "CGY",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 8,
+   "misesAuJeu": 9,
    "gagnees": 3,
-   "moyenne": 1.6,
+   "moyenne": 1.8,
    "statut": "officiel"
   },
   "8480801": {
@@ -2512,9 +2512,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 50,
-   "gagnees": 26,
-   "moyenne": 10.0,
+   "misesAuJeu": 54,
+   "gagnees": 31,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8481032": {
@@ -2542,9 +2542,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 5,
-   "moyenne": 1.2,
+   "misesAuJeu": 4,
+   "gagnees": 4,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8481477": {
@@ -2642,9 +2642,9 @@
    "equipe": "ANA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8481540": {
@@ -3021,10 +3021,10 @@
    "nom": "Sam Colangelo",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.67,
+   "matchs": 4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8482121": {
@@ -3242,9 +3242,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 33,
-   "gagnees": 21,
-   "moyenne": 6.6,
+   "misesAuJeu": 30,
+   "gagnees": 18,
+   "moyenne": 6.0,
    "statut": "ailier_centre"
   },
   "8482691": {
@@ -3742,9 +3742,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 1,
-   "moyenne": 0.6,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8483676": {
@@ -3872,19 +3872,19 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 52,
-   "gagnees": 26,
-   "moyenne": 10.4,
+   "misesAuJeu": 55,
+   "gagnees": 25,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8484154": {
    "nom": "Jonathan Castagna",
    "equipe": "CGY",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 17,
-   "gagnees": 10,
-   "moyenne": 8.5,
+   "matchs": 3,
+   "misesAuJeu": 23,
+   "gagnees": 13,
+   "moyenne": 7.67,
    "statut": "officiel"
   },
   "8484158": {
@@ -4001,7 +4001,7 @@
    "nom": "Aydar Suniev",
    "equipe": "CGY",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4191,10 +4191,10 @@
    "nom": "Maxim Tsyplakov",
    "equipe": "CGY",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 5,
-   "gagnees": 1,
-   "moyenne": 1.25,
+   "matchs": 5,
+   "misesAuJeu": 6,
+   "gagnees": 2,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8484984": {
@@ -4257,6 +4257,16 @@
    "moyenne": 0.2,
    "statut": "centre_aile"
   },
+  "8485400": {
+   "nom": "Roger McQueen",
+   "equipe": "ANA",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 6.0,
+   "statut": "officiel"
+  },
   "8485402": {
    "nom": "Michael Misa",
    "equipe": "SJS",
@@ -4292,9 +4302,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
-   "gagnees": 46,
-   "moyenne": 18.0,
+   "misesAuJeu": 83,
+   "gagnees": 42,
+   "moyenne": 16.6,
    "statut": "officiel"
   },
   "8485702": {
