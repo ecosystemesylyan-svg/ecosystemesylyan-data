@@ -132,9 +132,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
+   "misesAuJeu": 51,
    "gagnees": 24,
-   "moyenne": 11.0,
+   "moyenne": 10.2,
    "statut": "officiel"
   },
   "8474564": {
@@ -311,10 +311,10 @@
    "nom": "Charlie Coyle",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 58,
-   "gagnees": 37,
-   "moyenne": 14.5,
+   "matchs": 5,
+   "misesAuJeu": 68,
+   "gagnees": 42,
+   "moyenne": 13.6,
    "statut": "officiel"
   },
   "8475754": {
@@ -862,9 +862,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8477416": {
@@ -1011,10 +1011,10 @@
    "nom": "Sean Monahan",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 65,
-   "gagnees": 28,
-   "moyenne": 16.25,
+   "matchs": 5,
+   "misesAuJeu": 86,
+   "gagnees": 39,
+   "moyenne": 17.2,
    "statut": "officiel"
   },
   "8477500": {
@@ -1031,10 +1031,10 @@
    "nom": "Valeri Nichushkin",
    "equipe": "CBJ",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.5,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477505": {
@@ -1072,9 +1072,9 @@
    "equipe": "FLA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477919": {
@@ -1092,9 +1092,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 37,
-   "gagnees": 20,
-   "moyenne": 7.4,
+   "misesAuJeu": 44,
+   "gagnees": 23,
+   "moyenne": 8.8,
    "statut": "officiel"
   },
   "8477934": {
@@ -1281,20 +1281,20 @@
    "nom": "Sam Lafferty",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 11,
-   "gagnees": 4,
-   "moyenne": 5.5,
+   "matchs": 3,
+   "misesAuJeu": 18,
+   "gagnees": 5,
+   "moyenne": 6.0,
    "statut": "officiel"
   },
   "8478046": {
    "nom": "Danton Heinen",
    "equipe": "CBJ",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 25,
-   "gagnees": 11,
-   "moyenne": 6.25,
+   "matchs": 5,
+   "misesAuJeu": 34,
+   "gagnees": 17,
+   "moyenne": 6.8,
    "statut": "ailier_centre"
   },
   "8478047": {
@@ -1671,10 +1671,10 @@
    "nom": "Conor Garland",
    "equipe": "CBJ",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8478864": {
@@ -1711,10 +1711,10 @@
    "nom": "Ryan Lomberg",
    "equipe": "CBJ",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8479314": {
@@ -1921,7 +1921,7 @@
    "nom": "Mathieu Olivier",
    "equipe": "CBJ",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2182,9 +2182,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 7,
+   "gagnees": 3,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8480188": {
@@ -2312,9 +2312,9 @@
    "equipe": "FLA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 17,
-   "moyenne": 5.8,
+   "misesAuJeu": 32,
+   "gagnees": 16,
+   "moyenne": 6.4,
    "statut": "ailier_centre"
   },
   "8480802": {
@@ -2791,10 +2791,10 @@
    "nom": "Dmitri Voronkov",
    "equipe": "CBJ",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8481721": {
@@ -2982,9 +2982,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 74,
-   "gagnees": 37,
-   "moyenne": 14.8,
+   "misesAuJeu": 72,
+   "gagnees": 34,
+   "moyenne": 14.4,
    "statut": "officiel"
   },
   "8482116": {
@@ -3181,10 +3181,10 @@
    "nom": "Kent Johnson",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8482665": {
@@ -3261,10 +3261,10 @@
    "nom": "Cole Sillinger",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 5,
-   "gagnees": 4,
-   "moyenne": 1.25,
+   "matchs": 5,
+   "misesAuJeu": 7,
+   "gagnees": 5,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8482713": {
@@ -3281,10 +3281,10 @@
    "nom": "Matthew Knies",
    "equipe": "CBJ",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.75,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8482726": {
@@ -3871,10 +3871,10 @@
    "nom": "Adam Fantilli",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 70,
-   "gagnees": 54,
-   "moyenne": 17.5,
+   "matchs": 5,
+   "misesAuJeu": 94,
+   "gagnees": 67,
+   "moyenne": 18.8,
    "statut": "officiel"
   },
   "8484180": {
