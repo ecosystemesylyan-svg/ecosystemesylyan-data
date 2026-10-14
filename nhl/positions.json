@@ -32,9 +32,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 3,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8471675": {
@@ -42,9 +42,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 105,
-   "gagnees": 60,
-   "moyenne": 21.0,
+   "misesAuJeu": 100,
+   "gagnees": 57,
+   "moyenne": 20.0,
    "statut": "officiel"
   },
   "8473419": {
@@ -317,6 +317,16 @@
    "moyenne": 13.6,
    "statut": "officiel"
   },
+  "8475752": {
+   "nom": "Tyler Pitlick",
+   "equipe": "MIN",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8475754": {
    "nom": "Brock Nelson",
    "equipe": "COL",
@@ -381,7 +391,7 @@
    "nom": "Nino Niederreiter",
    "equipe": "WPG",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -391,7 +401,7 @@
    "nom": "Bryan Rust",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -472,9 +482,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
-   "gagnees": 43,
-   "moyenne": 18.0,
+   "misesAuJeu": 79,
+   "gagnees": 38,
+   "moyenne": 15.8,
    "statut": "officiel"
   },
   "8476393": {
@@ -572,9 +582,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 79,
-   "gagnees": 39,
-   "moyenne": 15.8,
+   "misesAuJeu": 77,
+   "gagnees": 34,
+   "moyenne": 15.4,
    "statut": "officiel"
   },
   "8476461": {
@@ -632,9 +642,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 32,
-   "gagnees": 16,
-   "moyenne": 6.4,
+   "misesAuJeu": 23,
+   "gagnees": 11,
+   "moyenne": 4.6,
    "statut": "officiel"
   },
   "8476483": {
@@ -721,7 +731,7 @@
    "nom": "Teuvo Teravainen",
    "equipe": "CHI",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -791,10 +801,10 @@
    "nom": "Dominic Toninato",
    "equipe": "CHI",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 13,
-   "gagnees": 7,
-   "moyenne": 6.5,
+   "matchs": 3,
+   "misesAuJeu": 18,
+   "gagnees": 10,
+   "moyenne": 6.0,
    "statut": "officiel"
   },
   "8476981": {
@@ -912,9 +922,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 68,
-   "gagnees": 34,
-   "moyenne": 13.6,
+   "misesAuJeu": 70,
+   "gagnees": 32,
+   "moyenne": 14.0,
    "statut": "officiel"
   },
   "8477450": {
@@ -932,9 +942,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 53,
-   "gagnees": 27,
-   "moyenne": 10.6,
+   "misesAuJeu": 55,
+   "gagnees": 28,
+   "moyenne": 11.0,
    "statut": "ailier_centre"
   },
   "8477456": {
@@ -1222,9 +1232,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8477989": {
@@ -1412,9 +1422,9 @@
    "equipe": "CHI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478414": {
@@ -1482,9 +1492,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 18,
-   "moyenne": 10.2,
+   "misesAuJeu": 54,
+   "gagnees": 22,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8478439": {
@@ -1592,9 +1602,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 88,
-   "gagnees": 49,
-   "moyenne": 17.6,
+   "misesAuJeu": 83,
+   "gagnees": 47,
+   "moyenne": 16.6,
    "statut": "officiel"
   },
   "8478498": {
@@ -1612,9 +1622,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8478519": {
@@ -1682,9 +1692,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 1,
-   "moyenne": 0.6,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8478891": {
@@ -2062,9 +2072,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 17,
-   "gagnees": 10,
-   "moyenne": 3.4,
+   "misesAuJeu": 18,
+   "gagnees": 8,
+   "moyenne": 3.6,
    "statut": "officiel"
   },
   "8480015": {
@@ -2183,7 +2193,7 @@
    "pos": "L",
    "matchs": 5,
    "misesAuJeu": 1,
-   "gagnees": 0,
+   "gagnees": 1,
    "moyenne": 0.2,
    "statut": "officiel"
   },
@@ -2242,9 +2252,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 10,
-   "gagnees": 5,
-   "moyenne": 2.0,
+   "misesAuJeu": 24,
+   "gagnees": 14,
+   "moyenne": 4.8,
    "statut": "officiel"
   },
   "8480326": {
@@ -2462,9 +2472,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 1,
-   "moyenne": 0.8,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8480995": {
@@ -2521,7 +2531,7 @@
    "nom": "Cole Koepke",
    "equipe": "WPG",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2552,9 +2562,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 63,
-   "gagnees": 22,
-   "moyenne": 12.6,
+   "misesAuJeu": 64,
+   "gagnees": 25,
+   "moyenne": 12.8,
    "statut": "officiel"
   },
   "8481522": {
@@ -2672,9 +2682,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 2,
-   "moyenne": 1.6,
+   "misesAuJeu": 11,
+   "gagnees": 5,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8481559": {
@@ -2882,9 +2892,9 @@
    "equipe": "CHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8482074": {
@@ -3072,9 +3082,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8482155": {
@@ -3381,10 +3391,10 @@
    "nom": "Ville Koivunen",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "matchs": 5,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482765": {
@@ -3532,9 +3542,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 78,
-   "gagnees": 32,
-   "moyenne": 15.6,
+   "misesAuJeu": 77,
+   "gagnees": 34,
+   "moyenne": 15.4,
    "statut": "officiel"
   },
   "8483455": {
@@ -3591,7 +3601,7 @@
    "nom": "Rieger Lorenz",
    "equipe": "MIN",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3692,9 +3702,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 41,
-   "gagnees": 22,
-   "moyenne": 8.2,
+   "misesAuJeu": 38,
+   "gagnees": 23,
+   "moyenne": 7.6,
    "statut": "ailier_centre"
   },
   "8483553": {
@@ -3801,7 +3811,7 @@
    "nom": "Andrei Kuzmenko",
    "equipe": "PIT",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3835,6 +3845,16 @@
    "misesAuJeu": 12,
    "gagnees": 4,
    "moyenne": 2.4,
+   "statut": "officiel"
+  },
+  "8484144": {
+   "nom": "Connor Bedard",
+   "equipe": "CHI",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 14,
+   "gagnees": 6,
+   "moyenne": 14.0,
    "statut": "officiel"
   },
   "8484145": {
@@ -3942,9 +3962,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 31,
+   "misesAuJeu": 30,
    "gagnees": 13,
-   "moyenne": 6.2,
+   "moyenne": 6.0,
    "statut": "officiel"
   },
   "8484210": {
@@ -4022,10 +4042,10 @@
    "equipe": "CHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 28,
-   "gagnees": 14,
-   "moyenne": 5.6,
-   "statut": "ailier_centre"
+   "misesAuJeu": 22,
+   "gagnees": 11,
+   "moyenne": 4.4,
+   "statut": "officiel"
   },
   "8484403": {
    "nom": "Florian Xhekaj",
@@ -4222,9 +4242,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 76,
-   "gagnees": 31,
-   "moyenne": 15.2,
+   "misesAuJeu": 84,
+   "gagnees": 43,
+   "moyenne": 16.8,
    "statut": "officiel"
   },
   "8485395": {
@@ -4263,7 +4283,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 41,
-   "gagnees": 21,
+   "gagnees": 20,
    "moyenne": 8.2,
    "statut": "officiel"
   },
