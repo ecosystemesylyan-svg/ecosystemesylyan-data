@@ -213,7 +213,7 @@
    "pos": "L",
    "matchs": 5,
    "misesAuJeu": 2,
-   "gagnees": 1,
+   "gagnees": 2,
    "moyenne": 0.4,
    "statut": "officiel"
   },
@@ -241,10 +241,10 @@
    "nom": "Nicolas Deslauriers",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8475253": {
@@ -352,9 +352,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8475794": {
@@ -512,9 +512,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 63,
+   "misesAuJeu": 66,
    "gagnees": 39,
-   "moyenne": 12.6,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8476448": {
@@ -562,9 +562,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 79,
-   "gagnees": 45,
-   "moyenne": 15.8,
+   "misesAuJeu": 74,
+   "gagnees": 43,
+   "moyenne": 14.8,
    "statut": "officiel"
   },
   "8476460": {
@@ -592,9 +592,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 80,
-   "gagnees": 39,
-   "moyenne": 16.0,
+   "misesAuJeu": 82,
+   "gagnees": 49,
+   "moyenne": 16.4,
    "statut": "officiel"
   },
   "8476469": {
@@ -622,9 +622,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 30,
-   "moyenne": 11.2,
+   "misesAuJeu": 66,
+   "gagnees": 37,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8476480": {
@@ -682,9 +682,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 67,
-   "gagnees": 29,
-   "moyenne": 13.4,
+   "misesAuJeu": 69,
+   "gagnees": 31,
+   "moyenne": 13.8,
    "statut": "ailier_centre"
   },
   "8476878": {
@@ -692,9 +692,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 33,
-   "moyenne": 12.0,
+   "misesAuJeu": 64,
+   "gagnees": 37,
+   "moyenne": 12.8,
    "statut": "officiel"
   },
   "8476880": {
@@ -702,9 +702,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8476881": {
@@ -762,9 +762,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 5,
-   "moyenne": 1.2,
+   "misesAuJeu": 5,
+   "gagnees": 4,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8476925": {
@@ -842,9 +842,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 24,
-   "gagnees": 13,
-   "moyenne": 4.8,
+   "misesAuJeu": 19,
+   "gagnees": 7,
+   "moyenne": 3.8,
    "statut": "officiel"
   },
   "8477407": {
@@ -1152,9 +1152,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 13,
-   "gagnees": 4,
-   "moyenne": 2.6,
+   "misesAuJeu": 8,
+   "gagnees": 5,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8477951": {
@@ -1252,9 +1252,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 23,
-   "moyenne": 9.8,
+   "misesAuJeu": 50,
+   "gagnees": 24,
+   "moyenne": 10.0,
    "statut": "officiel"
   },
   "8478020": {
@@ -1323,7 +1323,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 66,
-   "gagnees": 38,
+   "gagnees": 34,
    "moyenne": 13.2,
    "statut": "officiel"
   },
@@ -1462,9 +1462,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 73,
-   "gagnees": 40,
-   "moyenne": 14.6,
+   "misesAuJeu": 84,
+   "gagnees": 43,
+   "moyenne": 16.8,
    "statut": "officiel"
   },
   "8478434": {
@@ -1502,9 +1502,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 70,
+   "misesAuJeu": 77,
    "gagnees": 36,
-   "moyenne": 14.0,
+   "moyenne": 15.4,
    "statut": "officiel"
   },
   "8478444": {
@@ -1552,9 +1552,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8478472": {
@@ -1622,9 +1622,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 93,
-   "gagnees": 45,
-   "moyenne": 18.6,
+   "misesAuJeu": 89,
+   "gagnees": 43,
+   "moyenne": 17.8,
    "statut": "officiel"
   },
   "8478542": {
@@ -1802,9 +1802,9 @@
    "equipe": "BUF",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479365": {
@@ -1832,9 +1832,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 0,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8479400": {
@@ -1862,9 +1862,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 63,
-   "gagnees": 30,
-   "moyenne": 12.6,
+   "misesAuJeu": 61,
+   "gagnees": 25,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8479520": {
@@ -1892,9 +1892,9 @@
    "equipe": "TBL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8479619": {
@@ -1941,10 +1941,10 @@
    "nom": "Jeffrey Viel",
    "equipe": "TBL",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 0,
+   "matchs": 5,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8479772": {
@@ -1961,10 +1961,10 @@
    "nom": "Justin Danforth",
    "equipe": "BUF",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 25,
-   "gagnees": 13,
-   "moyenne": 8.33,
+   "matchs": 4,
+   "misesAuJeu": 31,
+   "gagnees": 16,
+   "moyenne": 7.75,
    "statut": "ailier_centre"
   },
   "8479977": {
@@ -2082,9 +2082,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 97,
-   "gagnees": 49,
-   "moyenne": 19.4,
+   "misesAuJeu": 102,
+   "gagnees": 51,
+   "moyenne": 20.4,
    "statut": "officiel"
   },
   "8480023": {
@@ -2142,9 +2142,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 25,
-   "moyenne": 9.0,
+   "misesAuJeu": 49,
+   "gagnees": 29,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8480068": {
@@ -2322,9 +2322,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 27,
-   "moyenne": 9.8,
+   "misesAuJeu": 60,
+   "gagnees": 35,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8480813": {
@@ -2342,10 +2342,10 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 9,
-   "gagnees": 5,
-   "moyenne": 1.8,
-   "statut": "centre_aile"
+   "misesAuJeu": 15,
+   "gagnees": 6,
+   "moyenne": 3.0,
+   "statut": "officiel"
   },
   "8480830": {
    "nom": "Andrei Svechnikov",
@@ -2562,9 +2562,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 3,
-   "moyenne": 1.2,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8481528": {
@@ -2632,9 +2632,9 @@
    "equipe": "MTL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8481553": {
@@ -2743,7 +2743,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 55,
-   "gagnees": 34,
+   "gagnees": 31,
    "moyenne": 11.0,
    "statut": "officiel"
   },
@@ -2772,9 +2772,9 @@
    "equipe": "WSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 4,
-   "moyenne": 1.2,
+   "misesAuJeu": 4,
+   "gagnees": 3,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8481711": {
@@ -2922,9 +2922,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 26,
-   "gagnees": 12,
-   "moyenne": 5.2,
+   "misesAuJeu": 33,
+   "gagnees": 17,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8482089": {
@@ -2952,9 +2952,9 @@
    "equipe": "BUF",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482109": {
@@ -2962,9 +2962,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8482110": {
@@ -3072,9 +3072,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 20,
-   "gagnees": 11,
-   "moyenne": 4.0,
+   "misesAuJeu": 22,
+   "gagnees": 12,
+   "moyenne": 4.4,
    "statut": "officiel"
   },
   "8482159": {
@@ -3141,7 +3141,7 @@
    "nom": "Matt Rempe",
    "equipe": "NYR",
    "pos": "C",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3243,7 +3243,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 51,
-   "gagnees": 23,
+   "gagnees": 24,
    "moyenne": 10.2,
    "statut": "officiel"
   },
@@ -3467,6 +3467,16 @@
    "moyenne": 0.6,
    "statut": "officiel"
   },
+  "8483424": {
+   "nom": "Owen Beck",
+   "equipe": "MTL",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8483431": {
    "nom": "Logan Cooley",
    "equipe": "UTA",
@@ -3492,9 +3502,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 31,
-   "gagnees": 11,
-   "moyenne": 6.2,
+   "misesAuJeu": 37,
+   "gagnees": 13,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8483450": {
@@ -3532,9 +3542,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 36,
-   "gagnees": 16,
-   "moyenne": 7.2,
+   "misesAuJeu": 32,
+   "gagnees": 15,
+   "moyenne": 6.4,
    "statut": "officiel"
   },
   "8483471": {
@@ -3602,9 +3612,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 46,
+   "misesAuJeu": 43,
    "gagnees": 14,
-   "moyenne": 9.2,
+   "moyenne": 8.6,
    "statut": "officiel"
   },
   "8483505": {
@@ -3691,7 +3701,7 @@
    "nom": "Ethen Frank",
    "equipe": "WSH",
    "pos": "R",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3722,9 +3732,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 57,
-   "gagnees": 32,
-   "moyenne": 11.4,
+   "misesAuJeu": 53,
+   "gagnees": 30,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8483695": {
@@ -3812,9 +3822,9 @@
    "equipe": "BUF",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 3,
-   "moyenne": 1.6,
+   "misesAuJeu": 6,
+   "gagnees": 2,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8484153": {
@@ -3922,9 +3932,9 @@
    "equipe": "NYR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8484221": {
@@ -4041,10 +4051,10 @@
    "nom": "Cole Beaudoin",
    "equipe": "NYR",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 28,
-   "gagnees": 14,
-   "moyenne": 9.33,
+   "matchs": 4,
+   "misesAuJeu": 33,
+   "gagnees": 16,
+   "moyenne": 8.25,
    "statut": "officiel"
   },
   "8484794": {
@@ -4062,9 +4072,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8484800": {
@@ -4173,7 +4183,7 @@
    "pos": "L",
    "matchs": 5,
    "misesAuJeu": 42,
-   "gagnees": 18,
+   "gagnees": 19,
    "moyenne": 8.4,
    "statut": "ailier_centre"
   },
