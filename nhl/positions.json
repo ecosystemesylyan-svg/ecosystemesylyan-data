@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-12",
+ "dernierMatch": "2026-10-13",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -611,10 +611,10 @@
    "nom": "Stefan Noesen",
    "equipe": "NJD",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8476479": {
@@ -892,9 +892,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 105,
-   "gagnees": 58,
-   "moyenne": 21.0,
+   "misesAuJeu": 97,
+   "gagnees": 53,
+   "moyenne": 19.4,
    "statut": "officiel"
   },
   "8477444": {
@@ -1141,10 +1141,10 @@
    "nom": "Dylan Larkin",
    "equipe": "DET",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 56,
-   "gagnees": 29,
-   "moyenne": 18.67,
+   "matchs": 4,
+   "misesAuJeu": 81,
+   "gagnees": 42,
+   "moyenne": 20.25,
    "statut": "officiel"
   },
   "8477949": {
@@ -1272,9 +1272,9 @@
    "equipe": "DET",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 3,
-   "moyenne": 1.2,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8478043": {
@@ -1422,9 +1422,9 @@
    "equipe": "NJD",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478420": {
@@ -1632,9 +1632,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 75,
-   "gagnees": 37,
-   "moyenne": 15.0,
+   "misesAuJeu": 66,
+   "gagnees": 27,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8478550": {
@@ -1752,9 +1752,9 @@
    "equipe": "DET",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479343": {
@@ -1992,9 +1992,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8479996": {
@@ -2002,9 +2002,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 39,
-   "moyenne": 13.2,
+   "misesAuJeu": 72,
+   "gagnees": 47,
+   "moyenne": 14.4,
    "statut": "officiel"
   },
   "8479999": {
@@ -2023,7 +2023,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 94,
-   "gagnees": 51,
+   "gagnees": 49,
    "moyenne": 18.8,
    "statut": "officiel"
   },
@@ -2031,7 +2031,7 @@
    "nom": "Jesper Boqvist",
    "equipe": "NJD",
    "pos": "C",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2241,11 +2241,11 @@
    "nom": "Sheldon Dries",
    "equipe": "DET",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 2,
+   "matchs": 3,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 1.0,
-   "statut": "officiel"
+   "moyenne": 1.33,
+   "statut": "centre_aile"
   },
   "8480355": {
    "nom": "Mark Kastelic",
@@ -2672,9 +2672,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 50,
-   "gagnees": 15,
-   "moyenne": 10.0,
+   "misesAuJeu": 48,
+   "gagnees": 18,
+   "moyenne": 9.6,
    "statut": "officiel"
   },
   "8481580": {
@@ -2972,9 +2972,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8482113": {
@@ -3401,7 +3401,7 @@
    "nom": "Carter Mazur",
    "equipe": "DET",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4012,9 +4012,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 18,
-   "moyenne": 9.0,
+   "misesAuJeu": 59,
+   "gagnees": 24,
+   "moyenne": 11.8,
    "statut": "officiel"
   },
   "8484509": {
