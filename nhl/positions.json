@@ -103,7 +103,7 @@
    "pos": "L",
    "matchs": 5,
    "misesAuJeu": 2,
-   "gagnees": 1,
+   "gagnees": 2,
    "moyenne": 0.4,
    "statut": "officiel"
   },
@@ -202,9 +202,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 28,
-   "gagnees": 10,
-   "moyenne": 5.6,
+   "misesAuJeu": 35,
+   "gagnees": 15,
+   "moyenne": 7.0,
    "statut": "officiel"
   },
   "8475184": {
@@ -332,9 +332,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 86,
-   "gagnees": 44,
-   "moyenne": 17.2,
+   "misesAuJeu": 84,
+   "gagnees": 41,
+   "moyenne": 16.8,
    "statut": "officiel"
   },
   "8475768": {
@@ -372,9 +372,9 @@
    "equipe": "DAL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 12,
+   "misesAuJeu": 11,
    "gagnees": 5,
-   "moyenne": 2.4,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8475798": {
@@ -441,10 +441,10 @@
    "nom": "Colin Blackwell",
    "equipe": "DAL",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 1.0,
+   "matchs": 5,
+   "misesAuJeu": 7,
+   "gagnees": 3,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8476292": {
@@ -552,9 +552,9 @@
    "equipe": "COL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 10,
-   "gagnees": 6,
-   "moyenne": 2.0,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8476458": {
@@ -752,9 +752,9 @@
    "equipe": "DAL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 30,
-   "gagnees": 11,
-   "moyenne": 6.0,
+   "misesAuJeu": 32,
+   "gagnees": 16,
+   "moyenne": 6.4,
    "statut": "officiel"
   },
   "8476905": {
@@ -992,9 +992,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 99,
-   "gagnees": 48,
-   "moyenne": 19.8,
+   "misesAuJeu": 93,
+   "gagnees": 43,
+   "moyenne": 18.6,
    "statut": "officiel"
   },
   "8477493": {
@@ -1442,9 +1442,9 @@
    "equipe": "DAL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 11,
-   "gagnees": 6,
-   "moyenne": 2.2,
+   "misesAuJeu": 8,
+   "gagnees": 5,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8478421": {
@@ -1532,9 +1532,9 @@
    "equipe": "DAL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 76,
-   "gagnees": 47,
-   "moyenne": 15.2,
+   "misesAuJeu": 79,
+   "gagnees": 45,
+   "moyenne": 15.8,
    "statut": "officiel"
   },
   "8478458": {
@@ -1792,9 +1792,9 @@
    "equipe": "DAL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 20,
-   "gagnees": 10,
-   "moyenne": 4.0,
+   "misesAuJeu": 28,
+   "gagnees": 15,
+   "moyenne": 5.6,
    "statut": "officiel"
   },
   "8479353": {
@@ -2282,9 +2282,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 7,
+   "misesAuJeu": 8,
    "gagnees": 4,
-   "moyenne": 1.4,
+   "moyenne": 1.6,
    "statut": "centre_aile"
   },
   "8480459": {
@@ -2392,9 +2392,9 @@
    "equipe": "DAL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 4,
-   "moyenne": 1.4,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8480842": {
@@ -2781,10 +2781,10 @@
    "nom": "Joel Kiviranta",
    "equipe": "DAL",
    "pos": "L",
-   "matchs": 2,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8481656": {
@@ -3412,9 +3412,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 13,
-   "moyenne": 5.8,
+   "misesAuJeu": 33,
+   "gagnees": 14,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8482784": {
@@ -3877,6 +3877,16 @@
    "moyenne": 1.2,
    "statut": "officiel"
   },
+  "8484149": {
+   "nom": "Gavin Brindley",
+   "equipe": "COL",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8484153": {
    "nom": "Leo Carlsson",
    "equipe": "ANA",
@@ -4192,9 +4202,9 @@
    "equipe": "DAL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 33,
-   "moyenne": 9.8,
+   "misesAuJeu": 51,
+   "gagnees": 32,
+   "moyenne": 10.2,
    "statut": "ailier_centre"
   },
   "8484958": {
@@ -4382,9 +4392,9 @@
    "equipe": "COL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 20,
-   "gagnees": 11,
-   "moyenne": 4.0,
+   "misesAuJeu": 18,
+   "gagnees": 9,
+   "moyenne": 3.6,
    "statut": "officiel"
   },
   "8486189": {
