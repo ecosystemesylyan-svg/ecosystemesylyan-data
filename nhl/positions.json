@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-13",
+ "dernierMatch": "2026-10-14",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -212,9 +212,9 @@
    "equipe": "MTL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8475220": {
@@ -522,9 +522,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 39,
-   "moyenne": 13.2,
+   "misesAuJeu": 73,
+   "gagnees": 42,
+   "moyenne": 14.6,
    "statut": "officiel"
   },
   "8476448": {
@@ -632,9 +632,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 37,
-   "moyenne": 13.2,
+   "misesAuJeu": 71,
+   "gagnees": 33,
+   "moyenne": 14.2,
    "statut": "officiel"
   },
   "8476480": {
@@ -812,9 +812,9 @@
    "equipe": "MTL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8477021": {
@@ -1332,9 +1332,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 34,
-   "moyenne": 13.2,
+   "misesAuJeu": 57,
+   "gagnees": 26,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8478147": {
@@ -1512,9 +1512,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
-   "gagnees": 36,
-   "moyenne": 15.4,
+   "misesAuJeu": 85,
+   "gagnees": 44,
+   "moyenne": 17.0,
    "statut": "officiel"
   },
   "8478444": {
@@ -1562,9 +1562,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8478472": {
@@ -2092,9 +2092,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 102,
+   "misesAuJeu": 97,
    "gagnees": 51,
-   "moyenne": 20.4,
+   "moyenne": 19.4,
    "statut": "officiel"
   },
   "8480021": {
@@ -2582,9 +2582,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8481528": {
@@ -2652,9 +2652,9 @@
    "equipe": "MTL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8481553": {
@@ -2762,9 +2762,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 31,
-   "moyenne": 11.0,
+   "misesAuJeu": 54,
+   "gagnees": 30,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8481624": {
@@ -2942,9 +2942,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 33,
-   "gagnees": 17,
-   "moyenne": 6.6,
+   "misesAuJeu": 44,
+   "gagnees": 23,
+   "moyenne": 8.8,
    "statut": "officiel"
   },
   "8482089": {
@@ -3501,7 +3501,7 @@
    "nom": "Owen Beck",
    "equipe": "MTL",
    "pos": "C",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3617,6 +3617,16 @@
    "moyenne": 11.2,
    "statut": "officiel"
   },
+  "8483491": {
+   "nom": "Ivan Miroshnichenko",
+   "equipe": "WSH",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8483493": {
    "nom": "Frank Nazar",
    "equipe": "CHI",
@@ -3672,9 +3682,9 @@
    "equipe": "MTL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 1,
-   "moyenne": 1.0,
+   "misesAuJeu": 4,
+   "gagnees": 0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8483516": {
@@ -4222,9 +4232,9 @@
    "equipe": "WSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 42,
-   "gagnees": 19,
-   "moyenne": 8.4,
+   "misesAuJeu": 37,
+   "gagnees": 18,
+   "moyenne": 7.4,
    "statut": "ailier_centre"
   },
   "8485388": {
