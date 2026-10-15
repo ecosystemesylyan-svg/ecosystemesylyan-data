@@ -522,9 +522,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 73,
+   "misesAuJeu": 72,
    "gagnees": 42,
-   "moyenne": 14.6,
+   "moyenne": 14.4,
    "statut": "officiel"
   },
   "8476448": {
@@ -712,9 +712,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8476881": {
