@@ -272,9 +272,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 6,
+   "gagnees": 4,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8475343": {
@@ -482,9 +482,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 62,
-   "gagnees": 38,
-   "moyenne": 12.4,
+   "misesAuJeu": 59,
+   "gagnees": 35,
+   "moyenne": 11.8,
    "statut": "officiel"
   },
   "8476392": {
@@ -1122,9 +1122,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 34,
-   "moyenne": 12.0,
+   "misesAuJeu": 56,
+   "gagnees": 38,
+   "moyenne": 11.2,
    "statut": "officiel"
   },
   "8477935": {
@@ -1182,9 +1182,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 18,
-   "moyenne": 9.0,
+   "misesAuJeu": 55,
+   "gagnees": 23,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8477953": {
@@ -1192,9 +1192,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477955": {
@@ -1412,9 +1412,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
-   "gagnees": 28,
-   "moyenne": 13.0,
+   "misesAuJeu": 58,
+   "gagnees": 26,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8478403": {
@@ -1582,9 +1582,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 0,
-   "moyenne": 0.4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8478474": {
@@ -1592,9 +1592,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478483": {
@@ -1682,9 +1682,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
-   "gagnees": 31,
-   "moyenne": 13.0,
+   "misesAuJeu": 63,
+   "gagnees": 30,
+   "moyenne": 12.6,
    "statut": "officiel"
   },
   "8478856": {
@@ -1832,19 +1832,19 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 1,
-   "moyenne": 1.0,
+   "misesAuJeu": 9,
+   "gagnees": 5,
+   "moyenne": 1.8,
    "statut": "centre_aile"
   },
   "8479368": {
    "nom": "Max Jones",
    "equipe": "EDM",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 1,
+   "matchs": 5,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.25,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479385": {
@@ -1991,10 +1991,10 @@
    "nom": "Kailer Yamamoto",
    "equipe": "UTA",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.5,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8479987": {
@@ -2421,10 +2421,10 @@
    "nom": "Filip Hallander",
    "equipe": "EDM",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.25,
+   "matchs": 5,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8480848": {
@@ -2443,7 +2443,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 55,
-   "gagnees": 29,
+   "gagnees": 30,
    "moyenne": 11.0,
    "statut": "officiel"
   },
@@ -2452,9 +2452,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 4,
-   "moyenne": 1.4,
+   "misesAuJeu": 9,
+   "gagnees": 5,
+   "moyenne": 1.8,
    "statut": "centre_aile"
   },
   "8480870": {
@@ -3532,9 +3532,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 29,
-   "moyenne": 11.6,
+   "misesAuJeu": 55,
+   "gagnees": 25,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8483445": {
@@ -4082,9 +4082,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8484390": {
@@ -4122,9 +4122,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 28,
-   "gagnees": 16,
-   "moyenne": 5.6,
+   "misesAuJeu": 32,
+   "gagnees": 17,
+   "moyenne": 6.4,
    "statut": "officiel"
   },
   "8484762": {
@@ -4412,9 +4412,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 71,
-   "gagnees": 37,
-   "moyenne": 14.2,
+   "misesAuJeu": 73,
+   "gagnees": 40,
+   "moyenne": 14.6,
    "statut": "ailier_centre"
   },
   "8486171": {
