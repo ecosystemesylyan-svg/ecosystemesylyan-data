@@ -92,9 +92,9 @@
    "equipe": "ANA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8473994": {
@@ -1022,9 +1022,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 96,
-   "gagnees": 58,
-   "moyenne": 19.2,
+   "misesAuJeu": 99,
+   "gagnees": 62,
+   "moyenne": 19.8,
    "statut": "officiel"
   },
   "8477497": {
@@ -1381,10 +1381,10 @@
    "nom": "Frank Vatrano",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 1.0,
+   "matchs": 4,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.25,
    "statut": "officiel"
   },
   "8478398": {
@@ -1402,9 +1402,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 61,
-   "gagnees": 27,
-   "moyenne": 12.2,
+   "misesAuJeu": 62,
+   "gagnees": 29,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8478402": {
@@ -2002,9 +2002,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 5,
-   "moyenne": 2.4,
+   "misesAuJeu": 16,
+   "gagnees": 8,
+   "moyenne": 3.2,
    "statut": "officiel"
   },
   "8479992": {
@@ -2032,9 +2032,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 9,
+   "misesAuJeu": 8,
    "gagnees": 5,
-   "moyenne": 1.8,
+   "moyenne": 1.6,
    "statut": "centre_aile"
   },
   "8480002": {
@@ -2292,9 +2292,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 21,
-   "gagnees": 13,
-   "moyenne": 4.2,
+   "misesAuJeu": 19,
+   "gagnees": 14,
+   "moyenne": 3.8,
    "statut": "officiel"
   },
   "8480448": {
@@ -2662,9 +2662,9 @@
    "equipe": "ANA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8481540": {
@@ -2882,9 +2882,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 0,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8481789": {
@@ -3152,10 +3152,10 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 9,
+   "misesAuJeu": 10,
    "gagnees": 4,
-   "moyenne": 1.8,
-   "statut": "centre_aile"
+   "moyenne": 2.0,
+   "statut": "officiel"
   },
   "8482201": {
    "nom": "Gage Goncalves",
@@ -3182,9 +3182,9 @@
    "equipe": "ANA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8482460": {
@@ -3542,10 +3542,10 @@
    "equipe": "ANA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 4,
-   "moyenne": 1.6,
-   "statut": "officiel"
+   "misesAuJeu": 28,
+   "gagnees": 8,
+   "moyenne": 5.6,
+   "statut": "ailier_centre"
   },
   "8483447": {
    "nom": "Conor Geekie",
@@ -3633,7 +3633,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 56,
-   "gagnees": 22,
+   "gagnees": 28,
    "moyenne": 11.2,
    "statut": "officiel"
   },
@@ -3681,10 +3681,10 @@
    "nom": "Matthew Poitras",
    "equipe": "BOS",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 15,
    "gagnees": 7,
-   "moyenne": 3.75,
+   "moyenne": 3.0,
    "statut": "officiel"
   },
   "8483513": {
@@ -3922,9 +3922,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 25,
-   "moyenne": 11.0,
+   "misesAuJeu": 51,
+   "gagnees": 22,
+   "moyenne": 10.2,
    "statut": "officiel"
   },
   "8484154": {
@@ -4132,9 +4132,9 @@
    "equipe": "ANA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8484786": {
@@ -4311,10 +4311,10 @@
    "nom": "Roger McQueen",
    "equipe": "ANA",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 6,
-   "gagnees": 3,
-   "moyenne": 6.0,
+   "matchs": 2,
+   "misesAuJeu": 17,
+   "gagnees": 7,
+   "moyenne": 8.5,
    "statut": "officiel"
   },
   "8485402": {
@@ -4352,9 +4352,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 83,
-   "gagnees": 42,
-   "moyenne": 16.6,
+   "misesAuJeu": 80,
+   "gagnees": 36,
+   "moyenne": 16.0,
    "statut": "officiel"
   },
   "8485702": {
@@ -4381,10 +4381,10 @@
    "nom": "Nikita Klepov",
    "equipe": "ANA",
    "pos": "R",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 1.0,
+   "moyenne": 0.5,
    "statut": "officiel"
   },
   "8486067": {
