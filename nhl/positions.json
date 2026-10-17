@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-16",
+ "dernierMatch": "2026-10-17",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -532,9 +532,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 72,
-   "gagnees": 42,
-   "moyenne": 14.4,
+   "misesAuJeu": 75,
+   "gagnees": 41,
+   "moyenne": 15.0,
    "statut": "officiel"
   },
   "8476448": {
@@ -631,10 +631,10 @@
    "nom": "Stefan Noesen",
    "equipe": "NJD",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8476479": {
@@ -845,6 +845,16 @@
    "misesAuJeu": 1,
    "gagnees": 0,
    "moyenne": 1.0,
+   "statut": "officiel"
+  },
+  "8477380": {
+   "nom": "Jonny Brodzinski",
+   "equipe": "WSH",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 10,
+   "gagnees": 2,
+   "moyenne": 10.0,
    "statut": "officiel"
   },
   "8477402": {
@@ -1072,9 +1082,9 @@
    "equipe": "NJD",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477527": {
@@ -1172,9 +1182,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 5,
-   "moyenne": 1.6,
+   "misesAuJeu": 11,
+   "gagnees": 7,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8477951": {
@@ -1442,9 +1452,9 @@
    "equipe": "NJD",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 1,
-   "moyenne": 1.2,
+   "misesAuJeu": 8,
+   "gagnees": 3,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8478420": {
@@ -1522,9 +1532,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 85,
-   "gagnees": 44,
-   "moyenne": 17.0,
+   "misesAuJeu": 90,
+   "gagnees": 45,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8478444": {
@@ -1572,9 +1582,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 7,
+   "gagnees": 4,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8478472": {
@@ -1652,9 +1662,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
-   "gagnees": 27,
-   "moyenne": 13.0,
+   "misesAuJeu": 61,
+   "gagnees": 24,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8478550": {
@@ -1852,9 +1862,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479400": {
@@ -2022,9 +2032,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 79,
-   "gagnees": 49,
-   "moyenne": 15.8,
+   "misesAuJeu": 76,
+   "gagnees": 45,
+   "moyenne": 15.2,
    "statut": "officiel"
   },
   "8479999": {
@@ -2042,9 +2052,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 89,
-   "gagnees": 52,
-   "moyenne": 17.8,
+   "misesAuJeu": 86,
+   "gagnees": 55,
+   "moyenne": 17.2,
    "statut": "officiel"
   },
   "8480003": {
@@ -2712,9 +2722,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
+   "misesAuJeu": 49,
    "gagnees": 18,
-   "moyenne": 10.2,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8481580": {
@@ -2812,9 +2822,9 @@
    "equipe": "WSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 5,
    "gagnees": 3,
-   "moyenne": 0.8,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8481711": {
@@ -3641,7 +3651,7 @@
    "nom": "Ivan Miroshnichenko",
    "equipe": "WSH",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3802,9 +3812,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8483731": {
@@ -4272,9 +4282,9 @@
    "equipe": "WSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 37,
-   "gagnees": 18,
-   "moyenne": 7.4,
+   "misesAuJeu": 39,
+   "gagnees": 21,
+   "moyenne": 7.8,
    "statut": "ailier_centre"
   },
   "8485388": {
