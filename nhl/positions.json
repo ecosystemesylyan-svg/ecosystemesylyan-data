@@ -432,9 +432,9 @@
    "equipe": "VAN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8475913": {
@@ -712,9 +712,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 57,
-   "gagnees": 32,
-   "moyenne": 11.4,
+   "misesAuJeu": 58,
+   "gagnees": 34,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8476880": {
@@ -872,9 +872,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 20,
-   "gagnees": 5,
-   "moyenne": 4.0,
+   "misesAuJeu": 17,
+   "gagnees": 3,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8477407": {
@@ -1282,9 +1282,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
+   "misesAuJeu": 48,
    "gagnees": 23,
-   "moyenne": 9.8,
+   "moyenne": 9.6,
    "statut": "officiel"
   },
   "8478020": {
@@ -1542,9 +1542,9 @@
    "equipe": "VAN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 5,
    "gagnees": 3,
-   "moyenne": 0.8,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8478449": {
@@ -1652,9 +1652,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 101,
-   "gagnees": 46,
-   "moyenne": 20.2,
+   "misesAuJeu": 98,
+   "gagnees": 48,
+   "moyenne": 19.6,
    "statut": "officiel"
   },
   "8478542": {
@@ -2082,9 +2082,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 99,
-   "gagnees": 42,
-   "moyenne": 19.8,
+   "misesAuJeu": 98,
+   "gagnees": 43,
+   "moyenne": 19.6,
    "statut": "officiel"
   },
   "8480014": {
@@ -2211,10 +2211,10 @@
    "nom": "Filip Chytil",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 17,
-   "gagnees": 7,
-   "moyenne": 17.0,
+   "matchs": 2,
+   "misesAuJeu": 31,
+   "gagnees": 11,
+   "moyenne": 15.5,
    "statut": "officiel"
   },
   "8480113": {
@@ -2512,9 +2512,9 @@
    "equipe": "TBL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 1.2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8481013": {
@@ -2532,9 +2532,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 0.6,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8481028": {
@@ -2552,9 +2552,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 6,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8481043": {
@@ -2912,9 +2912,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 30,
-   "gagnees": 9,
-   "moyenne": 6.0,
+   "misesAuJeu": 38,
+   "gagnees": 12,
+   "moyenne": 7.6,
    "statut": "ailier_centre"
   },
   "8482062": {
@@ -3172,9 +3172,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "centre_aile"
   },
   "8482259": {
@@ -3562,9 +3562,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 33,
-   "gagnees": 11,
-   "moyenne": 6.6,
+   "misesAuJeu": 23,
+   "gagnees": 9,
+   "moyenne": 4.6,
    "statut": "officiel"
   },
   "8483450": {
@@ -3831,10 +3831,10 @@
    "nom": "Dominic James",
    "equipe": "TBL",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 10,
-   "gagnees": 4,
-   "moyenne": 10.0,
+   "matchs": 2,
+   "misesAuJeu": 18,
+   "gagnees": 8,
+   "moyenne": 9.0,
    "statut": "officiel"
   },
   "8483756": {
@@ -3883,7 +3883,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 21,
-   "gagnees": 11,
+   "gagnees": 8,
    "moyenne": 4.2,
    "statut": "officiel"
   },
