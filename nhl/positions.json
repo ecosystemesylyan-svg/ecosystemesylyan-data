@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-15",
+ "dernierMatch": "2026-10-16",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -32,9 +32,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8471675": {
@@ -42,9 +42,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 100,
-   "gagnees": 57,
-   "moyenne": 20.0,
+   "misesAuJeu": 99,
+   "gagnees": 52,
+   "moyenne": 19.8,
    "statut": "officiel"
   },
   "8473419": {
@@ -202,9 +202,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
+   "misesAuJeu": 33,
    "gagnees": 15,
-   "moyenne": 7.0,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8475184": {
@@ -342,9 +342,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 84,
-   "gagnees": 41,
-   "moyenne": 16.8,
+   "misesAuJeu": 90,
+   "gagnees": 47,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8475768": {
@@ -411,7 +411,7 @@
    "nom": "Bryan Rust",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -562,9 +562,9 @@
    "equipe": "COL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 3,
-   "moyenne": 1.2,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8476458": {
@@ -662,9 +662,9 @@
    "equipe": "PIT",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8476539": {
@@ -1002,9 +1002,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 93,
+   "misesAuJeu": 88,
    "gagnees": 43,
-   "moyenne": 18.6,
+   "moyenne": 17.6,
    "statut": "officiel"
   },
   "8477493": {
@@ -1502,9 +1502,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 22,
-   "moyenne": 10.8,
+   "misesAuJeu": 59,
+   "gagnees": 23,
+   "moyenne": 11.8,
    "statut": "officiel"
   },
   "8478439": {
@@ -2162,9 +2162,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "centre_aile"
   },
   "8480064": {
@@ -2302,9 +2302,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 4,
-   "moyenne": 1.6,
+   "misesAuJeu": 7,
+   "gagnees": 3,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8480459": {
@@ -2492,9 +2492,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8480995": {
@@ -2582,9 +2582,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 25,
-   "moyenne": 12.8,
+   "misesAuJeu": 61,
+   "gagnees": 23,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8481522": {
@@ -2851,7 +2851,7 @@
    "nom": "Elmer Soderblom",
    "equipe": "PIT",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3432,9 +3432,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 33,
-   "gagnees": 14,
-   "moyenne": 6.6,
+   "misesAuJeu": 39,
+   "gagnees": 21,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8482784": {
@@ -3851,7 +3851,7 @@
    "nom": "Andrei Kuzmenko",
    "equipe": "PIT",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3911,10 +3911,10 @@
    "nom": "Gavin Brindley",
    "equipe": "COL",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 0,
+   "matchs": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.5,
    "statut": "officiel"
   },
   "8484153": {
@@ -4342,9 +4342,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 41,
-   "gagnees": 20,
-   "moyenne": 8.2,
+   "misesAuJeu": 34,
+   "gagnees": 15,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8485512": {
@@ -4422,9 +4422,9 @@
    "equipe": "COL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 18,
+   "misesAuJeu": 20,
    "gagnees": 9,
-   "moyenne": 3.6,
+   "moyenne": 4.0,
    "statut": "officiel"
   },
   "8486189": {
