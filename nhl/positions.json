@@ -401,7 +401,7 @@
    "nom": "Nino Niederreiter",
    "equipe": "WPG",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -492,9 +492,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 75,
-   "gagnees": 40,
-   "moyenne": 15.0,
+   "misesAuJeu": 78,
+   "gagnees": 45,
+   "moyenne": 15.6,
    "statut": "officiel"
   },
   "8476393": {
@@ -592,9 +592,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 80,
-   "gagnees": 38,
-   "moyenne": 16.0,
+   "misesAuJeu": 70,
+   "gagnees": 28,
+   "moyenne": 14.0,
    "statut": "officiel"
   },
   "8476461": {
@@ -702,9 +702,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 69,
-   "gagnees": 31,
-   "moyenne": 13.8,
+   "misesAuJeu": 77,
+   "gagnees": 38,
+   "moyenne": 15.4,
    "statut": "ailier_centre"
   },
   "8476878": {
@@ -782,9 +782,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 4,
-   "moyenne": 1.0,
+   "misesAuJeu": 6,
+   "gagnees": 5,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8476925": {
@@ -1162,9 +1162,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8477946": {
@@ -1492,9 +1492,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 84,
-   "gagnees": 43,
-   "moyenne": 16.8,
+   "misesAuJeu": 90,
+   "gagnees": 44,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8478434": {
@@ -2092,9 +2092,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 21,
-   "gagnees": 10,
-   "moyenne": 4.2,
+   "misesAuJeu": 22,
+   "gagnees": 11,
+   "moyenne": 4.4,
    "statut": "officiel"
   },
   "8480015": {
@@ -2222,9 +2222,9 @@
    "equipe": "WPG",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8480185": {
@@ -2282,9 +2282,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 30,
-   "gagnees": 16,
-   "moyenne": 6.0,
+   "misesAuJeu": 37,
+   "gagnees": 18,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8480326": {
@@ -2342,9 +2342,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8480797": {
@@ -2392,9 +2392,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 15,
-   "gagnees": 6,
-   "moyenne": 3.0,
+   "misesAuJeu": 21,
+   "gagnees": 8,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8480830": {
@@ -2402,9 +2402,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8480835": {
@@ -3113,7 +3113,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 4,
-   "gagnees": 1,
+   "gagnees": 2,
    "moyenne": 0.8,
    "statut": "centre_aile"
   },
@@ -3303,7 +3303,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 51,
-   "gagnees": 24,
+   "gagnees": 25,
    "moyenne": 10.2,
    "statut": "officiel"
   },
@@ -3612,9 +3612,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 7,
    "gagnees": 3,
-   "moyenne": 1.2,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8483476": {
@@ -4027,6 +4027,16 @@
    "moyenne": 6.0,
    "statut": "officiel"
   },
+  "8484203": {
+   "nom": "Bradly Nadeau",
+   "equipe": "CAR",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8484210": {
    "nom": "Gabe Perreault",
    "equipe": "NYR",
@@ -4105,6 +4115,16 @@
    "misesAuJeu": 21,
    "gagnees": 9,
    "moyenne": 4.2,
+   "statut": "officiel"
+  },
+  "8484392": {
+   "nom": "Felix Unger Sörum",
+   "equipe": "CAR",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 2.0,
    "statut": "officiel"
   },
   "8484403": {
@@ -4382,9 +4402,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 38,
-   "gagnees": 12,
-   "moyenne": 7.6,
+   "misesAuJeu": 41,
+   "gagnees": 15,
+   "moyenne": 8.2,
    "statut": "officiel"
   },
   "8486052": {
