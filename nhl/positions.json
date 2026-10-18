@@ -11,10 +11,10 @@
    "nom": "Corey Perry",
    "equipe": "LAK",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8471214": {
@@ -262,9 +262,9 @@
    "equipe": "LAK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 81,
-   "gagnees": 39,
-   "moyenne": 16.2,
+   "misesAuJeu": 74,
+   "gagnees": 35,
+   "moyenne": 14.8,
    "statut": "ailier_centre"
   },
   "8475314": {
@@ -471,10 +471,10 @@
    "nom": "Sean Kuraly",
    "equipe": "BOS",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 25,
-   "gagnees": 15,
-   "moyenne": 8.33,
+   "matchs": 4,
+   "misesAuJeu": 37,
+   "gagnees": 25,
+   "moyenne": 9.25,
    "statut": "officiel"
   },
   "8476389": {
@@ -622,9 +622,9 @@
    "equipe": "LAK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 2,
-   "moyenne": 1.2,
+   "misesAuJeu": 7,
+   "gagnees": 3,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8476474": {
@@ -692,9 +692,9 @@
    "equipe": "LAK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 67,
-   "gagnees": 41,
-   "moyenne": 13.4,
+   "misesAuJeu": 73,
+   "gagnees": 42,
+   "moyenne": 14.6,
    "statut": "officiel"
   },
   "8476873": {
@@ -1032,9 +1032,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 99,
-   "gagnees": 62,
-   "moyenne": 19.8,
+   "misesAuJeu": 101,
+   "gagnees": 61,
+   "moyenne": 20.2,
    "statut": "officiel"
   },
   "8477497": {
@@ -1222,9 +1222,9 @@
    "equipe": "BOS",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477960": {
@@ -1232,9 +1232,9 @@
    "equipe": "LAK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 10,
-   "gagnees": 6,
-   "moyenne": 2.0,
+   "misesAuJeu": 13,
+   "gagnees": 8,
+   "moyenne": 2.6,
    "statut": "officiel"
   },
   "8477964": {
@@ -1952,9 +1952,9 @@
    "equipe": "BOS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 10,
-   "gagnees": 4,
-   "moyenne": 2.0,
+   "misesAuJeu": 7,
+   "gagnees": 3,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8479671": {
@@ -1972,9 +1972,9 @@
    "equipe": "LAK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8479705": {
@@ -2023,7 +2023,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 16,
-   "gagnees": 8,
+   "gagnees": 7,
    "moyenne": 3.2,
    "statut": "officiel"
   },
@@ -2052,9 +2052,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 5,
-   "moyenne": 1.6,
+   "misesAuJeu": 9,
+   "gagnees": 4,
+   "moyenne": 1.8,
    "statut": "centre_aile"
   },
   "8480002": {
@@ -2312,9 +2312,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 14,
-   "moyenne": 3.8,
+   "misesAuJeu": 20,
+   "gagnees": 16,
+   "moyenne": 4.0,
    "statut": "officiel"
   },
   "8480448": {
@@ -2891,10 +2891,10 @@
    "nom": "Andre Lee",
    "equipe": "LAK",
    "pos": "L",
-   "matchs": 3,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.33,
+   "matchs": 4,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.5,
    "statut": "officiel"
   },
   "8481754": {
@@ -3082,9 +3082,9 @@
    "equipe": "LAK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 83,
-   "gagnees": 50,
-   "moyenne": 16.6,
+   "misesAuJeu": 85,
+   "gagnees": 43,
+   "moyenne": 17.0,
    "statut": "ailier_centre"
   },
   "8482145": {
@@ -3132,9 +3132,9 @@
    "equipe": "LAK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 3,
-   "moyenne": 0.8,
+   "misesAuJeu": 19,
+   "gagnees": 12,
+   "moyenne": 3.8,
    "statut": "officiel"
   },
   "8482157": {
@@ -3172,9 +3172,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 10,
+   "misesAuJeu": 11,
    "gagnees": 4,
-   "moyenne": 2.0,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8482201": {
@@ -3361,10 +3361,10 @@
    "nom": "Samuel Helenius",
    "equipe": "LAK",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 17,
-   "gagnees": 5,
-   "moyenne": 5.67,
+   "matchs": 4,
+   "misesAuJeu": 20,
+   "gagnees": 7,
+   "moyenne": 5.0,
    "statut": "officiel"
   },
   "8482737": {
@@ -3672,9 +3672,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 28,
-   "moyenne": 11.2,
+   "misesAuJeu": 57,
+   "gagnees": 26,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8483491": {
@@ -3723,7 +3723,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 15,
-   "gagnees": 7,
+   "gagnees": 9,
    "moyenne": 3.0,
    "statut": "officiel"
   },
