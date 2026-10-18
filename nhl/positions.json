@@ -33,7 +33,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 3,
-   "gagnees": 1,
+   "gagnees": 0,
    "moyenne": 0.6,
    "statut": "centre_aile"
   },
@@ -42,9 +42,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 99,
-   "gagnees": 52,
-   "moyenne": 19.8,
+   "misesAuJeu": 95,
+   "gagnees": 51,
+   "moyenne": 19.0,
    "statut": "officiel"
   },
   "8473419": {
@@ -272,9 +272,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 4,
-   "moyenne": 1.2,
+   "misesAuJeu": 7,
+   "gagnees": 5,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8475343": {
@@ -283,7 +283,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 58,
-   "gagnees": 29,
+   "gagnees": 31,
    "moyenne": 11.6,
    "statut": "officiel"
   },
@@ -361,7 +361,7 @@
    "nom": "Zach Hyman",
    "equipe": "EDM",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -442,9 +442,9 @@
    "equipe": "VGK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8476278": {
@@ -482,9 +482,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
-   "gagnees": 35,
-   "moyenne": 11.8,
+   "misesAuJeu": 49,
+   "gagnees": 27,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8476392": {
@@ -542,9 +542,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 72,
-   "gagnees": 42,
-   "moyenne": 14.4,
+   "misesAuJeu": 71,
+   "gagnees": 45,
+   "moyenne": 14.2,
    "statut": "officiel"
   },
   "8476453": {
@@ -603,7 +603,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 90,
-   "gagnees": 51,
+   "gagnees": 50,
    "moyenne": 18.0,
    "statut": "officiel"
   },
@@ -732,9 +732,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 61,
-   "gagnees": 35,
-   "moyenne": 12.2,
+   "misesAuJeu": 64,
+   "gagnees": 37,
+   "moyenne": 12.8,
    "statut": "officiel"
   },
   "8476882": {
@@ -1132,9 +1132,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 38,
-   "moyenne": 11.2,
+   "misesAuJeu": 54,
+   "gagnees": 32,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8477935": {
@@ -1192,9 +1192,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 23,
-   "moyenne": 11.0,
+   "misesAuJeu": 64,
+   "gagnees": 32,
+   "moyenne": 12.8,
    "statut": "officiel"
   },
   "8477953": {
@@ -1202,9 +1202,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477955": {
@@ -1422,9 +1422,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 26,
-   "moyenne": 11.6,
+   "misesAuJeu": 64,
+   "gagnees": 32,
+   "moyenne": 12.8,
    "statut": "officiel"
   },
   "8478403": {
@@ -1432,9 +1432,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 70,
-   "gagnees": 32,
-   "moyenne": 14.0,
+   "misesAuJeu": 60,
+   "gagnees": 29,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8478413": {
@@ -1512,9 +1512,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
-   "gagnees": 23,
-   "moyenne": 11.8,
+   "misesAuJeu": 56,
+   "gagnees": 22,
+   "moyenne": 11.2,
    "statut": "officiel"
   },
   "8478439": {
@@ -1592,9 +1592,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 5,
    "gagnees": 2,
-   "moyenne": 0.8,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8478474": {
@@ -1692,9 +1692,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 63,
-   "gagnees": 30,
-   "moyenne": 12.6,
+   "misesAuJeu": 52,
+   "gagnees": 25,
+   "moyenne": 10.4,
    "statut": "officiel"
   },
   "8478856": {
@@ -1822,10 +1822,10 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 4,
-   "moyenne": 2.4,
-   "statut": "officiel"
+   "misesAuJeu": 5,
+   "gagnees": 0,
+   "moyenne": 1.0,
+   "statut": "centre_aile"
   },
   "8479359": {
    "nom": "Beck Malenstyn",
@@ -1842,10 +1842,10 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 9,
-   "gagnees": 5,
-   "moyenne": 1.8,
-   "statut": "centre_aile"
+   "misesAuJeu": 12,
+   "gagnees": 7,
+   "moyenne": 2.4,
+   "statut": "officiel"
   },
   "8479368": {
    "nom": "Max Jones",
@@ -2011,10 +2011,10 @@
    "nom": "Kailer Yamamoto",
    "equipe": "UTA",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.33,
+   "matchs": 4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8479987": {
@@ -2442,9 +2442,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8480848": {
@@ -2462,9 +2462,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 30,
-   "moyenne": 11.0,
+   "misesAuJeu": 56,
+   "gagnees": 34,
+   "moyenne": 11.2,
    "statut": "officiel"
   },
   "8480855": {
@@ -2472,9 +2472,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 9,
+   "misesAuJeu": 8,
    "gagnees": 5,
-   "moyenne": 1.8,
+   "moyenne": 1.6,
    "statut": "centre_aile"
   },
   "8480870": {
@@ -2512,9 +2512,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8480995": {
@@ -2602,9 +2602,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 61,
-   "gagnees": 23,
-   "moyenne": 12.2,
+   "misesAuJeu": 58,
+   "gagnees": 24,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8481522": {
@@ -2662,9 +2662,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 3,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8481535": {
@@ -2763,7 +2763,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 59,
-   "gagnees": 28,
+   "gagnees": 29,
    "moyenne": 11.8,
    "statut": "officiel"
   },
@@ -2871,7 +2871,7 @@
    "nom": "Elmer Soderblom",
    "equipe": "PIT",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3321,10 +3321,10 @@
    "nom": "Colton Dach",
    "equipe": "EDM",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 31,
-   "gagnees": 17,
-   "moyenne": 10.33,
+   "matchs": 4,
+   "misesAuJeu": 43,
+   "gagnees": 18,
+   "moyenne": 10.75,
    "statut": "officiel"
   },
   "8482705": {
@@ -3562,9 +3562,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 25,
-   "moyenne": 11.0,
+   "misesAuJeu": 49,
+   "gagnees": 21,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8483432": {
@@ -3782,9 +3782,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 5,
    "gagnees": 2,
-   "moyenne": 1.2,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8483570": {
@@ -3891,7 +3891,7 @@
    "nom": "Andrei Kuzmenko",
    "equipe": "PIT",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4252,9 +4252,9 @@
    "equipe": "VGK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8484829": {
@@ -4402,9 +4402,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 34,
-   "gagnees": 15,
-   "moyenne": 6.8,
+   "misesAuJeu": 33,
+   "gagnees": 14,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8485512": {
@@ -4472,9 +4472,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 73,
-   "gagnees": 40,
-   "moyenne": 14.6,
+   "misesAuJeu": 66,
+   "gagnees": 37,
+   "moyenne": 13.2,
    "statut": "ailier_centre"
   },
   "8486171": {
