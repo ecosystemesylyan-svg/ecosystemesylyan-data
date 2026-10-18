@@ -132,9 +132,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 26,
-   "moyenne": 11.0,
+   "misesAuJeu": 53,
+   "gagnees": 22,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8474564": {
@@ -772,9 +772,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 97,
-   "gagnees": 57,
-   "moyenne": 19.4,
+   "misesAuJeu": 94,
+   "gagnees": 55,
+   "moyenne": 18.8,
    "statut": "officiel"
   },
   "8476921": {
@@ -892,9 +892,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8477416": {
@@ -1112,9 +1112,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 26,
-   "moyenne": 11.6,
+   "misesAuJeu": 55,
+   "gagnees": 30,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8477933": {
@@ -1122,9 +1122,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 22,
-   "moyenne": 9.0,
+   "misesAuJeu": 46,
+   "gagnees": 20,
+   "moyenne": 9.2,
    "statut": "officiel"
   },
   "8477934": {
@@ -1142,9 +1142,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 73,
-   "gagnees": 36,
-   "moyenne": 14.6,
+   "misesAuJeu": 66,
+   "gagnees": 37,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8477939": {
@@ -1212,9 +1212,9 @@
    "equipe": "SEA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8477956": {
@@ -1311,10 +1311,10 @@
    "nom": "Sam Lafferty",
    "equipe": "FLA",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 21,
-   "gagnees": 6,
-   "moyenne": 5.25,
+   "matchs": 5,
+   "misesAuJeu": 32,
+   "gagnees": 8,
+   "moyenne": 6.4,
    "statut": "officiel"
   },
   "8478046": {
@@ -1752,9 +1752,9 @@
    "equipe": "FLA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8479318": {
@@ -2233,7 +2233,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 7,
-   "gagnees": 3,
+   "gagnees": 2,
    "moyenne": 1.4,
    "statut": "centre_aile"
   },
@@ -2362,10 +2362,10 @@
    "equipe": "FLA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 28,
-   "gagnees": 12,
-   "moyenne": 5.6,
-   "statut": "ailier_centre"
+   "misesAuJeu": 23,
+   "gagnees": 10,
+   "moyenne": 4.6,
+   "statut": "officiel"
   },
   "8480802": {
    "nom": "Ryan McLeod",
@@ -3032,9 +3032,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 72,
-   "gagnees": 33,
-   "moyenne": 14.4,
+   "misesAuJeu": 71,
+   "gagnees": 32,
+   "moyenne": 14.2,
    "statut": "officiel"
   },
   "8482116": {
@@ -3182,9 +3182,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8482408": {
@@ -3252,9 +3252,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 79,
-   "gagnees": 45,
-   "moyenne": 15.8,
+   "misesAuJeu": 75,
+   "gagnees": 42,
+   "moyenne": 15.0,
    "statut": "officiel"
   },
   "8482667": {
@@ -3732,9 +3732,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 6,
-   "moyenne": 3.8,
+   "misesAuJeu": 18,
+   "gagnees": 8,
+   "moyenne": 3.6,
    "statut": "officiel"
   },
   "8483525": {
@@ -3762,9 +3762,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 18,
-   "gagnees": 8,
-   "moyenne": 3.6,
+   "misesAuJeu": 19,
+   "gagnees": 10,
+   "moyenne": 3.8,
    "statut": "officiel"
   },
   "8483573": {
@@ -4202,9 +4202,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 32,
-   "gagnees": 13,
-   "moyenne": 6.4,
+   "misesAuJeu": 34,
+   "gagnees": 14,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8484801": {
