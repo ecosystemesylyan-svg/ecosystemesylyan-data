@@ -142,9 +142,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 33,
-   "gagnees": 19,
-   "moyenne": 6.6,
+   "misesAuJeu": 36,
+   "gagnees": 22,
+   "moyenne": 7.2,
    "statut": "officiel"
   },
   "8474586": {
@@ -173,7 +173,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 93,
-   "gagnees": 51,
+   "gagnees": 54,
    "moyenne": 18.6,
    "statut": "officiel"
   },
@@ -673,7 +673,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 1,
-   "gagnees": 0,
+   "gagnees": 1,
    "moyenne": 0.2,
    "statut": "officiel"
   },
@@ -832,9 +832,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 11,
-   "gagnees": 5,
-   "moyenne": 2.2,
+   "misesAuJeu": 17,
+   "gagnees": 9,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8477149": {
@@ -1922,9 +1922,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8479542": {
@@ -2142,9 +2142,9 @@
    "equipe": "STL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 105,
-   "gagnees": 59,
-   "moyenne": 21.0,
+   "misesAuJeu": 102,
+   "gagnees": 54,
+   "moyenne": 20.4,
    "statut": "officiel"
   },
   "8480027": {
@@ -2332,9 +2332,9 @@
    "equipe": "STL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 46,
-   "gagnees": 27,
-   "moyenne": 9.2,
+   "misesAuJeu": 49,
+   "gagnees": 25,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8480748": {
@@ -2422,9 +2422,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 72,
-   "gagnees": 33,
-   "moyenne": 14.4,
+   "misesAuJeu": 76,
+   "gagnees": 34,
+   "moyenne": 15.2,
    "statut": "officiel"
   },
   "8480840": {
@@ -2742,9 +2742,9 @@
    "equipe": "STL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 18,
+   "misesAuJeu": 15,
    "gagnees": 8,
-   "moyenne": 3.6,
+   "moyenne": 3.0,
    "statut": "officiel"
   },
   "8481582": {
@@ -2882,9 +2882,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8481732": {
@@ -2992,9 +2992,9 @@
    "equipe": "STL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8482092": {
@@ -3071,11 +3071,11 @@
    "nom": "Dylan Peterson",
    "equipe": "STL",
    "pos": "C",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
-   "statut": "officiel"
+   "statut": "centre_aile"
   },
   "8482124": {
    "nom": "Quinton Byfield",
@@ -3731,10 +3731,10 @@
    "nom": "Reid Schaefer",
    "equipe": "NSH",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.5,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8483515": {
@@ -4002,9 +4002,9 @@
    "equipe": "STL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 29,
-   "moyenne": 11.2,
+   "misesAuJeu": 46,
+   "gagnees": 26,
+   "moyenne": 9.2,
    "statut": "ailier_centre"
   },
   "8484166": {
@@ -4112,9 +4112,9 @@
    "equipe": "NSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 43,
-   "gagnees": 15,
-   "moyenne": 8.6,
+   "misesAuJeu": 32,
+   "gagnees": 11,
+   "moyenne": 6.4,
    "statut": "ailier_centre"
   },
   "8484387": {
@@ -4491,10 +4491,10 @@
    "nom": "Vitali Pinchuk",
    "equipe": "NSH",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 19,
+   "matchs": 4,
+   "misesAuJeu": 20,
    "gagnees": 7,
-   "moyenne": 6.33,
+   "moyenne": 5.0,
    "statut": "officiel"
   }
  }
