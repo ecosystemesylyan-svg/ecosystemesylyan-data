@@ -122,9 +122,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 97,
-   "gagnees": 48,
-   "moyenne": 19.4,
+   "misesAuJeu": 91,
+   "gagnees": 46,
+   "moyenne": 18.2,
    "statut": "officiel"
   },
   "8474189": {
@@ -241,10 +241,10 @@
    "nom": "Nicolas Deslauriers",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8475253": {
@@ -572,9 +572,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 7,
-   "moyenne": 3.8,
+   "misesAuJeu": 15,
+   "gagnees": 4,
+   "moyenne": 3.0,
    "statut": "officiel"
   },
   "8476459": {
@@ -782,9 +782,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 5,
-   "moyenne": 1.2,
+   "misesAuJeu": 17,
+   "gagnees": 10,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8476925": {
@@ -1162,9 +1162,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477946": {
@@ -1492,9 +1492,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
-   "gagnees": 44,
-   "moyenne": 18.0,
+   "misesAuJeu": 107,
+   "gagnees": 58,
+   "moyenne": 21.4,
    "statut": "officiel"
   },
   "8478434": {
@@ -2162,9 +2162,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 62,
-   "gagnees": 28,
-   "moyenne": 12.4,
+   "misesAuJeu": 58,
+   "gagnees": 30,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8480029": {
@@ -2362,9 +2362,9 @@
    "equipe": "CGY",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 2,
-   "moyenne": 1.6,
+   "misesAuJeu": 11,
+   "gagnees": 3,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8480801": {
@@ -2402,9 +2402,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 21,
-   "gagnees": 8,
-   "moyenne": 4.2,
+   "misesAuJeu": 29,
+   "gagnees": 10,
+   "moyenne": 5.8,
    "statut": "officiel"
   },
   "8480830": {
@@ -2412,9 +2412,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 0,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8480835": {
@@ -2552,9 +2552,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 32,
-   "moyenne": 11.2,
+   "misesAuJeu": 60,
+   "gagnees": 35,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8481032": {
@@ -2582,9 +2582,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8481477": {
@@ -3282,10 +3282,10 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 30,
-   "gagnees": 18,
-   "moyenne": 6.0,
-   "statut": "ailier_centre"
+   "misesAuJeu": 23,
+   "gagnees": 13,
+   "moyenne": 4.6,
+   "statut": "officiel"
   },
   "8482691": {
    "nom": "Aatu Räty",
@@ -3312,9 +3312,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 25,
-   "moyenne": 10.2,
+   "misesAuJeu": 58,
+   "gagnees": 26,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8482703": {
@@ -3411,7 +3411,7 @@
    "nom": "Brennan Othmann",
    "equipe": "CGY",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3812,9 +3812,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8483676": {
@@ -3971,10 +3971,10 @@
    "nom": "Jonathan Castagna",
    "equipe": "CGY",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 32,
-   "gagnees": 16,
-   "moyenne": 8.0,
+   "matchs": 5,
+   "misesAuJeu": 44,
+   "gagnees": 22,
+   "moyenne": 8.8,
    "statut": "officiel"
   },
   "8484158": {
@@ -4061,7 +4061,7 @@
    "nom": "Bradly Nadeau",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4101,7 +4101,7 @@
    "nom": "Aydar Suniev",
    "equipe": "CGY",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4151,10 +4151,10 @@
    "nom": "Felix Unger Sörum",
    "equipe": "CAR",
    "pos": "R",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 2,
    "gagnees": 2,
-   "moyenne": 2.0,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8484403": {
