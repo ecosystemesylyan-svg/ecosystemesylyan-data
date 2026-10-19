@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-17",
+ "dernierMatch": "2026-10-18",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -323,7 +323,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 73,
-   "gagnees": 47,
+   "gagnees": 43,
    "moyenne": 14.6,
    "statut": "officiel"
   },
@@ -331,11 +331,11 @@
    "nom": "Tyler Pitlick",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.5,
-   "statut": "officiel"
+   "moyenne": 0.33,
+   "statut": "centre_aile"
   },
   "8475754": {
    "nom": "Brock Nelson",
@@ -512,9 +512,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8476419": {
@@ -942,9 +942,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 25,
-   "moyenne": 12.0,
+   "misesAuJeu": 63,
+   "gagnees": 24,
+   "moyenne": 12.6,
    "statut": "officiel"
   },
   "8477450": {
@@ -962,9 +962,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 56,
+   "misesAuJeu": 57,
    "gagnees": 29,
-   "moyenne": 11.2,
+   "moyenne": 11.4,
    "statut": "ailier_centre"
   },
   "8477456": {
@@ -1042,9 +1042,9 @@
    "equipe": "CBJ",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 88,
-   "gagnees": 41,
-   "moyenne": 17.6,
+   "misesAuJeu": 81,
+   "gagnees": 40,
+   "moyenne": 16.2,
    "statut": "officiel"
   },
   "8477500": {
@@ -1062,9 +1062,9 @@
    "equipe": "CBJ",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477505": {
@@ -1322,10 +1322,10 @@
    "equipe": "CBJ",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 15,
-   "moyenne": 5.8,
-   "statut": "ailier_centre"
+   "misesAuJeu": 22,
+   "gagnees": 12,
+   "moyenne": 4.4,
+   "statut": "officiel"
   },
   "8478047": {
    "nom": "Michael Bunting",
@@ -1622,9 +1622,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 95,
-   "gagnees": 54,
-   "moyenne": 19.0,
+   "misesAuJeu": 87,
+   "gagnees": 51,
+   "moyenne": 17.4,
    "statut": "officiel"
   },
   "8478498": {
@@ -1642,9 +1642,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8478519": {
@@ -2722,9 +2722,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 13,
-   "gagnees": 5,
-   "moyenne": 2.6,
+   "misesAuJeu": 14,
+   "gagnees": 6,
+   "moyenne": 2.8,
    "statut": "officiel"
   },
   "8481559": {
@@ -3252,9 +3252,9 @@
    "equipe": "CBJ",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "centre_aile"
   },
   "8482665": {
@@ -3332,9 +3332,9 @@
    "equipe": "CBJ",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 3,
-   "moyenne": 1.2,
+   "misesAuJeu": 7,
+   "gagnees": 4,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8482713": {
@@ -3352,9 +3352,9 @@
    "equipe": "CBJ",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8482726": {
@@ -3571,10 +3571,10 @@
    "nom": "Luca Del Bel Belluz",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 5.0,
+   "matchs": 2,
+   "misesAuJeu": 9,
+   "gagnees": 4,
+   "moyenne": 4.5,
    "statut": "officiel"
   },
   "8483445": {
@@ -3661,7 +3661,7 @@
    "nom": "Rieger Lorenz",
    "equipe": "MIN",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3772,9 +3772,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 43,
-   "gagnees": 25,
-   "moyenne": 8.6,
+   "misesAuJeu": 46,
+   "gagnees": 27,
+   "moyenne": 9.2,
    "statut": "ailier_centre"
   },
   "8483553": {
@@ -4012,9 +4012,9 @@
    "equipe": "CBJ",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 91,
-   "gagnees": 60,
-   "moyenne": 18.2,
+   "misesAuJeu": 86,
+   "gagnees": 53,
+   "moyenne": 17.2,
    "statut": "officiel"
   },
   "8484180": {
