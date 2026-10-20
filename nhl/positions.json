@@ -312,9 +312,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8475745": {
@@ -682,9 +682,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8476872": {
@@ -792,9 +792,9 @@
    "equipe": "TOR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 44,
-   "gagnees": 27,
-   "moyenne": 8.8,
+   "misesAuJeu": 60,
+   "gagnees": 38,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8476927": {
@@ -802,9 +802,9 @@
    "equipe": "TOR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 43,
-   "gagnees": 21,
-   "moyenne": 8.6,
+   "misesAuJeu": 37,
+   "gagnees": 16,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8476952": {
@@ -912,9 +912,9 @@
    "equipe": "TOR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 18,
-   "moyenne": 9.0,
+   "misesAuJeu": 49,
+   "gagnees": 19,
+   "moyenne": 9.8,
    "statut": "ailier_centre"
   },
   "8477429": {
@@ -1072,9 +1072,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 99,
-   "gagnees": 45,
-   "moyenne": 19.8,
+   "misesAuJeu": 93,
+   "gagnees": 39,
+   "moyenne": 18.6,
    "statut": "officiel"
   },
   "8477511": {
@@ -1152,9 +1152,9 @@
    "equipe": "TOR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 1,
-   "moyenne": 0.8,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8477940": {
@@ -1562,9 +1562,9 @@
    "equipe": "TOR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 8,
+   "misesAuJeu": 9,
    "gagnees": 2,
-   "moyenne": 1.6,
+   "moyenne": 1.8,
    "statut": "centre_aile"
   },
   "8478462": {
@@ -1732,9 +1732,9 @@
    "equipe": "SJS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 0,
-   "moyenne": 1.0,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8479066": {
@@ -1762,9 +1762,9 @@
    "equipe": "TOR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 85,
-   "gagnees": 49,
-   "moyenne": 17.0,
+   "misesAuJeu": 82,
+   "gagnees": 43,
+   "moyenne": 16.4,
    "statut": "officiel"
   },
   "8479336": {
@@ -1991,8 +1991,8 @@
    "nom": "Zack MacEwen",
    "equipe": "TOR",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 3,
+   "matchs": 4,
+   "misesAuJeu": 4,
    "gagnees": 1,
    "moyenne": 1.0,
    "statut": "officiel"
@@ -2006,6 +2006,16 @@
    "gagnees": 16,
    "moyenne": 6.6,
    "statut": "ailier_centre"
+  },
+  "8479968": {
+   "nom": "Vinni Lettieri",
+   "equipe": "TOR",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
   },
   "8479977": {
    "nom": "Kailer Yamamoto",
@@ -3512,9 +3522,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 48,
-   "gagnees": 27,
-   "moyenne": 9.6,
+   "misesAuJeu": 52,
+   "gagnees": 30,
+   "moyenne": 10.4,
    "statut": "officiel"
   },
   "8482874": {
@@ -4002,9 +4012,9 @@
    "equipe": "TOR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8484160": {
@@ -4112,10 +4122,10 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 7,
-   "moyenne": 3.8,
-   "statut": "officiel"
+   "misesAuJeu": 8,
+   "gagnees": 4,
+   "moyenne": 1.6,
+   "statut": "centre_aile"
   },
   "8484234": {
    "nom": "Aydar Suniev",
@@ -4262,9 +4272,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 83,
-   "gagnees": 45,
-   "moyenne": 16.6,
+   "misesAuJeu": 81,
+   "gagnees": 44,
+   "moyenne": 16.2,
    "statut": "officiel"
   },
   "8484803": {
@@ -4402,9 +4412,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 50,
-   "gagnees": 25,
-   "moyenne": 10.0,
+   "misesAuJeu": 51,
+   "gagnees": 26,
+   "moyenne": 10.2,
    "statut": "officiel"
   },
   "8485406": {
@@ -4482,9 +4492,9 @@
    "equipe": "SJS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8486161": {
