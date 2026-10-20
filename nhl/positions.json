@@ -32,9 +32,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 5,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8471675": {
@@ -43,7 +43,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 95,
-   "gagnees": 51,
+   "gagnees": 49,
    "moyenne": 19.0,
    "statut": "officiel"
   },
@@ -272,9 +272,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 5,
-   "moyenne": 1.4,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8475343": {
@@ -482,9 +482,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 27,
-   "moyenne": 9.8,
+   "misesAuJeu": 47,
+   "gagnees": 25,
+   "moyenne": 9.4,
    "statut": "officiel"
   },
   "8476392": {
@@ -1192,9 +1192,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 32,
-   "moyenne": 12.8,
+   "misesAuJeu": 68,
+   "gagnees": 34,
+   "moyenne": 13.6,
    "statut": "officiel"
   },
   "8477953": {
@@ -1512,9 +1512,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 22,
-   "moyenne": 11.2,
+   "misesAuJeu": 60,
+   "gagnees": 24,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8478439": {
@@ -1602,9 +1602,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8478483": {
@@ -1693,7 +1693,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 52,
-   "gagnees": 25,
+   "gagnees": 28,
    "moyenne": 10.4,
    "statut": "officiel"
   },
@@ -2021,8 +2021,8 @@
    "nom": "Kailer Yamamoto",
    "equipe": "UTA",
    "pos": "R",
-   "matchs": 4,
-   "misesAuJeu": 4,
+   "matchs": 5,
+   "misesAuJeu": 5,
    "gagnees": 2,
    "moyenne": 1.0,
    "statut": "officiel"
@@ -2472,9 +2472,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 34,
-   "moyenne": 11.2,
+   "misesAuJeu": 53,
+   "gagnees": 31,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8480855": {
@@ -2482,10 +2482,10 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 5,
-   "moyenne": 1.6,
-   "statut": "centre_aile"
+   "misesAuJeu": 12,
+   "gagnees": 8,
+   "moyenne": 2.4,
+   "statut": "officiel"
   },
   "8480870": {
    "nom": "Bo Groulx",
@@ -2522,9 +2522,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8480995": {
@@ -2612,9 +2612,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 24,
-   "moyenne": 11.6,
+   "misesAuJeu": 60,
+   "gagnees": 30,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8481522": {
@@ -3242,9 +3242,9 @@
    "equipe": "PIT",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482476": {
@@ -3582,9 +3582,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 21,
-   "moyenne": 9.8,
+   "misesAuJeu": 35,
+   "gagnees": 17,
+   "moyenne": 7.0,
    "statut": "officiel"
   },
   "8483432": {
@@ -4432,9 +4432,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 33,
-   "gagnees": 14,
-   "moyenne": 6.6,
+   "misesAuJeu": 37,
+   "gagnees": 17,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8485512": {
