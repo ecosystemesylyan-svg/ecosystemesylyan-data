@@ -152,9 +152,9 @@
    "equipe": "SEA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8475151": {
@@ -433,7 +433,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 2,
-   "gagnees": 1,
+   "gagnees": 2,
    "moyenne": 0.4,
    "statut": "officiel"
   },
@@ -772,9 +772,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 94,
-   "gagnees": 55,
-   "moyenne": 18.8,
+   "misesAuJeu": 101,
+   "gagnees": 57,
+   "moyenne": 20.2,
    "statut": "officiel"
   },
   "8476921": {
@@ -782,10 +782,10 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 17,
-   "gagnees": 10,
-   "moyenne": 3.4,
-   "statut": "officiel"
+   "misesAuJeu": 26,
+   "gagnees": 13,
+   "moyenne": 5.2,
+   "statut": "ailier_centre"
   },
   "8476925": {
    "nom": "Colton Sissons",
@@ -932,9 +932,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 81,
+   "misesAuJeu": 78,
    "gagnees": 37,
-   "moyenne": 16.2,
+   "moyenne": 15.6,
    "statut": "officiel"
   },
   "8477444": {
@@ -1122,9 +1122,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 30,
-   "moyenne": 11.0,
+   "misesAuJeu": 57,
+   "gagnees": 31,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8477933": {
@@ -1182,9 +1182,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 127,
-   "gagnees": 62,
-   "moyenne": 25.4,
+   "misesAuJeu": 138,
+   "gagnees": 61,
+   "moyenne": 27.6,
    "statut": "officiel"
   },
   "8477949": {
@@ -1312,9 +1312,9 @@
    "equipe": "DET",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478043": {
@@ -1502,9 +1502,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 107,
-   "gagnees": 58,
-   "moyenne": 21.4,
+   "misesAuJeu": 112,
+   "gagnees": 63,
+   "moyenne": 22.4,
    "statut": "officiel"
   },
   "8478434": {
@@ -1552,9 +1552,9 @@
    "equipe": "VAN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 6,
+   "gagnees": 4,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8478449": {
@@ -1642,9 +1642,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8478508": {
@@ -1792,9 +1792,9 @@
    "equipe": "DET",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8479343": {
@@ -2112,9 +2112,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 98,
-   "gagnees": 43,
-   "moyenne": 19.6,
+   "misesAuJeu": 102,
+   "gagnees": 47,
+   "moyenne": 20.4,
    "statut": "officiel"
   },
   "8480014": {
@@ -2241,10 +2241,10 @@
    "nom": "Filip Chytil",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 31,
-   "gagnees": 11,
-   "moyenne": 15.5,
+   "matchs": 3,
+   "misesAuJeu": 44,
+   "gagnees": 16,
+   "moyenne": 14.67,
    "statut": "officiel"
   },
   "8480113": {
@@ -2322,9 +2322,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 10,
-   "gagnees": 3,
-   "moyenne": 2.0,
+   "misesAuJeu": 12,
+   "gagnees": 4,
+   "moyenne": 2.4,
    "statut": "officiel"
   },
   "8480355": {
@@ -2422,9 +2422,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 9,
-   "moyenne": 5.8,
+   "misesAuJeu": 39,
+   "gagnees": 10,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8480830": {
@@ -2432,9 +2432,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8480835": {
@@ -2582,9 +2582,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 2,
-   "moyenne": 1.2,
+   "misesAuJeu": 8,
+   "gagnees": 3,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8481043": {
@@ -2962,9 +2962,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 38,
-   "gagnees": 12,
-   "moyenne": 7.6,
+   "misesAuJeu": 32,
+   "gagnees": 10,
+   "moyenne": 6.4,
    "statut": "ailier_centre"
   },
   "8482062": {
@@ -3242,9 +3242,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 1,
-   "moyenne": 0.6,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8482408": {
@@ -3312,9 +3312,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 75,
-   "gagnees": 42,
-   "moyenne": 15.0,
+   "misesAuJeu": 71,
+   "gagnees": 41,
+   "moyenne": 14.2,
    "statut": "officiel"
   },
   "8482667": {
@@ -3363,7 +3363,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 58,
-   "gagnees": 26,
+   "gagnees": 27,
    "moyenne": 11.6,
    "statut": "officiel"
   },
@@ -3392,9 +3392,9 @@
    "equipe": "SEA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482720": {
@@ -3531,7 +3531,7 @@
    "nom": "Carter Mazur",
    "equipe": "DET",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3542,9 +3542,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8482859": {
@@ -3592,9 +3592,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8483424": {
@@ -3762,9 +3762,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8483500": {
@@ -3822,9 +3822,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 18,
-   "gagnees": 8,
-   "moyenne": 3.6,
+   "misesAuJeu": 17,
+   "gagnees": 7,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8483525": {
@@ -3852,9 +3852,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 10,
-   "moyenne": 3.8,
+   "misesAuJeu": 20,
+   "gagnees": 13,
+   "moyenne": 4.0,
    "statut": "officiel"
   },
   "8483573": {
@@ -3982,9 +3982,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 21,
-   "gagnees": 8,
-   "moyenne": 4.2,
+   "misesAuJeu": 30,
+   "gagnees": 15,
+   "moyenne": 6.0,
    "statut": "officiel"
   },
   "8484142": {
@@ -4131,7 +4131,7 @@
    "nom": "Bradly Nadeau",
    "equipe": "CAR",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4231,9 +4231,9 @@
    "nom": "Felix Unger Sörum",
    "equipe": "CAR",
    "pos": "R",
-   "matchs": 2,
-   "misesAuJeu": 2,
-   "gagnees": 2,
+   "matchs": 3,
+   "misesAuJeu": 3,
+   "gagnees": 3,
    "moyenne": 1.0,
    "statut": "officiel"
   },
@@ -4252,9 +4252,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 27,
-   "moyenne": 12.0,
+   "misesAuJeu": 68,
+   "gagnees": 34,
+   "moyenne": 13.6,
    "statut": "officiel"
   },
   "8484509": {
@@ -4312,9 +4312,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 34,
-   "gagnees": 14,
-   "moyenne": 6.8,
+   "misesAuJeu": 37,
+   "gagnees": 15,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8484801": {
