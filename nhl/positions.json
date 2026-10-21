@@ -282,9 +282,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 31,
-   "moyenne": 11.6,
+   "misesAuJeu": 62,
+   "gagnees": 33,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8475413": {
@@ -542,9 +542,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 71,
-   "gagnees": 45,
-   "moyenne": 14.2,
+   "misesAuJeu": 74,
+   "gagnees": 43,
+   "moyenne": 14.8,
    "statut": "officiel"
   },
   "8476453": {
@@ -712,9 +712,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 34,
-   "moyenne": 11.6,
+   "misesAuJeu": 63,
+   "gagnees": 39,
+   "moyenne": 12.6,
    "statut": "officiel"
   },
   "8476880": {
@@ -732,9 +732,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 37,
-   "moyenne": 12.8,
+   "misesAuJeu": 57,
+   "gagnees": 31,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8476882": {
@@ -882,9 +882,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 17,
-   "gagnees": 3,
-   "moyenne": 3.4,
+   "misesAuJeu": 24,
+   "gagnees": 6,
+   "moyenne": 4.8,
    "statut": "officiel"
   },
   "8477407": {
@@ -1292,9 +1292,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 48,
+   "misesAuJeu": 49,
    "gagnees": 23,
-   "moyenne": 9.6,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8478020": {
@@ -1442,9 +1442,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 29,
-   "moyenne": 12.0,
+   "misesAuJeu": 58,
+   "gagnees": 25,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8478413": {
@@ -1662,9 +1662,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 98,
-   "gagnees": 48,
-   "moyenne": 19.6,
+   "misesAuJeu": 90,
+   "gagnees": 47,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8478542": {
@@ -2542,9 +2542,9 @@
    "equipe": "TBL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 1,
-   "moyenne": 0.8,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8481013": {
@@ -2692,9 +2692,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 3,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8481535": {
@@ -3232,9 +3232,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8482259": {
@@ -3643,7 +3643,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 23,
-   "gagnees": 9,
+   "gagnees": 11,
    "moyenne": 4.6,
    "statut": "officiel"
   },
@@ -3842,9 +3842,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8483570": {
@@ -3972,9 +3972,9 @@
    "equipe": "VGK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8484136": {
@@ -4332,9 +4332,9 @@
    "equipe": "VGK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8484829": {
