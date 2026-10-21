@@ -331,10 +331,10 @@
    "nom": "Tyler Pitlick",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.33,
+   "moyenne": 0.25,
    "statut": "centre_aile"
   },
   "8475754": {
@@ -361,7 +361,7 @@
    "nom": "Zach Hyman",
    "equipe": "EDM",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -512,9 +512,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8476419": {
@@ -952,9 +952,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 63,
-   "gagnees": 24,
-   "moyenne": 12.6,
+   "misesAuJeu": 58,
+   "gagnees": 23,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8477450": {
@@ -973,7 +973,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 57,
-   "gagnees": 29,
+   "gagnees": 33,
    "moyenne": 11.4,
    "statut": "ailier_centre"
   },
@@ -1142,9 +1142,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 32,
-   "moyenne": 10.8,
+   "misesAuJeu": 61,
+   "gagnees": 35,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8477935": {
@@ -1432,9 +1432,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 32,
-   "moyenne": 12.8,
+   "misesAuJeu": 60,
+   "gagnees": 29,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8478403": {
@@ -1602,9 +1602,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 2,
-   "moyenne": 1.0,
+   "misesAuJeu": 4,
+   "gagnees": 3,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8478474": {
@@ -1632,9 +1632,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 87,
-   "gagnees": 51,
-   "moyenne": 17.4,
+   "misesAuJeu": 96,
+   "gagnees": 49,
+   "moyenne": 19.2,
    "statut": "officiel"
   },
   "8478498": {
@@ -1652,9 +1652,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8478519": {
@@ -1852,9 +1852,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 7,
-   "moyenne": 2.4,
+   "misesAuJeu": 17,
+   "gagnees": 11,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8479368": {
@@ -2621,10 +2621,10 @@
    "nom": "Nico Sturm",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 17,
-   "gagnees": 15,
-   "moyenne": 5.67,
+   "matchs": 4,
+   "misesAuJeu": 20,
+   "gagnees": 16,
+   "moyenne": 5.0,
    "statut": "officiel"
   },
   "8481481": {
@@ -2732,9 +2732,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8481554": {
@@ -2752,9 +2752,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 14,
-   "gagnees": 6,
-   "moyenne": 2.8,
+   "misesAuJeu": 13,
+   "gagnees": 5,
+   "moyenne": 2.6,
    "statut": "officiel"
   },
   "8481559": {
@@ -2822,9 +2822,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8481618": {
@@ -3371,10 +3371,10 @@
    "nom": "Colton Dach",
    "equipe": "EDM",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 43,
-   "gagnees": 18,
-   "moyenne": 10.75,
+   "matchs": 5,
+   "misesAuJeu": 54,
+   "gagnees": 21,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8482705": {
@@ -3832,9 +3832,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 46,
-   "gagnees": 27,
-   "moyenne": 9.2,
+   "misesAuJeu": 47,
+   "gagnees": 28,
+   "moyenne": 9.4,
    "statut": "ailier_centre"
   },
   "8483553": {
@@ -4552,9 +4552,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 37,
-   "moyenne": 13.2,
+   "misesAuJeu": 69,
+   "gagnees": 31,
+   "moyenne": 13.8,
    "statut": "ailier_centre"
   },
   "8486171": {
