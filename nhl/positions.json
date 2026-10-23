@@ -152,9 +152,9 @@
    "equipe": "SEA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8475151": {
@@ -272,9 +272,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8475343": {
@@ -492,9 +492,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 47,
-   "gagnees": 25,
-   "moyenne": 9.4,
+   "misesAuJeu": 61,
+   "gagnees": 37,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8476392": {
@@ -792,9 +792,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 101,
-   "gagnees": 57,
-   "moyenne": 20.2,
+   "misesAuJeu": 91,
+   "gagnees": 49,
+   "moyenne": 18.2,
    "statut": "officiel"
   },
   "8476921": {
@@ -952,9 +952,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 78,
-   "gagnees": 37,
-   "moyenne": 15.6,
+   "misesAuJeu": 58,
+   "gagnees": 25,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8477444": {
@@ -1001,11 +1001,11 @@
    "nom": "J.T. Compher",
    "equipe": "DET",
    "pos": "L",
-   "matchs": 2,
-   "misesAuJeu": 26,
-   "gagnees": 11,
-   "moyenne": 13.0,
-   "statut": "officiel"
+   "matchs": 3,
+   "misesAuJeu": 33,
+   "gagnees": 14,
+   "moyenne": 11.0,
+   "statut": "ailier_centre"
   },
   "8477476": {
    "nom": "Artturi Lehkonen",
@@ -1142,9 +1142,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 57,
-   "gagnees": 31,
-   "moyenne": 11.4,
+   "misesAuJeu": 58,
+   "gagnees": 28,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8477933": {
@@ -1202,9 +1202,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 138,
-   "gagnees": 61,
-   "moyenne": 27.6,
+   "misesAuJeu": 134,
+   "gagnees": 65,
+   "moyenne": 26.8,
    "statut": "officiel"
   },
   "8477949": {
@@ -1222,9 +1222,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 68,
-   "gagnees": 34,
-   "moyenne": 13.6,
+   "misesAuJeu": 66,
+   "gagnees": 32,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8477953": {
@@ -1242,9 +1242,9 @@
    "equipe": "SEA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477956": {
@@ -1532,9 +1532,9 @@
    "equipe": "DET",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8478438": {
@@ -1632,9 +1632,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8478483": {
@@ -1722,9 +1722,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 52,
-   "gagnees": 28,
-   "moyenne": 10.4,
+   "misesAuJeu": 53,
+   "gagnees": 31,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8478856": {
@@ -2052,9 +2052,9 @@
    "equipe": "UTA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8479987": {
@@ -2072,9 +2072,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8479996": {
@@ -2132,9 +2132,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 102,
-   "gagnees": 47,
-   "moyenne": 20.4,
+   "misesAuJeu": 103,
+   "gagnees": 51,
+   "moyenne": 20.6,
    "statut": "officiel"
   },
   "8480014": {
@@ -2261,10 +2261,10 @@
    "nom": "Filip Chytil",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 44,
-   "gagnees": 16,
-   "moyenne": 14.67,
+   "matchs": 4,
+   "misesAuJeu": 55,
+   "gagnees": 23,
+   "moyenne": 13.75,
    "statut": "officiel"
   },
   "8480113": {
@@ -2522,9 +2522,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 53,
+   "misesAuJeu": 60,
    "gagnees": 31,
-   "moyenne": 10.6,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8480855": {
@@ -2533,7 +2533,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 12,
-   "gagnees": 8,
+   "gagnees": 9,
    "moyenne": 2.4,
    "statut": "officiel"
   },
@@ -2622,9 +2622,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 8,
+   "misesAuJeu": 7,
    "gagnees": 3,
-   "moyenne": 1.6,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8481043": {
@@ -3022,10 +3022,10 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 32,
-   "gagnees": 10,
-   "moyenne": 6.4,
-   "statut": "ailier_centre"
+   "misesAuJeu": 24,
+   "gagnees": 8,
+   "moyenne": 4.8,
+   "statut": "officiel"
   },
   "8482062": {
    "nom": "Cole Smith",
@@ -3082,9 +3082,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 31,
-   "moyenne": 11.0,
+   "misesAuJeu": 54,
+   "gagnees": 28,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8482088": {
@@ -3323,7 +3323,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 4,
-   "gagnees": 2,
+   "gagnees": 3,
    "moyenne": 0.8,
    "statut": "centre_aile"
   },
@@ -3392,9 +3392,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 71,
-   "gagnees": 41,
-   "moyenne": 14.2,
+   "misesAuJeu": 82,
+   "gagnees": 43,
+   "moyenne": 16.4,
    "statut": "officiel"
   },
   "8482667": {
@@ -3611,7 +3611,7 @@
    "nom": "Carter Mazur",
    "equipe": "DET",
    "pos": "L",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3692,9 +3692,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 17,
-   "moyenne": 7.0,
+   "misesAuJeu": 29,
+   "gagnees": 12,
+   "moyenne": 5.8,
    "statut": "officiel"
   },
   "8483432": {
@@ -3912,9 +3912,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 17,
-   "gagnees": 7,
-   "moyenne": 3.4,
+   "misesAuJeu": 16,
+   "gagnees": 9,
+   "moyenne": 3.2,
    "statut": "officiel"
   },
   "8483525": {
@@ -3943,7 +3943,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 20,
-   "gagnees": 13,
+   "gagnees": 15,
    "moyenne": 4.0,
    "statut": "officiel"
   },
@@ -4072,9 +4072,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 30,
-   "gagnees": 15,
-   "moyenne": 6.0,
+   "misesAuJeu": 38,
+   "gagnees": 18,
+   "moyenne": 7.6,
    "statut": "officiel"
   },
   "8484142": {
@@ -4152,9 +4152,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 20,
-   "gagnees": 9,
-   "moyenne": 4.0,
+   "misesAuJeu": 23,
+   "gagnees": 10,
+   "moyenne": 4.6,
    "statut": "officiel"
   },
   "8484164": {
@@ -4352,9 +4352,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 68,
-   "gagnees": 34,
-   "moyenne": 13.6,
+   "misesAuJeu": 67,
+   "gagnees": 33,
+   "moyenne": 13.4,
    "statut": "officiel"
   },
   "8484509": {
@@ -4392,9 +4392,9 @@
    "equipe": "DET",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8484797": {
@@ -4412,9 +4412,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 37,
-   "gagnees": 15,
-   "moyenne": 7.4,
+   "misesAuJeu": 40,
+   "gagnees": 17,
+   "moyenne": 8.0,
    "statut": "officiel"
   },
   "8484801": {
