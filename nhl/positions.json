@@ -533,7 +533,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 96,
-   "gagnees": 64,
+   "gagnees": 63,
    "moyenne": 19.2,
    "statut": "officiel"
   },
@@ -3493,7 +3493,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 29,
-   "gagnees": 13,
+   "gagnees": 14,
    "moyenne": 5.8,
    "statut": "officiel"
   },
