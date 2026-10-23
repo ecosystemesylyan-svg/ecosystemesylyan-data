@@ -341,10 +341,10 @@
    "nom": "Tyler Pitlick",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8475754": {
@@ -371,7 +371,7 @@
    "nom": "Zach Hyman",
    "equipe": "EDM",
    "pos": "L",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -522,9 +522,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8476419": {
@@ -567,6 +567,16 @@
    "moyenne": 0.0,
    "statut": "officiel"
   },
+  "8476454": {
+   "nom": "Ryan Nugent-Hopkins",
+   "equipe": "EDM",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 15,
+   "gagnees": 9,
+   "moyenne": 15.0,
+   "statut": "officiel"
+  },
   "8476455": {
    "nom": "Gabriel Landeskog",
    "equipe": "COL",
@@ -582,9 +592,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 15,
-   "gagnees": 4,
-   "moyenne": 3.0,
+   "misesAuJeu": 12,
+   "gagnees": 3,
+   "moyenne": 2.4,
    "statut": "officiel"
   },
   "8476459": {
@@ -792,9 +802,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 26,
+   "misesAuJeu": 30,
    "gagnees": 13,
-   "moyenne": 5.2,
+   "moyenne": 6.0,
    "statut": "ailier_centre"
   },
   "8476925": {
@@ -962,9 +972,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 23,
-   "moyenne": 11.6,
+   "misesAuJeu": 48,
+   "gagnees": 21,
+   "moyenne": 9.6,
    "statut": "officiel"
   },
   "8477450": {
@@ -982,9 +992,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 57,
-   "gagnees": 33,
-   "moyenne": 11.4,
+   "misesAuJeu": 60,
+   "gagnees": 34,
+   "moyenne": 12.0,
    "statut": "ailier_centre"
   },
   "8477456": {
@@ -1152,9 +1162,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 61,
-   "gagnees": 35,
-   "moyenne": 12.2,
+   "misesAuJeu": 69,
+   "gagnees": 39,
+   "moyenne": 13.8,
    "statut": "officiel"
   },
   "8477935": {
@@ -1182,9 +1192,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477946": {
@@ -1442,9 +1452,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 29,
-   "moyenne": 12.0,
+   "misesAuJeu": 57,
+   "gagnees": 26,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8478403": {
@@ -1512,9 +1522,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 112,
-   "gagnees": 63,
-   "moyenne": 22.4,
+   "misesAuJeu": 109,
+   "gagnees": 65,
+   "moyenne": 21.8,
    "statut": "officiel"
   },
   "8478434": {
@@ -1612,9 +1622,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 3,
-   "moyenne": 0.8,
+   "misesAuJeu": 7,
+   "gagnees": 4,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8478474": {
@@ -1642,9 +1652,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 96,
-   "gagnees": 49,
-   "moyenne": 19.2,
+   "misesAuJeu": 99,
+   "gagnees": 54,
+   "moyenne": 19.8,
    "statut": "officiel"
   },
   "8478498": {
@@ -1662,9 +1672,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 5,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8478519": {
@@ -1862,9 +1872,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 17,
+   "misesAuJeu": 16,
    "gagnees": 11,
-   "moyenne": 3.4,
+   "moyenne": 3.2,
    "statut": "officiel"
   },
   "8479368": {
@@ -2192,9 +2202,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 30,
-   "moyenne": 11.6,
+   "misesAuJeu": 54,
+   "gagnees": 31,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8480029": {
@@ -2202,9 +2212,9 @@
    "equipe": "EDM",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8480039": {
@@ -2307,6 +2317,16 @@
    "moyenne": 8.2,
    "statut": "ailier_centre"
   },
+  "8480259": {
+   "nom": "Ben Jones",
+   "equipe": "CGY",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 3.0,
+   "statut": "officiel"
+  },
   "8480281": {
    "nom": "Alexey Toropchenko",
    "equipe": "STL",
@@ -2325,6 +2345,16 @@
    "misesAuJeu": 62,
    "gagnees": 29,
    "moyenne": 12.4,
+   "statut": "officiel"
+  },
+  "8480291": {
+   "nom": "Skyler Brind'Amour",
+   "equipe": "CAR",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 5.0,
    "statut": "officiel"
   },
   "8480326": {
@@ -2392,9 +2422,9 @@
    "equipe": "CGY",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 11,
-   "gagnees": 3,
-   "moyenne": 2.2,
+   "misesAuJeu": 7,
+   "gagnees": 2,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8480801": {
@@ -2432,9 +2462,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 39,
-   "gagnees": 10,
-   "moyenne": 7.8,
+   "misesAuJeu": 42,
+   "gagnees": 13,
+   "moyenne": 8.4,
    "statut": "officiel"
   },
   "8480830": {
@@ -2442,9 +2472,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8480835": {
@@ -2582,9 +2612,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 35,
-   "moyenne": 12.0,
+   "misesAuJeu": 66,
+   "gagnees": 34,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8481032": {
@@ -2612,9 +2642,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 5,
    "gagnees": 2,
-   "moyenne": 0.8,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8481133": {
@@ -2641,10 +2671,10 @@
    "nom": "Nico Sturm",
    "equipe": "MIN",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 20,
-   "gagnees": 16,
-   "moyenne": 5.0,
+   "matchs": 5,
+   "misesAuJeu": 22,
+   "gagnees": 17,
+   "moyenne": 4.4,
    "statut": "officiel"
   },
   "8481481": {
@@ -2752,9 +2782,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8481554": {
@@ -2772,9 +2802,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 13,
+   "misesAuJeu": 11,
    "gagnees": 5,
-   "moyenne": 2.6,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8481559": {
@@ -3087,6 +3117,16 @@
    "moyenne": 8.2,
    "statut": "officiel"
   },
+  "8482093": {
+   "nom": "Seth Jarvis",
+   "equipe": "CAR",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8482097": {
    "nom": "Jack Quinn",
    "equipe": "BUF",
@@ -3372,9 +3412,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 23,
-   "gagnees": 13,
-   "moyenne": 4.6,
+   "misesAuJeu": 21,
+   "gagnees": 12,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8482691": {
@@ -3402,9 +3442,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 27,
-   "moyenne": 11.6,
+   "misesAuJeu": 66,
+   "gagnees": 26,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8482703": {
@@ -3412,9 +3452,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 21,
-   "moyenne": 10.8,
+   "misesAuJeu": 43,
+   "gagnees": 13,
+   "moyenne": 8.6,
    "statut": "officiel"
   },
   "8482705": {
@@ -3501,7 +3541,7 @@
    "nom": "Brennan Othmann",
    "equipe": "CGY",
    "pos": "L",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3582,9 +3622,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8482859": {
@@ -3882,9 +3922,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 47,
-   "gagnees": 28,
-   "moyenne": 9.4,
+   "misesAuJeu": 48,
+   "gagnees": 27,
+   "moyenne": 9.6,
    "statut": "ailier_centre"
   },
   "8483553": {
@@ -3922,9 +3962,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8483676": {
@@ -4092,9 +4132,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 44,
-   "gagnees": 23,
-   "moyenne": 8.8,
+   "misesAuJeu": 53,
+   "gagnees": 26,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8484158": {
@@ -4412,9 +4452,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8484911": {
@@ -4613,7 +4653,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 69,
-   "gagnees": 31,
+   "gagnees": 29,
    "moyenne": 13.8,
    "statut": "ailier_centre"
   },
