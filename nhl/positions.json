@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-22",
+ "dernierMatch": "2026-10-23",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -212,9 +212,9 @@
    "equipe": "MTL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8475220": {
@@ -662,9 +662,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 81,
-   "gagnees": 40,
-   "moyenne": 16.2,
+   "misesAuJeu": 88,
+   "gagnees": 48,
+   "moyenne": 17.6,
    "statut": "officiel"
   },
   "8476480": {
@@ -1282,9 +1282,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8477989": {
@@ -1382,9 +1382,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 25,
-   "moyenne": 10.2,
+   "misesAuJeu": 56,
+   "gagnees": 27,
+   "moyenne": 11.2,
    "statut": "officiel"
   },
   "8478147": {
@@ -2702,9 +2702,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8481528": {
@@ -2772,9 +2772,9 @@
    "equipe": "MTL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8481553": {
@@ -3032,9 +3032,9 @@
    "equipe": "CHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8482070": {
@@ -3591,10 +3591,10 @@
    "nom": "Oliver Kapanen",
    "equipe": "MTL",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 3,
-   "gagnees": 0,
-   "moyenne": 1.5,
+   "matchs": 3,
+   "misesAuJeu": 21,
+   "gagnees": 11,
+   "moyenne": 7.0,
    "statut": "officiel"
   },
   "8482784": {
@@ -3681,11 +3681,11 @@
    "nom": "Owen Beck",
    "equipe": "MTL",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
-   "statut": "officiel"
+   "matchs": 3,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.33,
+   "statut": "centre_aile"
   },
   "8483431": {
    "nom": "Logan Cooley",
@@ -3732,9 +3732,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 62,
-   "gagnees": 26,
-   "moyenne": 12.4,
+   "misesAuJeu": 60,
+   "gagnees": 28,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8483455": {
@@ -3842,9 +3842,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 53,
-   "gagnees": 23,
-   "moyenne": 10.6,
+   "misesAuJeu": 51,
+   "gagnees": 24,
+   "moyenne": 10.2,
    "statut": "officiel"
   },
   "8483499": {
@@ -4091,10 +4091,10 @@
    "nom": "Connor Bedard",
    "equipe": "CHI",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 48,
-   "gagnees": 23,
-   "moyenne": 16.0,
+   "matchs": 4,
+   "misesAuJeu": 63,
+   "gagnees": 28,
+   "moyenne": 15.75,
    "statut": "officiel"
   },
   "8484145": {
@@ -4212,9 +4212,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 28,
-   "gagnees": 10,
-   "moyenne": 5.6,
+   "misesAuJeu": 25,
+   "gagnees": 8,
+   "moyenne": 5.0,
    "statut": "officiel"
   },
   "8484203": {
@@ -4322,9 +4322,9 @@
    "equipe": "CHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 7,
-   "moyenne": 3.8,
+   "misesAuJeu": 24,
+   "gagnees": 8,
+   "moyenne": 4.8,
    "statut": "officiel"
   },
   "8484392": {
@@ -4532,9 +4532,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 78,
-   "gagnees": 36,
-   "moyenne": 15.6,
+   "misesAuJeu": 76,
+   "gagnees": 33,
+   "moyenne": 15.2,
    "statut": "officiel"
   },
   "8485395": {
