@@ -202,9 +202,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 36,
-   "gagnees": 17,
-   "moyenne": 7.2,
+   "misesAuJeu": 37,
+   "gagnees": 19,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8475184": {
@@ -352,9 +352,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 92,
-   "gagnees": 42,
-   "moyenne": 18.4,
+   "misesAuJeu": 100,
+   "gagnees": 44,
+   "moyenne": 20.0,
    "statut": "officiel"
   },
   "8475768": {
@@ -582,9 +582,9 @@
    "equipe": "COL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 1,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 0,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8476458": {
@@ -732,9 +732,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 63,
-   "gagnees": 39,
-   "moyenne": 12.6,
+   "misesAuJeu": 71,
+   "gagnees": 41,
+   "moyenne": 14.2,
    "statut": "officiel"
   },
   "8476880": {
@@ -902,9 +902,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 24,
-   "gagnees": 6,
-   "moyenne": 4.8,
+   "misesAuJeu": 25,
+   "gagnees": 7,
+   "moyenne": 5.0,
    "statut": "officiel"
   },
   "8477407": {
@@ -1042,9 +1042,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 82,
-   "gagnees": 33,
-   "moyenne": 16.4,
+   "misesAuJeu": 77,
+   "gagnees": 34,
+   "moyenne": 15.4,
    "statut": "officiel"
   },
   "8477493": {
@@ -1312,9 +1312,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 23,
-   "moyenne": 9.8,
+   "misesAuJeu": 43,
+   "gagnees": 22,
+   "moyenne": 8.6,
    "statut": "officiel"
   },
   "8478020": {
@@ -1683,7 +1683,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 90,
-   "gagnees": 47,
+   "gagnees": 50,
    "moyenne": 18.0,
    "statut": "officiel"
   },
@@ -2222,9 +2222,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8480064": {
@@ -2382,10 +2382,10 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 0,
-   "moyenne": 1.2,
-   "statut": "centre_aile"
+   "misesAuJeu": 11,
+   "gagnees": 2,
+   "moyenne": 2.2,
+   "statut": "officiel"
   },
   "8480459": {
    "nom": "Pius Suter",
@@ -2582,9 +2582,9 @@
    "equipe": "TBL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 2,
-   "moyenne": 1.0,
+   "misesAuJeu": 7,
+   "gagnees": 4,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8481013": {
@@ -2655,6 +2655,16 @@
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8481186": {
+   "nom": "Logan O'Connor",
+   "equipe": "COL",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 2.0,
    "statut": "officiel"
   },
   "8481237": {
@@ -2892,9 +2902,9 @@
    "equipe": "TBL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8481641": {
@@ -3582,9 +3592,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 42,
-   "gagnees": 22,
-   "moyenne": 8.4,
+   "misesAuJeu": 44,
+   "gagnees": 25,
+   "moyenne": 8.8,
    "statut": "officiel"
   },
   "8482775": {
@@ -3667,6 +3677,16 @@
    "moyenne": 2.0,
    "statut": "officiel"
   },
+  "8482953": {
+   "nom": "Taylor Makar",
+   "equipe": "COL",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8483395": {
    "nom": "Arshdeep Bains",
    "equipe": "VAN",
@@ -3722,9 +3742,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 23,
+   "misesAuJeu": 21,
    "gagnees": 11,
-   "moyenne": 4.6,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8483450": {
@@ -4011,10 +4031,10 @@
    "nom": "Dominic James",
    "equipe": "TBL",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 18,
-   "gagnees": 8,
-   "moyenne": 9.0,
+   "matchs": 3,
+   "misesAuJeu": 28,
+   "gagnees": 13,
+   "moyenne": 9.33,
    "statut": "officiel"
   },
   "8483756": {
