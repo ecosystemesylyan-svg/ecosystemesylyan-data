@@ -12,9 +12,9 @@
    "equipe": "LAK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 3,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8471214": {
@@ -262,9 +262,9 @@
    "equipe": "LAK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 26,
-   "moyenne": 12.8,
+   "misesAuJeu": 54,
+   "gagnees": 25,
+   "moyenne": 10.8,
    "statut": "ailier_centre"
   },
   "8475314": {
@@ -643,7 +643,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 4,
-   "gagnees": 2,
+   "gagnees": 1,
    "moyenne": 0.8,
    "statut": "officiel"
   },
@@ -712,9 +712,9 @@
    "equipe": "LAK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 70,
-   "gagnees": 37,
-   "moyenne": 14.0,
+   "misesAuJeu": 64,
+   "gagnees": 34,
+   "moyenne": 12.8,
    "statut": "officiel"
   },
   "8476873": {
@@ -851,7 +851,7 @@
    "nom": "Connor Brown",
    "equipe": "NJD",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1262,9 +1262,9 @@
    "equipe": "LAK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 26,
+   "misesAuJeu": 27,
    "gagnees": 14,
-   "moyenne": 5.2,
+   "moyenne": 5.4,
    "statut": "ailier_centre"
   },
   "8477964": {
@@ -1692,9 +1692,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 57,
-   "gagnees": 27,
-   "moyenne": 11.4,
+   "misesAuJeu": 49,
+   "gagnees": 25,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8478550": {
@@ -2082,9 +2082,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 74,
-   "gagnees": 42,
-   "moyenne": 14.8,
+   "misesAuJeu": 69,
+   "gagnees": 35,
+   "moyenne": 13.8,
    "statut": "officiel"
   },
   "8479999": {
@@ -2102,9 +2102,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 95,
-   "gagnees": 61,
-   "moyenne": 19.0,
+   "misesAuJeu": 91,
+   "gagnees": 60,
+   "moyenne": 18.2,
    "statut": "officiel"
   },
   "8480003": {
@@ -2822,9 +2822,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 43,
-   "gagnees": 18,
-   "moyenne": 8.6,
+   "misesAuJeu": 39,
+   "gagnees": 13,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8481580": {
@@ -3272,9 +3272,9 @@
    "equipe": "LAK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 38,
-   "gagnees": 18,
-   "moyenne": 7.6,
+   "misesAuJeu": 50,
+   "gagnees": 25,
+   "moyenne": 10.0,
    "statut": "ailier_centre"
   },
   "8482157": {
@@ -3502,9 +3502,9 @@
    "equipe": "LAK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 14,
-   "moyenne": 5.8,
+   "misesAuJeu": 22,
+   "gagnees": 10,
+   "moyenne": 4.4,
    "statut": "officiel"
   },
   "8482737": {
@@ -4012,9 +4012,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8483731": {
@@ -4041,7 +4041,7 @@
    "nom": "Jared Wright",
    "equipe": "LAK",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
