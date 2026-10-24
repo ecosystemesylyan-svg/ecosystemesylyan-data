@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-23",
+ "dernierMatch": "2026-10-24",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -402,9 +402,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 82,
-   "gagnees": 38,
-   "moyenne": 16.4,
+   "misesAuJeu": 79,
+   "gagnees": 39,
+   "moyenne": 15.8,
    "statut": "officiel"
   },
   "8475799": {
@@ -622,9 +622,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 85,
-   "gagnees": 47,
-   "moyenne": 17.0,
+   "misesAuJeu": 78,
+   "gagnees": 43,
+   "moyenne": 15.6,
    "statut": "officiel"
   },
   "8476468": {
@@ -1292,9 +1292,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 33,
-   "moyenne": 12.8,
+   "misesAuJeu": 59,
+   "gagnees": 30,
+   "moyenne": 11.8,
    "statut": "officiel"
   },
   "8477998": {
@@ -1502,9 +1502,9 @@
    "equipe": "ANA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8478424": {
@@ -1712,9 +1712,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 17,
-   "moyenne": 7.0,
+   "misesAuJeu": 37,
+   "gagnees": 21,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8478831": {
@@ -2312,9 +2312,9 @@
    "equipe": "PHI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 41,
-   "gagnees": 16,
-   "moyenne": 8.2,
+   "misesAuJeu": 42,
+   "gagnees": 13,
+   "moyenne": 8.4,
    "statut": "ailier_centre"
   },
   "8480259": {
@@ -2742,9 +2742,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 17,
-   "gagnees": 9,
-   "moyenne": 3.4,
+   "misesAuJeu": 21,
+   "gagnees": 10,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8481534": {
@@ -3002,9 +3002,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8481789": {
@@ -3021,10 +3021,10 @@
    "nom": "Jacob Gaucher",
    "equipe": "PHI",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 13,
-   "gagnees": 7,
-   "moyenne": 6.5,
+   "matchs": 3,
+   "misesAuJeu": 17,
+   "gagnees": 10,
+   "moyenne": 5.67,
    "statut": "officiel"
   },
   "8482055": {
@@ -3192,9 +3192,9 @@
    "equipe": "ANA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8482121": {
@@ -3342,9 +3342,9 @@
    "equipe": "ANA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482460": {
@@ -3732,10 +3732,10 @@
    "equipe": "ANA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 24,
+   "misesAuJeu": 25,
    "gagnees": 7,
-   "moyenne": 4.8,
-   "statut": "officiel"
+   "moyenne": 5.0,
+   "statut": "ailier_centre"
   },
   "8483447": {
    "nom": "Conor Geekie",
@@ -4022,9 +4022,9 @@
    "equipe": "PHI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8483752": {
@@ -4061,7 +4061,7 @@
    "nom": "Cole Knuble",
    "equipe": "PHI",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4102,10 +4102,10 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 9,
-   "gagnees": 5,
-   "moyenne": 1.8,
-   "statut": "centre_aile"
+   "misesAuJeu": 12,
+   "gagnees": 6,
+   "moyenne": 2.4,
+   "statut": "officiel"
   },
   "8484144": {
    "nom": "Connor Bedard",
@@ -4142,9 +4142,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
+   "misesAuJeu": 57,
    "gagnees": 25,
-   "moyenne": 11.8,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8484154": {
@@ -4322,9 +4322,9 @@
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 7,
+   "gagnees": 3,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8484388": {
@@ -4572,9 +4572,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 42,
-   "gagnees": 13,
-   "moyenne": 8.4,
+   "misesAuJeu": 41,
+   "gagnees": 10,
+   "moyenne": 8.2,
    "statut": "officiel"
   },
   "8485402": {
@@ -4592,9 +4592,9 @@
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8485414": {
@@ -4612,9 +4612,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 72,
-   "gagnees": 34,
-   "moyenne": 14.4,
+   "misesAuJeu": 78,
+   "gagnees": 41,
+   "moyenne": 15.6,
    "statut": "officiel"
   },
   "8485702": {
