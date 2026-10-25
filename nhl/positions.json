@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-24",
+ "dernierMatch": "2026-10-25",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -132,9 +132,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 20,
-   "moyenne": 9.0,
+   "misesAuJeu": 39,
+   "gagnees": 14,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8474564": {
@@ -772,9 +772,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8476887": {
@@ -932,9 +932,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 0.6,
+   "misesAuJeu": 6,
+   "gagnees": 4,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8477416": {
@@ -1142,9 +1142,9 @@
    "equipe": "FLA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.8,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477919": {
@@ -1163,7 +1163,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 48,
-   "gagnees": 20,
+   "gagnees": 21,
    "moyenne": 9.6,
    "statut": "officiel"
   },
@@ -1182,9 +1182,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 27,
-   "moyenne": 11.0,
+   "misesAuJeu": 58,
+   "gagnees": 30,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8477939": {
@@ -1292,9 +1292,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 1,
-   "moyenne": 0.6,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8477989": {
@@ -1421,7 +1421,7 @@
    "nom": "Andrew Mangiapane",
    "equipe": "CHI",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1482,9 +1482,9 @@
    "equipe": "CHI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478414": {
@@ -2302,9 +2302,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 2,
-   "moyenne": 1.6,
+   "misesAuJeu": 5,
+   "gagnees": 1,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8480188": {
@@ -2452,9 +2452,9 @@
    "equipe": "FLA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 20,
-   "gagnees": 6,
-   "moyenne": 4.0,
+   "misesAuJeu": 17,
+   "gagnees": 7,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8480802": {
@@ -2941,10 +2941,10 @@
    "nom": "Cole Schwindt",
    "equipe": "FLA",
    "pos": "R",
-   "matchs": 2,
-   "misesAuJeu": 13,
+   "matchs": 3,
+   "misesAuJeu": 14,
    "gagnees": 6,
-   "moyenne": 6.5,
+   "moyenne": 4.67,
    "statut": "officiel"
   },
   "8481656": {
@@ -3192,9 +3192,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 78,
-   "gagnees": 39,
-   "moyenne": 15.6,
+   "misesAuJeu": 82,
+   "gagnees": 40,
+   "moyenne": 16.4,
    "statut": "officiel"
   },
   "8482116": {
@@ -3782,9 +3782,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 28,
-   "moyenne": 12.0,
+   "misesAuJeu": 47,
+   "gagnees": 21,
+   "moyenne": 9.4,
    "statut": "officiel"
   },
   "8483455": {
@@ -3892,9 +3892,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 24,
-   "moyenne": 10.2,
+   "misesAuJeu": 39,
+   "gagnees": 16,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8483499": {
@@ -4141,10 +4141,10 @@
    "nom": "Connor Bedard",
    "equipe": "CHI",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 63,
-   "gagnees": 28,
-   "moyenne": 15.75,
+   "matchs": 5,
+   "misesAuJeu": 75,
+   "gagnees": 34,
+   "moyenne": 15.0,
    "statut": "officiel"
   },
   "8484145": {
@@ -4372,10 +4372,10 @@
    "equipe": "CHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 24,
-   "gagnees": 8,
-   "moyenne": 4.8,
-   "statut": "officiel"
+   "misesAuJeu": 33,
+   "gagnees": 15,
+   "moyenne": 6.6,
+   "statut": "ailier_centre"
   },
   "8484392": {
    "nom": "Felix Unger Sörum",
@@ -4582,9 +4582,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 76,
-   "gagnees": 33,
-   "moyenne": 15.2,
+   "misesAuJeu": 78,
+   "gagnees": 31,
+   "moyenne": 15.6,
    "statut": "officiel"
   },
   "8485395": {
