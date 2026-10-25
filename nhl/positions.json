@@ -272,9 +272,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 0.4,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8475343": {
@@ -492,9 +492,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 61,
-   "gagnees": 37,
-   "moyenne": 12.2,
+   "misesAuJeu": 75,
+   "gagnees": 51,
+   "moyenne": 15.0,
    "statut": "officiel"
   },
   "8476392": {
@@ -742,9 +742,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 71,
-   "gagnees": 41,
-   "moyenne": 14.2,
+   "misesAuJeu": 69,
+   "gagnees": 42,
+   "moyenne": 13.8,
    "statut": "officiel"
   },
   "8476880": {
@@ -881,10 +881,10 @@
    "nom": "Scott Sabourin",
    "equipe": "TBL",
    "pos": "R",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 1.0,
+   "moyenne": 0.5,
    "statut": "officiel"
   },
   "8477380": {
@@ -1232,9 +1232,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 32,
-   "moyenne": 13.2,
+   "misesAuJeu": 59,
+   "gagnees": 28,
+   "moyenne": 11.8,
    "statut": "officiel"
   },
   "8477953": {
@@ -1322,9 +1322,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 43,
-   "gagnees": 22,
-   "moyenne": 8.6,
+   "misesAuJeu": 52,
+   "gagnees": 26,
+   "moyenne": 10.4,
    "statut": "officiel"
   },
   "8478020": {
@@ -1642,9 +1642,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8478483": {
@@ -1692,9 +1692,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
-   "gagnees": 50,
-   "moyenne": 18.0,
+   "misesAuJeu": 95,
+   "gagnees": 52,
+   "moyenne": 19.0,
    "statut": "officiel"
   },
   "8478542": {
@@ -1732,9 +1732,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 53,
-   "gagnees": 31,
-   "moyenne": 10.6,
+   "misesAuJeu": 52,
+   "gagnees": 32,
+   "moyenne": 10.4,
    "statut": "officiel"
   },
   "8478856": {
@@ -2032,9 +2032,9 @@
    "equipe": "TBL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479772": {
@@ -2072,9 +2072,9 @@
    "equipe": "UTA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8479987": {
@@ -2542,9 +2542,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 31,
-   "moyenne": 12.0,
+   "misesAuJeu": 67,
+   "gagnees": 34,
+   "moyenne": 13.4,
    "statut": "officiel"
   },
   "8480855": {
@@ -2602,9 +2602,9 @@
    "equipe": "TBL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 4,
-   "moyenne": 1.4,
+   "misesAuJeu": 12,
+   "gagnees": 6,
+   "moyenne": 2.4,
    "statut": "officiel"
   },
   "8481013": {
@@ -3742,9 +3742,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 12,
-   "moyenne": 5.8,
+   "misesAuJeu": 34,
+   "gagnees": 16,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8483432": {
@@ -3772,9 +3772,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 21,
-   "gagnees": 11,
-   "moyenne": 4.2,
+   "misesAuJeu": 24,
+   "gagnees": 10,
+   "moyenne": 4.8,
    "statut": "officiel"
   },
   "8483450": {
