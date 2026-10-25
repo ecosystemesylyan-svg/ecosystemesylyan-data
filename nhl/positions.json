@@ -4142,9 +4142,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 75,
+   "misesAuJeu": 74,
    "gagnees": 34,
-   "moyenne": 15.0,
+   "moyenne": 14.8,
    "statut": "officiel"
   },
   "8484145": {
@@ -4372,9 +4372,9 @@
    "equipe": "CHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 33,
+   "misesAuJeu": 34,
    "gagnees": 15,
-   "moyenne": 6.6,
+   "moyenne": 6.8,
    "statut": "ailier_centre"
   },
   "8484392": {
