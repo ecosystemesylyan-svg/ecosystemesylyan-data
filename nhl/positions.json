@@ -102,9 +102,9 @@
    "equipe": "DAL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8474141": {
@@ -192,9 +192,9 @@
    "equipe": "NYI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 27,
-   "gagnees": 17,
-   "moyenne": 5.4,
+   "misesAuJeu": 33,
+   "gagnees": 20,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8475172": {
@@ -232,9 +232,9 @@
    "equipe": "NYI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 32,
-   "gagnees": 15,
-   "moyenne": 6.4,
+   "misesAuJeu": 33,
+   "gagnees": 16,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8475235": {
@@ -472,9 +472,9 @@
    "equipe": "NYI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8476374": {
@@ -532,9 +532,9 @@
    "equipe": "NYI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 96,
-   "gagnees": 63,
-   "moyenne": 19.2,
+   "misesAuJeu": 89,
+   "gagnees": 55,
+   "moyenne": 17.8,
    "statut": "officiel"
   },
   "8476432": {
@@ -1092,9 +1092,9 @@
    "equipe": "NYI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
+   "misesAuJeu": 76,
    "gagnees": 42,
-   "moyenne": 15.4,
+   "moyenne": 15.2,
    "statut": "officiel"
   },
   "8477501": {
@@ -1592,9 +1592,9 @@
    "equipe": "DAL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 32,
-   "moyenne": 11.6,
+   "misesAuJeu": 45,
+   "gagnees": 21,
+   "moyenne": 9.0,
    "statut": "officiel"
   },
   "8478458": {
@@ -2212,9 +2212,9 @@
    "equipe": "DAL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8480028": {
@@ -2691,11 +2691,11 @@
    "nom": "Kyle MacLean",
    "equipe": "NYI",
    "pos": "C",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 2,
    "gagnees": 2,
-   "moyenne": 1.0,
-   "statut": "officiel"
+   "moyenne": 0.67,
+   "statut": "centre_aile"
   },
   "8481477": {
    "nom": "Nico Sturm",
@@ -3071,7 +3071,7 @@
    "nom": "Mitchell Chaffee",
    "equipe": "NYI",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3542,9 +3542,9 @@
    "equipe": "DAL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 47,
-   "gagnees": 32,
-   "moyenne": 9.4,
+   "misesAuJeu": 46,
+   "gagnees": 29,
+   "moyenne": 9.2,
    "statut": "officiel"
   },
   "8482742": {
@@ -3935,6 +3935,16 @@
    "misesAuJeu": 1,
    "gagnees": 1,
    "moyenne": 0.2,
+   "statut": "officiel"
+  },
+  "8483514": {
+   "nom": "Matthew Seminoff",
+   "equipe": "DAL",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8483515": {
@@ -4492,9 +4502,9 @@
    "equipe": "DAL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 32,
-   "gagnees": 19,
-   "moyenne": 6.4,
+   "misesAuJeu": 30,
+   "gagnees": 17,
+   "moyenne": 6.0,
    "statut": "officiel"
   },
   "8484860": {
@@ -4522,9 +4532,9 @@
    "equipe": "DAL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 52,
+   "misesAuJeu": 56,
    "gagnees": 32,
-   "moyenne": 10.4,
+   "moyenne": 11.2,
    "statut": "ailier_centre"
   },
   "8484958": {
@@ -4695,6 +4705,16 @@
    "misesAuJeu": 3,
    "gagnees": 1,
    "moyenne": 0.6,
+   "statut": "officiel"
+  },
+  "8486130": {
+   "nom": "Dylan Hryckowian",
+   "equipe": "DAL",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8486161": {
