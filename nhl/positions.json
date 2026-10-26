@@ -142,9 +142,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 37,
-   "gagnees": 25,
-   "moyenne": 7.4,
+   "misesAuJeu": 41,
+   "gagnees": 29,
+   "moyenne": 8.2,
    "statut": "officiel"
   },
   "8474586": {
@@ -172,9 +172,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 84,
+   "misesAuJeu": 77,
    "gagnees": 53,
-   "moyenne": 16.8,
+   "moyenne": 15.4,
    "statut": "officiel"
   },
   "8475166": {
@@ -202,9 +202,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 37,
-   "gagnees": 19,
-   "moyenne": 7.4,
+   "misesAuJeu": 33,
+   "gagnees": 16,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8475184": {
@@ -352,9 +352,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 100,
-   "gagnees": 44,
-   "moyenne": 20.0,
+   "misesAuJeu": 98,
+   "gagnees": 41,
+   "moyenne": 19.6,
    "statut": "officiel"
   },
   "8475768": {
@@ -583,7 +583,7 @@
    "pos": "L",
    "matchs": 5,
    "misesAuJeu": 3,
-   "gagnees": 0,
+   "gagnees": 1,
    "moyenne": 0.6,
    "statut": "officiel"
   },
@@ -692,9 +692,9 @@
    "equipe": "NSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8476624": {
@@ -872,9 +872,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 27,
-   "gagnees": 13,
-   "moyenne": 5.4,
+   "misesAuJeu": 42,
+   "gagnees": 20,
+   "moyenne": 8.4,
    "statut": "officiel"
   },
   "8477149": {
@@ -1022,9 +1022,9 @@
    "equipe": "COL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477478": {
@@ -1052,9 +1052,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
+   "misesAuJeu": 78,
    "gagnees": 34,
-   "moyenne": 15.4,
+   "moyenne": 15.6,
    "statut": "officiel"
   },
   "8477493": {
@@ -2242,9 +2242,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8480064": {
@@ -2402,9 +2402,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 11,
-   "gagnees": 2,
-   "moyenne": 2.2,
+   "misesAuJeu": 19,
+   "gagnees": 6,
+   "moyenne": 3.8,
    "statut": "officiel"
   },
   "8480459": {
@@ -2503,7 +2503,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 71,
-   "gagnees": 33,
+   "gagnees": 34,
    "moyenne": 14.2,
    "statut": "officiel"
   },
@@ -2681,10 +2681,10 @@
    "nom": "Logan O'Connor",
    "equipe": "COL",
    "pos": "R",
-   "matchs": 1,
-   "misesAuJeu": 2,
+   "matchs": 2,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 2.0,
+   "moyenne": 1.5,
    "statut": "officiel"
   },
   "8481237": {
@@ -3002,9 +3002,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 0,
-   "moyenne": 0.6,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8481732": {
@@ -3252,9 +3252,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 44,
-   "gagnees": 17,
-   "moyenne": 8.8,
+   "misesAuJeu": 34,
+   "gagnees": 11,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8482146": {
@@ -3612,9 +3612,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 44,
-   "gagnees": 25,
-   "moyenne": 8.8,
+   "misesAuJeu": 40,
+   "gagnees": 22,
+   "moyenne": 8.0,
    "statut": "officiel"
   },
   "8482775": {
@@ -3701,7 +3701,7 @@
    "nom": "Taylor Makar",
    "equipe": "COL",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4343,7 +4343,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 27,
-   "gagnees": 8,
+   "gagnees": 9,
    "moyenne": 5.4,
    "statut": "ailier_centre"
   },
@@ -4732,9 +4732,9 @@
    "equipe": "COL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 15,
-   "gagnees": 5,
-   "moyenne": 3.0,
+   "misesAuJeu": 16,
+   "gagnees": 6,
+   "moyenne": 3.2,
    "statut": "officiel"
   },
   "8486189": {
