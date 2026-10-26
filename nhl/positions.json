@@ -342,9 +342,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "centre_aile"
   },
   "8475754": {
@@ -442,9 +442,9 @@
    "equipe": "VAN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8475913": {
@@ -522,9 +522,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 4,
+   "gagnees": 3,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8476419": {
@@ -982,9 +982,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 53,
+   "misesAuJeu": 49,
    "gagnees": 23,
-   "moyenne": 10.6,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8477450": {
@@ -1002,9 +1002,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 52,
-   "gagnees": 27,
-   "moyenne": 10.4,
+   "misesAuJeu": 47,
+   "gagnees": 24,
+   "moyenne": 9.4,
    "statut": "ailier_centre"
   },
   "8477456": {
@@ -1582,9 +1582,9 @@
    "equipe": "VAN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 4,
-   "moyenne": 1.2,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8478449": {
@@ -1662,9 +1662,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 100,
-   "gagnees": 54,
-   "moyenne": 20.0,
+   "misesAuJeu": 91,
+   "gagnees": 50,
+   "moyenne": 18.2,
    "statut": "officiel"
   },
   "8478498": {
@@ -1672,9 +1672,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8478508": {
@@ -1682,10 +1682,10 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 9,
-   "gagnees": 1,
-   "moyenne": 1.8,
-   "statut": "centre_aile"
+   "misesAuJeu": 11,
+   "gagnees": 3,
+   "moyenne": 2.2,
+   "statut": "officiel"
   },
   "8478519": {
    "nom": "Anthony Cirelli",
@@ -1752,9 +1752,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8478874": {
@@ -2153,7 +2153,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 103,
-   "gagnees": 51,
+   "gagnees": 53,
    "moyenne": 20.6,
    "statut": "officiel"
   },
@@ -2281,10 +2281,10 @@
    "nom": "Filip Chytil",
    "equipe": "VAN",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 55,
-   "gagnees": 23,
-   "moyenne": 13.75,
+   "matchs": 5,
+   "misesAuJeu": 66,
+   "gagnees": 32,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8480113": {
@@ -2622,9 +2622,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8481028": {
@@ -2702,9 +2702,9 @@
    "equipe": "MIN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 22,
-   "gagnees": 15,
-   "moyenne": 4.4,
+   "misesAuJeu": 17,
+   "gagnees": 8,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8481481": {
@@ -2812,9 +2812,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8481554": {
@@ -2832,9 +2832,9 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 2,
-   "moyenne": 1.4,
+   "misesAuJeu": 4,
+   "gagnees": 1,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8481559": {
@@ -3052,9 +3052,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 24,
-   "gagnees": 8,
-   "moyenne": 4.8,
+   "misesAuJeu": 17,
+   "gagnees": 6,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8482062": {
@@ -3112,9 +3112,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 28,
-   "moyenne": 10.8,
+   "misesAuJeu": 47,
+   "gagnees": 23,
+   "moyenne": 9.4,
    "statut": "officiel"
   },
   "8482088": {
@@ -3722,9 +3722,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8483424": {
@@ -3982,9 +3982,9 @@
    "equipe": "MIN",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 26,
-   "moyenne": 11.6,
+   "misesAuJeu": 52,
+   "gagnees": 23,
+   "moyenne": 10.4,
    "statut": "ailier_centre"
   },
   "8483553": {
@@ -4132,9 +4132,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 38,
+   "misesAuJeu": 37,
    "gagnees": 18,
-   "moyenne": 7.6,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8484142": {
