@@ -571,10 +571,10 @@
    "nom": "Ryan Nugent-Hopkins",
    "equipe": "EDM",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 24,
-   "gagnees": 14,
-   "moyenne": 12.0,
+   "matchs": 3,
+   "misesAuJeu": 38,
+   "gagnees": 20,
+   "moyenne": 12.67,
    "statut": "officiel"
   },
   "8476455": {
@@ -962,9 +962,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 26,
-   "moyenne": 11.2,
+   "misesAuJeu": 47,
+   "gagnees": 22,
+   "moyenne": 9.4,
    "statut": "officiel"
   },
   "8477444": {
@@ -1011,10 +1011,10 @@
    "nom": "J.T. Compher",
    "equipe": "DET",
    "pos": "L",
-   "matchs": 4,
-   "misesAuJeu": 39,
-   "gagnees": 17,
-   "moyenne": 9.75,
+   "matchs": 5,
+   "misesAuJeu": 51,
+   "gagnees": 22,
+   "moyenne": 10.2,
    "statut": "ailier_centre"
   },
   "8477476": {
@@ -1172,9 +1172,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 73,
-   "gagnees": 43,
-   "moyenne": 14.6,
+   "misesAuJeu": 75,
+   "gagnees": 40,
+   "moyenne": 15.0,
    "statut": "officiel"
   },
   "8477935": {
@@ -1212,9 +1212,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 128,
+   "misesAuJeu": 124,
    "gagnees": 64,
-   "moyenne": 25.6,
+   "moyenne": 24.8,
    "statut": "officiel"
   },
   "8477949": {
@@ -1342,9 +1342,9 @@
    "equipe": "DET",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8478043": {
@@ -1462,9 +1462,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 47,
-   "gagnees": 22,
-   "moyenne": 9.4,
+   "misesAuJeu": 53,
+   "gagnees": 24,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8478403": {
@@ -1632,9 +1632,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 4,
-   "moyenne": 1.4,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8478474": {
@@ -1832,9 +1832,9 @@
    "equipe": "DET",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8479343": {
@@ -2092,9 +2092,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8479996": {
@@ -3482,9 +3482,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 42,
+   "misesAuJeu": 40,
    "gagnees": 12,
-   "moyenne": 8.4,
+   "moyenne": 8.0,
    "statut": "officiel"
   },
   "8482705": {
@@ -4222,9 +4222,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 24,
-   "gagnees": 9,
-   "moyenne": 4.8,
+   "misesAuJeu": 25,
+   "gagnees": 11,
+   "moyenne": 5.0,
    "statut": "officiel"
   },
   "8484164": {
@@ -4422,9 +4422,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 31,
-   "moyenne": 11.6,
+   "misesAuJeu": 62,
+   "gagnees": 35,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8484509": {
@@ -4462,9 +4462,9 @@
    "equipe": "DET",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8484797": {
@@ -4732,9 +4732,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 68,
-   "gagnees": 29,
-   "moyenne": 13.6,
+   "misesAuJeu": 67,
+   "gagnees": 26,
+   "moyenne": 13.4,
    "statut": "ailier_centre"
   },
   "8486171": {
