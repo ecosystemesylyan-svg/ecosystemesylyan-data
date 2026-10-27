@@ -602,9 +602,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 106,
-   "gagnees": 48,
-   "moyenne": 21.2,
+   "misesAuJeu": 107,
+   "gagnees": 49,
+   "moyenne": 21.4,
    "statut": "officiel"
   },
   "8476460": {
@@ -632,9 +632,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 86,
+   "misesAuJeu": 85,
    "gagnees": 46,
-   "moyenne": 17.2,
+   "moyenne": 17.0,
    "statut": "officiel"
   },
   "8476469": {
@@ -3233,7 +3233,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 65,
-   "gagnees": 26,
+   "gagnees": 25,
    "moyenne": 13.0,
    "statut": "ailier_centre"
   },
