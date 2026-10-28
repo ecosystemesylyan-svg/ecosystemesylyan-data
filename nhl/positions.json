@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-26",
+ "dernierMatch": "2026-10-27",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -332,9 +332,9 @@
    "equipe": "CBJ",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 92,
-   "gagnees": 48,
-   "moyenne": 18.4,
+   "misesAuJeu": 97,
+   "gagnees": 51,
+   "moyenne": 19.4,
    "statut": "officiel"
   },
   "8475752": {
@@ -622,9 +622,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 78,
-   "gagnees": 43,
-   "moyenne": 15.6,
+   "misesAuJeu": 66,
+   "gagnees": 33,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8476468": {
@@ -1082,9 +1082,9 @@
    "equipe": "CBJ",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 74,
-   "gagnees": 42,
-   "moyenne": 14.8,
+   "misesAuJeu": 71,
+   "gagnees": 41,
+   "moyenne": 14.2,
    "statut": "officiel"
   },
   "8477500": {
@@ -1302,9 +1302,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
-   "gagnees": 30,
-   "moyenne": 11.8,
+   "misesAuJeu": 56,
+   "gagnees": 28,
+   "moyenne": 11.2,
    "statut": "officiel"
   },
   "8477998": {
@@ -1722,9 +1722,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 37,
-   "gagnees": 21,
-   "moyenne": 7.4,
+   "misesAuJeu": 36,
+   "gagnees": 18,
+   "moyenne": 7.2,
    "statut": "officiel"
   },
   "8478831": {
@@ -2012,9 +2012,9 @@
    "equipe": "CBJ",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 3,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8479675": {
@@ -2333,7 +2333,7 @@
    "pos": "L",
    "matchs": 5,
    "misesAuJeu": 42,
-   "gagnees": 13,
+   "gagnees": 15,
    "moyenne": 8.4,
    "statut": "ailier_centre"
   },
@@ -3492,9 +3492,9 @@
    "equipe": "CBJ",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 10,
-   "gagnees": 6,
-   "moyenne": 2.0,
+   "misesAuJeu": 11,
+   "gagnees": 7,
+   "moyenne": 2.2,
    "statut": "officiel"
   },
   "8482713": {
@@ -3761,10 +3761,10 @@
    "nom": "Luca Del Bel Belluz",
    "equipe": "CBJ",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 21,
-   "gagnees": 5,
-   "moyenne": 5.25,
+   "matchs": 5,
+   "misesAuJeu": 26,
+   "gagnees": 9,
+   "moyenne": 5.2,
    "statut": "officiel"
   },
   "8483445": {
@@ -4072,9 +4072,9 @@
    "equipe": "PHI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8483752": {
@@ -4111,7 +4111,7 @@
    "nom": "Cole Knuble",
    "equipe": "PHI",
    "pos": "R",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4152,9 +4152,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 6,
-   "moyenne": 2.4,
+   "misesAuJeu": 20,
+   "gagnees": 7,
+   "moyenne": 4.0,
    "statut": "officiel"
   },
   "8484144": {
@@ -4242,9 +4242,9 @@
    "equipe": "CBJ",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 88,
-   "gagnees": 46,
-   "moyenne": 17.6,
+   "misesAuJeu": 72,
+   "gagnees": 36,
+   "moyenne": 14.4,
    "statut": "officiel"
   },
   "8484180": {
@@ -4372,9 +4372,9 @@
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 3,
-   "moyenne": 1.4,
+   "misesAuJeu": 8,
+   "gagnees": 4,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8484388": {
@@ -4642,9 +4642,9 @@
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8485414": {
