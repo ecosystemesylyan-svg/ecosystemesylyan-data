@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-29",
+ "dernierMatch": "2026-10-30",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -282,9 +282,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 20,
-   "moyenne": 9.0,
+   "misesAuJeu": 49,
+   "gagnees": 21,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8475413": {
@@ -553,7 +553,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 83,
-   "gagnees": 46,
+   "gagnees": 44,
    "moyenne": 16.6,
    "statut": "officiel"
   },
@@ -762,9 +762,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 27,
-   "moyenne": 10.8,
+   "misesAuJeu": 60,
+   "gagnees": 33,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8476882": {
@@ -1132,9 +1132,9 @@
    "equipe": "NJD",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8477527": {
@@ -1482,9 +1482,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 82,
+   "misesAuJeu": 85,
    "gagnees": 35,
-   "moyenne": 16.4,
+   "moyenne": 17.0,
    "statut": "officiel"
   },
   "8478413": {
@@ -1502,9 +1502,9 @@
    "equipe": "NJD",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 5,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8478420": {
@@ -1712,9 +1712,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 50,
-   "gagnees": 25,
-   "moyenne": 10.0,
+   "misesAuJeu": 54,
+   "gagnees": 21,
+   "moyenne": 10.8,
    "statut": "officiel"
   },
   "8478550": {
@@ -1882,9 +1882,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 6,
+   "gagnees": 4,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8479359": {
@@ -2112,9 +2112,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 67,
-   "gagnees": 33,
-   "moyenne": 13.4,
+   "misesAuJeu": 66,
+   "gagnees": 30,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8479999": {
@@ -2132,9 +2132,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 96,
-   "gagnees": 59,
-   "moyenne": 19.2,
+   "misesAuJeu": 94,
+   "gagnees": 57,
+   "moyenne": 18.8,
    "statut": "officiel"
   },
   "8480003": {
@@ -2146,6 +2146,16 @@
    "gagnees": 0,
    "moyenne": 0.0,
    "statut": "centre_aile"
+  },
+  "8480007": {
+   "nom": "Jonas Rondbjerg",
+   "equipe": "VGK",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
   },
   "8480009": {
    "nom": "Eeli Tolvanen",
@@ -2852,9 +2862,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 41,
-   "gagnees": 16,
-   "moyenne": 8.2,
+   "misesAuJeu": 40,
+   "gagnees": 15,
+   "moyenne": 8.0,
    "statut": "officiel"
   },
   "8481580": {
@@ -4092,9 +4102,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "centre_aile"
   },
   "8483731": {
