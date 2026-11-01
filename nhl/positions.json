@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-10-31",
+ "dernierMatch": "2026-11-01",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -512,9 +512,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 88,
-   "gagnees": 41,
-   "moyenne": 17.6,
+   "misesAuJeu": 85,
+   "gagnees": 43,
+   "moyenne": 17.0,
    "statut": "officiel"
   },
   "8476393": {
@@ -622,9 +622,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 71,
-   "gagnees": 27,
-   "moyenne": 14.2,
+   "misesAuJeu": 69,
+   "gagnees": 28,
+   "moyenne": 13.8,
    "statut": "officiel"
   },
   "8476461": {
@@ -742,9 +742,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 91,
-   "gagnees": 48,
-   "moyenne": 18.2,
+   "misesAuJeu": 94,
+   "gagnees": 47,
+   "moyenne": 18.8,
    "statut": "ailier_centre"
   },
   "8476878": {
@@ -822,9 +822,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 20,
-   "gagnees": 8,
-   "moyenne": 4.0,
+   "misesAuJeu": 9,
+   "gagnees": 3,
+   "moyenne": 1.8,
    "statut": "officiel"
   },
   "8476925": {
@@ -1052,9 +1052,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477479": {
@@ -1222,9 +1222,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477946": {
@@ -1562,9 +1562,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 92,
-   "gagnees": 50,
-   "moyenne": 18.4,
+   "misesAuJeu": 84,
+   "gagnees": 48,
+   "moyenne": 16.8,
    "statut": "officiel"
   },
   "8478434": {
@@ -2202,9 +2202,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 23,
-   "gagnees": 13,
-   "moyenne": 4.6,
+   "misesAuJeu": 22,
+   "gagnees": 10,
+   "moyenne": 4.4,
    "statut": "officiel"
   },
   "8480015": {
@@ -2402,9 +2402,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 72,
-   "gagnees": 41,
-   "moyenne": 14.4,
+   "misesAuJeu": 66,
+   "gagnees": 34,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8480291": {
@@ -2472,9 +2472,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8480797": {
@@ -2523,7 +2523,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 45,
-   "gagnees": 22,
+   "gagnees": 28,
    "moyenne": 9.0,
    "statut": "officiel"
   },
@@ -2532,9 +2532,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 5,
    "gagnees": 1,
-   "moyenne": 1.2,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8480835": {
@@ -3201,7 +3201,7 @@
    "nom": "Seth Jarvis",
    "equipe": "CAR",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3232,10 +3232,10 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 3,
-   "moyenne": 1.2,
-   "statut": "centre_aile"
+   "misesAuJeu": 10,
+   "gagnees": 5,
+   "moyenne": 2.0,
+   "statut": "officiel"
   },
   "8482113": {
    "nom": "Anton Lundell",
@@ -3543,7 +3543,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 74,
-   "gagnees": 36,
+   "gagnees": 37,
    "moyenne": 14.8,
    "statut": "officiel"
   },
@@ -3722,9 +3722,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482859": {
@@ -4782,9 +4782,9 @@
    "equipe": "WPG",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 46,
-   "gagnees": 16,
-   "moyenne": 9.2,
+   "misesAuJeu": 53,
+   "gagnees": 23,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8486052": {
