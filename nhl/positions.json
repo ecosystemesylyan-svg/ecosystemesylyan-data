@@ -72,9 +72,9 @@
    "equipe": "OTT",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 53,
-   "gagnees": 29,
-   "moyenne": 10.6,
+   "misesAuJeu": 52,
+   "gagnees": 28,
+   "moyenne": 10.4,
    "statut": "ailier_centre"
   },
   "8473533": {
@@ -92,9 +92,9 @@
    "equipe": "ANA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8473994": {
@@ -412,9 +412,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
-   "gagnees": 47,
-   "moyenne": 18.0,
+   "misesAuJeu": 87,
+   "gagnees": 45,
+   "moyenne": 17.4,
    "statut": "officiel"
   },
   "8475799": {
@@ -2362,9 +2362,9 @@
    "equipe": "OTT",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8480220": {
@@ -2782,9 +2782,9 @@
    "equipe": "OTT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 27,
-   "moyenne": 10.2,
+   "misesAuJeu": 45,
+   "gagnees": 22,
+   "moyenne": 9.0,
    "statut": "officiel"
   },
   "8481532": {
@@ -2832,9 +2832,9 @@
    "equipe": "ANA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8481540": {
@@ -2891,7 +2891,7 @@
    "nom": "Philip Tomasino",
    "equipe": "OTT",
    "pos": "R",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2922,9 +2922,9 @@
    "equipe": "OTT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 53,
-   "gagnees": 27,
-   "moyenne": 10.6,
+   "misesAuJeu": 60,
+   "gagnees": 30,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8481601": {
@@ -3072,9 +3072,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 3,
-   "moyenne": 1.2,
+   "misesAuJeu": 5,
+   "gagnees": 2,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8481789": {
@@ -3252,9 +3252,9 @@
    "equipe": "OTT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 62,
-   "gagnees": 36,
-   "moyenne": 12.4,
+   "misesAuJeu": 59,
+   "gagnees": 35,
+   "moyenne": 11.8,
    "statut": "officiel"
   },
   "8482118": {
@@ -3262,9 +3262,9 @@
    "equipe": "ANA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8482121": {
@@ -3501,7 +3501,7 @@
    "nom": "Xavier Bourgault",
    "equipe": "OTT",
    "pos": "R",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -3853,7 +3853,7 @@
    "pos": "L",
    "matchs": 5,
    "misesAuJeu": 6,
-   "gagnees": 5,
+   "gagnees": 4,
    "moyenne": 1.2,
    "statut": "officiel"
   },
@@ -4132,9 +4132,9 @@
    "equipe": "OTT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 26,
+   "misesAuJeu": 21,
    "gagnees": 11,
-   "moyenne": 5.2,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8483690": {
@@ -4282,9 +4282,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
+   "misesAuJeu": 65,
    "gagnees": 30,
-   "moyenne": 12.0,
+   "moyenne": 13.0,
    "statut": "officiel"
   },
   "8484154": {
@@ -4722,9 +4722,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 26,
-   "gagnees": 8,
-   "moyenne": 5.2,
+   "misesAuJeu": 28,
+   "gagnees": 12,
+   "moyenne": 5.6,
    "statut": "officiel"
   },
   "8485402": {
@@ -4762,9 +4762,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 92,
-   "gagnees": 57,
-   "moyenne": 18.4,
+   "misesAuJeu": 95,
+   "gagnees": 59,
+   "moyenne": 19.0,
    "statut": "officiel"
   },
   "8485702": {
