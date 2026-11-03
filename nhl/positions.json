@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-01",
+ "dernierMatch": "2026-11-02",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -132,9 +132,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
-   "gagnees": 39,
-   "moyenne": 15.4,
+   "misesAuJeu": 81,
+   "gagnees": 40,
+   "moyenne": 16.2,
    "statut": "officiel"
   },
   "8474189": {
@@ -142,9 +142,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 26,
-   "gagnees": 10,
-   "moyenne": 5.2,
+   "misesAuJeu": 21,
+   "gagnees": 9,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8474564": {
@@ -212,9 +212,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 44,
-   "gagnees": 22,
-   "moyenne": 8.8,
+   "misesAuJeu": 45,
+   "gagnees": 25,
+   "moyenne": 9.0,
    "statut": "officiel"
   },
   "8475184": {
@@ -292,9 +292,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 21,
-   "moyenne": 9.8,
+   "misesAuJeu": 45,
+   "gagnees": 16,
+   "moyenne": 9.0,
    "statut": "officiel"
   },
   "8475413": {
@@ -362,9 +362,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 73,
-   "gagnees": 30,
-   "moyenne": 14.6,
+   "misesAuJeu": 69,
+   "gagnees": 27,
+   "moyenne": 13.8,
    "statut": "officiel"
   },
   "8475768": {
@@ -372,9 +372,9 @@
    "equipe": "COL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8475786": {
@@ -562,9 +562,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 83,
-   "gagnees": 44,
-   "moyenne": 16.6,
+   "misesAuJeu": 71,
+   "gagnees": 36,
+   "moyenne": 14.2,
    "statut": "officiel"
   },
   "8476453": {
@@ -592,9 +592,9 @@
    "equipe": "COL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 5,
    "gagnees": 3,
-   "moyenne": 1.2,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8476458": {
@@ -602,9 +602,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 15,
-   "gagnees": 6,
-   "moyenne": 3.0,
+   "misesAuJeu": 14,
+   "gagnees": 4,
+   "moyenne": 2.8,
    "statut": "officiel"
   },
   "8476459": {
@@ -712,9 +712,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8476822": {
@@ -772,9 +772,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 33,
-   "moyenne": 12.0,
+   "misesAuJeu": 56,
+   "gagnees": 32,
+   "moyenne": 11.2,
    "statut": "officiel"
   },
   "8476882": {
@@ -782,9 +782,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8476887": {
@@ -953,7 +953,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 8,
-   "gagnees": 4,
+   "gagnees": 5,
    "moyenne": 1.6,
    "statut": "centre_aile"
   },
@@ -982,9 +982,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 53,
-   "gagnees": 30,
-   "moyenne": 10.6,
+   "misesAuJeu": 68,
+   "gagnees": 37,
+   "moyenne": 13.6,
    "statut": "officiel"
   },
   "8477444": {
@@ -1032,9 +1032,9 @@
    "equipe": "DET",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 50,
-   "gagnees": 23,
-   "moyenne": 10.0,
+   "misesAuJeu": 58,
+   "gagnees": 26,
+   "moyenne": 11.6,
    "statut": "ailier_centre"
   },
   "8477476": {
@@ -1072,9 +1072,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 83,
-   "gagnees": 39,
-   "moyenne": 16.6,
+   "misesAuJeu": 86,
+   "gagnees": 46,
+   "moyenne": 17.2,
    "statut": "officiel"
   },
   "8477493": {
@@ -1093,7 +1093,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 104,
-   "gagnees": 65,
+   "gagnees": 64,
    "moyenne": 20.8,
    "statut": "officiel"
   },
@@ -1162,9 +1162,9 @@
    "equipe": "FLA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8477919": {
@@ -1202,9 +1202,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 29,
-   "moyenne": 11.2,
+   "misesAuJeu": 61,
+   "gagnees": 32,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8477939": {
@@ -1302,9 +1302,9 @@
    "equipe": "VGK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477987": {
@@ -1451,10 +1451,10 @@
    "nom": "Andrew Mangiapane",
    "equipe": "CHI",
    "pos": "L",
-   "matchs": 3,
-   "misesAuJeu": 0,
+   "matchs": 4,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.25,
    "statut": "officiel"
   },
   "8478366": {
@@ -1482,9 +1482,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 81,
-   "gagnees": 48,
-   "moyenne": 16.2,
+   "misesAuJeu": 73,
+   "gagnees": 45,
+   "moyenne": 14.6,
    "statut": "officiel"
   },
   "8478402": {
@@ -1502,9 +1502,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 85,
-   "gagnees": 35,
-   "moyenne": 17.0,
+   "misesAuJeu": 90,
+   "gagnees": 43,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8478413": {
@@ -1572,9 +1572,9 @@
    "equipe": "DET",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8478438": {
@@ -1642,9 +1642,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 22,
-   "moyenne": 5.8,
+   "misesAuJeu": 30,
+   "gagnees": 23,
+   "moyenne": 6.0,
    "statut": "officiel"
   },
   "8478463": {
@@ -1791,10 +1791,10 @@
    "nom": "Adam Gaudette",
    "equipe": "SJS",
    "pos": "R",
-   "matchs": 3,
-   "misesAuJeu": 12,
-   "gagnees": 6,
-   "moyenne": 4.0,
+   "matchs": 4,
+   "misesAuJeu": 15,
+   "gagnees": 9,
+   "moyenne": 3.75,
    "statut": "officiel"
   },
   "8478891": {
@@ -1902,9 +1902,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 7,
    "gagnees": 4,
-   "moyenne": 1.2,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8479359": {
@@ -2032,9 +2032,9 @@
    "equipe": "BOS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 5,
-   "moyenne": 1.6,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8479671": {
@@ -2113,7 +2113,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 9,
-   "gagnees": 6,
+   "gagnees": 7,
    "moyenne": 1.8,
    "statut": "centre_aile"
   },
@@ -2142,9 +2142,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 2,
-   "moyenne": 1.4,
+   "misesAuJeu": 8,
+   "gagnees": 3,
+   "moyenne": 1.6,
    "statut": "centre_aile"
   },
   "8480002": {
@@ -2171,7 +2171,7 @@
    "nom": "Jonas Rondbjerg",
    "equipe": "VGK",
    "pos": "R",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2263,7 +2263,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 53,
-   "gagnees": 24,
+   "gagnees": 19,
    "moyenne": 10.6,
    "statut": "officiel"
   },
@@ -2342,9 +2342,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8480188": {
@@ -2422,9 +2422,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 22,
-   "gagnees": 10,
-   "moyenne": 4.4,
+   "misesAuJeu": 24,
+   "gagnees": 12,
+   "moyenne": 4.8,
    "statut": "officiel"
   },
   "8480355": {
@@ -2432,9 +2432,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 17,
-   "gagnees": 8,
-   "moyenne": 3.4,
+   "misesAuJeu": 13,
+   "gagnees": 5,
+   "moyenne": 2.6,
    "statut": "officiel"
   },
   "8480448": {
@@ -2442,9 +2442,9 @@
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 20,
+   "misesAuJeu": 21,
    "gagnees": 6,
-   "moyenne": 4.0,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8480459": {
@@ -2462,9 +2462,9 @@
    "equipe": "SJS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8480762": {
@@ -2482,9 +2482,9 @@
    "equipe": "CGY",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 1,
-   "moyenne": 0.6,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8480801": {
@@ -2492,9 +2492,9 @@
    "equipe": "FLA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 20,
+   "misesAuJeu": 21,
    "gagnees": 11,
-   "moyenne": 4.0,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8480802": {
@@ -2672,9 +2672,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 22,
-   "moyenne": 12.0,
+   "misesAuJeu": 55,
+   "gagnees": 21,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8481032": {
@@ -2702,10 +2702,20 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.6,
    "statut": "centre_aile"
+  },
+  "8481077": {
+   "nom": "John Leonard",
+   "equipe": "DET",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 1.0,
+   "statut": "officiel"
   },
   "8481133": {
    "nom": "Cole Reinhardt",
@@ -2721,10 +2731,10 @@
    "nom": "Logan O'Connor",
    "equipe": "COL",
    "pos": "R",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 1.0,
+   "moyenne": 0.75,
    "statut": "officiel"
   },
   "8481237": {
@@ -2992,9 +3002,9 @@
    "equipe": "FLA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 33,
-   "gagnees": 21,
-   "moyenne": 6.6,
+   "misesAuJeu": 34,
+   "gagnees": 22,
+   "moyenne": 6.8,
    "statut": "ailier_centre"
   },
   "8481656": {
@@ -3242,9 +3252,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
-   "gagnees": 48,
-   "moyenne": 18.0,
+   "misesAuJeu": 88,
+   "gagnees": 51,
+   "moyenne": 17.6,
    "statut": "officiel"
   },
   "8482116": {
@@ -3382,9 +3392,9 @@
    "equipe": "BOS",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 3,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8482177": {
@@ -3512,9 +3522,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 13,
-   "gagnees": 6,
-   "moyenne": 2.6,
+   "misesAuJeu": 17,
+   "gagnees": 8,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8482691": {
@@ -3677,14 +3687,24 @@
    "moyenne": 0.0,
    "statut": "officiel"
   },
+  "8482766": {
+   "nom": "William Stromgren",
+   "equipe": "CGY",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8482768": {
    "nom": "Fedor Svechkov",
    "equipe": "COL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 18,
-   "moyenne": 7.0,
+   "misesAuJeu": 34,
+   "gagnees": 20,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8482775": {
@@ -3732,9 +3752,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 42,
-   "gagnees": 23,
-   "moyenne": 8.4,
+   "misesAuJeu": 36,
+   "gagnees": 17,
+   "moyenne": 7.2,
    "statut": "officiel"
   },
   "8482874": {
@@ -3821,10 +3841,10 @@
    "nom": "Filip Bystedt",
    "equipe": "SJS",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 16,
-   "gagnees": 8,
-   "moyenne": 8.0,
+   "matchs": 3,
+   "misesAuJeu": 26,
+   "gagnees": 15,
+   "moyenne": 8.67,
    "statut": "officiel"
   },
   "8483431": {
@@ -3872,9 +3892,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 44,
-   "gagnees": 15,
-   "moyenne": 8.8,
+   "misesAuJeu": 38,
+   "gagnees": 10,
+   "moyenne": 7.6,
    "statut": "officiel"
   },
   "8483455": {
@@ -3962,9 +3982,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 32,
-   "moyenne": 12.0,
+   "misesAuJeu": 55,
+   "gagnees": 30,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8483491": {
@@ -3982,9 +4002,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 52,
-   "gagnees": 20,
-   "moyenne": 10.4,
+   "misesAuJeu": 53,
+   "gagnees": 24,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8483497": {
@@ -4023,7 +4043,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 10,
-   "gagnees": 8,
+   "gagnees": 7,
    "moyenne": 2.0,
    "statut": "officiel"
   },
@@ -4123,7 +4143,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 7,
-   "gagnees": 1,
+   "gagnees": 2,
    "moyenne": 1.4,
    "statut": "officiel"
   },
@@ -4222,9 +4242,9 @@
    "equipe": "VGK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8484136": {
@@ -4252,9 +4272,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 28,
-   "moyenne": 12.8,
+   "misesAuJeu": 66,
+   "gagnees": 31,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8484145": {
@@ -4292,9 +4312,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 23,
-   "moyenne": 9.8,
+   "misesAuJeu": 47,
+   "gagnees": 21,
+   "moyenne": 9.4,
    "statut": "officiel"
   },
   "8484158": {
@@ -4372,9 +4392,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 24,
-   "gagnees": 15,
-   "moyenne": 4.8,
+   "misesAuJeu": 22,
+   "gagnees": 12,
+   "moyenne": 4.4,
    "statut": "officiel"
   },
   "8484203": {
@@ -4413,7 +4433,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 5,
-   "gagnees": 1,
+   "gagnees": 2,
    "moyenne": 1.0,
    "statut": "centre_aile"
   },
@@ -4482,9 +4502,9 @@
    "equipe": "CHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 31,
-   "gagnees": 14,
-   "moyenne": 6.2,
+   "misesAuJeu": 28,
+   "gagnees": 12,
+   "moyenne": 5.6,
    "statut": "ailier_centre"
   },
   "8484392": {
@@ -4512,9 +4532,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 27,
-   "moyenne": 10.8,
+   "misesAuJeu": 57,
+   "gagnees": 29,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8484509": {
@@ -4553,7 +4573,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 4,
-   "gagnees": 3,
+   "gagnees": 4,
    "moyenne": 0.8,
    "statut": "officiel"
   },
@@ -4582,9 +4602,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 107,
-   "gagnees": 50,
-   "moyenne": 21.4,
+   "misesAuJeu": 101,
+   "gagnees": 53,
+   "moyenne": 20.2,
    "statut": "officiel"
   },
   "8484803": {
@@ -4592,9 +4612,9 @@
    "equipe": "VGK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8484829": {
@@ -4612,9 +4632,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8484901": {
@@ -4632,9 +4652,9 @@
    "equipe": "SJS",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 11,
+   "misesAuJeu": 7,
    "gagnees": 2,
-   "moyenne": 2.2,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8484938": {
@@ -4702,9 +4722,9 @@
    "equipe": "CHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 75,
-   "gagnees": 27,
-   "moyenne": 15.0,
+   "misesAuJeu": 74,
+   "gagnees": 30,
+   "moyenne": 14.8,
    "statut": "officiel"
   },
   "8485395": {
@@ -4732,9 +4752,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
-   "gagnees": 23,
-   "moyenne": 11.2,
+   "misesAuJeu": 58,
+   "gagnees": 24,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8485406": {
@@ -4812,9 +4832,9 @@
    "equipe": "SJS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8486130": {
@@ -4842,9 +4862,9 @@
    "equipe": "COL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 18,
-   "gagnees": 9,
-   "moyenne": 3.6,
+   "misesAuJeu": 15,
+   "gagnees": 8,
+   "moyenne": 3.0,
    "statut": "officiel"
   },
   "8486189": {
