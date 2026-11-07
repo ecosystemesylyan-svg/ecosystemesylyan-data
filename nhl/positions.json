@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-06",
+ "dernierMatch": "2026-11-07",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -142,9 +142,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 16,
-   "gagnees": 6,
-   "moyenne": 3.2,
+   "misesAuJeu": 20,
+   "gagnees": 8,
+   "moyenne": 4.0,
    "statut": "officiel"
   },
   "8474564": {
@@ -152,9 +152,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 39,
-   "gagnees": 21,
-   "moyenne": 7.8,
+   "misesAuJeu": 36,
+   "gagnees": 20,
+   "moyenne": 7.2,
    "statut": "officiel"
   },
   "8474586": {
@@ -182,9 +182,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 69,
-   "gagnees": 41,
-   "moyenne": 13.8,
+   "misesAuJeu": 78,
+   "gagnees": 45,
+   "moyenne": 15.6,
    "statut": "officiel"
   },
   "8475166": {
@@ -552,9 +552,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 29,
-   "moyenne": 11.6,
+   "misesAuJeu": 60,
+   "gagnees": 31,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8476448": {
@@ -792,9 +792,9 @@
    "equipe": "NSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 4,
    "gagnees": 4,
-   "moyenne": 1.0,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8476889": {
@@ -882,9 +882,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 36,
-   "gagnees": 17,
-   "moyenne": 7.2,
+   "misesAuJeu": 39,
+   "gagnees": 20,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8477070": {
@@ -952,9 +952,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 9,
-   "gagnees": 6,
-   "moyenne": 1.8,
+   "misesAuJeu": 7,
+   "gagnees": 5,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8477416": {
@@ -1182,9 +1182,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 26,
-   "moyenne": 11.0,
+   "misesAuJeu": 53,
+   "gagnees": 24,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8477934": {
@@ -1202,9 +1202,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 34,
-   "moyenne": 12.8,
+   "misesAuJeu": 72,
+   "gagnees": 39,
+   "moyenne": 14.4,
    "statut": "officiel"
   },
   "8477939": {
@@ -1242,9 +1242,9 @@
    "equipe": "WSH",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 7,
+   "gagnees": 4,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8477951": {
@@ -1612,9 +1612,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 76,
-   "gagnees": 37,
-   "moyenne": 15.2,
+   "misesAuJeu": 78,
+   "gagnees": 34,
+   "moyenne": 15.6,
    "statut": "officiel"
   },
   "8478444": {
@@ -1982,9 +1982,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 74,
-   "gagnees": 27,
-   "moyenne": 14.8,
+   "misesAuJeu": 72,
+   "gagnees": 30,
+   "moyenne": 14.4,
    "statut": "officiel"
   },
   "8479407": {
@@ -2272,9 +2272,9 @@
    "equipe": "STL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 107,
-   "gagnees": 59,
-   "moyenne": 21.4,
+   "misesAuJeu": 113,
+   "gagnees": 56,
+   "moyenne": 22.6,
    "statut": "officiel"
   },
   "8480027": {
@@ -2372,9 +2372,9 @@
    "equipe": "FLA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8480188": {
@@ -2422,9 +2422,9 @@
    "equipe": "STL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8480289": {
@@ -2482,9 +2482,9 @@
    "equipe": "STL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 57,
-   "gagnees": 24,
-   "moyenne": 11.4,
+   "misesAuJeu": 64,
+   "gagnees": 30,
+   "moyenne": 12.8,
    "statut": "officiel"
   },
   "8480748": {
@@ -2522,9 +2522,9 @@
    "equipe": "FLA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 14,
-   "moyenne": 3.8,
+   "misesAuJeu": 24,
+   "gagnees": 15,
+   "moyenne": 4.8,
    "statut": "officiel"
   },
   "8480802": {
@@ -2573,7 +2573,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 79,
-   "gagnees": 40,
+   "gagnees": 41,
    "moyenne": 15.8,
    "statut": "officiel"
   },
@@ -2751,7 +2751,7 @@
    "nom": "Cole Reinhardt",
    "equipe": "FLA",
    "pos": "L",
-   "matchs": 1,
+   "matchs": 2,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -2862,9 +2862,9 @@
    "equipe": "NSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8481538": {
@@ -2942,9 +2942,9 @@
    "equipe": "STL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 3,
-   "moyenne": 2.4,
+   "misesAuJeu": 19,
+   "gagnees": 7,
+   "moyenne": 3.8,
    "statut": "officiel"
   },
   "8481582": {
@@ -3032,9 +3032,9 @@
    "equipe": "FLA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 38,
-   "gagnees": 26,
-   "moyenne": 7.6,
+   "misesAuJeu": 41,
+   "gagnees": 28,
+   "moyenne": 8.2,
    "statut": "ailier_centre"
   },
   "8481656": {
@@ -3042,9 +3042,9 @@
    "equipe": "WSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8481711": {
@@ -3212,9 +3212,9 @@
    "equipe": "WSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 24,
+   "misesAuJeu": 23,
    "gagnees": 12,
-   "moyenne": 4.8,
+   "moyenne": 4.6,
    "statut": "officiel"
   },
   "8482089": {
@@ -3222,9 +3222,9 @@
    "equipe": "STL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482092": {
@@ -3342,10 +3342,10 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 4,
-   "moyenne": 2.4,
-   "statut": "officiel"
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
+   "statut": "centre_aile"
   },
   "8482146": {
    "nom": "Luke Evangelista",
@@ -3672,9 +3672,9 @@
    "equipe": "STL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 36,
-   "moyenne": 13.2,
+   "misesAuJeu": 62,
+   "gagnees": 32,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8482747": {
@@ -4112,9 +4112,9 @@
    "equipe": "STL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8483524": {
@@ -4122,9 +4122,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 32,
-   "gagnees": 17,
-   "moyenne": 6.4,
+   "misesAuJeu": 37,
+   "gagnees": 16,
+   "moyenne": 7.4,
    "statut": "officiel"
   },
   "8483525": {
@@ -4382,9 +4382,9 @@
    "equipe": "STL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 28,
-   "moyenne": 10.8,
+   "misesAuJeu": 43,
+   "gagnees": 21,
+   "moyenne": 8.6,
    "statut": "ailier_centre"
   },
   "8484166": {
@@ -4752,9 +4752,9 @@
    "equipe": "WSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 22,
+   "misesAuJeu": 20,
    "gagnees": 8,
-   "moyenne": 4.4,
+   "moyenne": 4.0,
    "statut": "officiel"
   },
   "8485388": {
@@ -4942,9 +4942,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 2,
-   "moyenne": 1.2,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   }
  }
