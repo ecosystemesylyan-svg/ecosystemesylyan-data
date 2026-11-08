@@ -612,9 +612,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 94,
-   "gagnees": 53,
-   "moyenne": 18.8,
+   "misesAuJeu": 90,
+   "gagnees": 55,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8476460": {
@@ -642,9 +642,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 84,
-   "gagnees": 50,
-   "moyenne": 16.8,
+   "misesAuJeu": 88,
+   "gagnees": 55,
+   "moyenne": 17.6,
    "statut": "officiel"
   },
   "8476469": {
@@ -813,7 +813,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 72,
-   "gagnees": 45,
+   "gagnees": 46,
    "moyenne": 14.4,
    "statut": "officiel"
   },
@@ -1172,9 +1172,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 56,
+   "misesAuJeu": 51,
    "gagnees": 26,
-   "moyenne": 11.2,
+   "moyenne": 10.2,
    "statut": "officiel"
   },
   "8477933": {
@@ -3122,9 +3122,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 0,
-   "moyenne": 0.4,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8481848": {
@@ -3392,9 +3392,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 6,
-   "moyenne": 2.4,
+   "misesAuJeu": 19,
+   "gagnees": 9,
+   "moyenne": 3.8,
    "statut": "officiel"
   },
   "8482159": {
@@ -3452,9 +3452,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "centre_aile"
   },
   "8482408": {
@@ -3471,10 +3471,10 @@
    "nom": "Matt Rempe",
    "equipe": "NYR",
    "pos": "C",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8482475": {
@@ -3522,9 +3522,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
-   "gagnees": 38,
-   "moyenne": 15.4,
+   "misesAuJeu": 65,
+   "gagnees": 31,
+   "moyenne": 13.0,
    "statut": "officiel"
   },
   "8482667": {
@@ -3802,9 +3802,9 @@
    "equipe": "NYR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8482896": {
@@ -4041,7 +4041,7 @@
    "nom": "Jani Nyman",
    "equipe": "SEA",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4152,9 +4152,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 22,
-   "moyenne": 7.0,
+   "misesAuJeu": 39,
+   "gagnees": 23,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8483573": {
@@ -4202,9 +4202,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 30,
-   "moyenne": 12.0,
+   "misesAuJeu": 52,
+   "gagnees": 25,
+   "moyenne": 10.4,
    "statut": "officiel"
   },
   "8483695": {
@@ -4512,9 +4512,9 @@
    "equipe": "SEA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 18,
-   "gagnees": 8,
-   "moyenne": 3.6,
+   "misesAuJeu": 15,
+   "gagnees": 6,
+   "moyenne": 3.0,
    "statut": "officiel"
   },
   "8484242": {
@@ -4642,9 +4642,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 24,
-   "moyenne": 10.2,
+   "misesAuJeu": 50,
+   "gagnees": 23,
+   "moyenne": 10.0,
    "statut": "officiel"
   },
   "8484801": {
