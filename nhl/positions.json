@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-11",
+ "dernierMatch": "2026-11-12",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -503,7 +503,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 62,
-   "gagnees": 27,
+   "gagnees": 28,
    "moyenne": 12.4,
    "statut": "officiel"
   },
@@ -563,7 +563,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 62,
-   "gagnees": 34,
+   "gagnees": 33,
    "moyenne": 12.4,
    "statut": "officiel"
   },
@@ -752,9 +752,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 91,
-   "gagnees": 41,
-   "moyenne": 18.2,
+   "misesAuJeu": 87,
+   "gagnees": 36,
+   "moyenne": 17.4,
    "statut": "ailier_centre"
   },
   "8476878": {
@@ -822,9 +822,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 72,
-   "gagnees": 46,
-   "moyenne": 14.4,
+   "misesAuJeu": 68,
+   "gagnees": 41,
+   "moyenne": 13.6,
    "statut": "officiel"
   },
   "8476921": {
@@ -832,9 +832,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 8,
+   "misesAuJeu": 7,
    "gagnees": 2,
-   "moyenne": 1.6,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8476925": {
@@ -1182,9 +1182,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 26,
-   "moyenne": 10.2,
+   "misesAuJeu": 50,
+   "gagnees": 24,
+   "moyenne": 10.0,
    "statut": "officiel"
   },
   "8477933": {
@@ -1232,9 +1232,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477946": {
@@ -1523,7 +1523,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 90,
-   "gagnees": 42,
+   "gagnees": 43,
    "moyenne": 18.0,
    "statut": "officiel"
   },
@@ -1583,7 +1583,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 73,
-   "gagnees": 39,
+   "gagnees": 42,
    "moyenne": 14.6,
    "statut": "officiel"
   },
@@ -2592,9 +2592,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 40,
-   "gagnees": 24,
-   "moyenne": 8.0,
+   "misesAuJeu": 48,
+   "gagnees": 27,
+   "moyenne": 9.6,
    "statut": "officiel"
   },
   "8480830": {
@@ -2602,9 +2602,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8480835": {
@@ -2653,7 +2653,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 61,
-   "gagnees": 30,
+   "gagnees": 29,
    "moyenne": 12.2,
    "statut": "officiel"
   },
@@ -3572,9 +3572,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
-   "gagnees": 31,
-   "moyenne": 13.0,
+   "misesAuJeu": 63,
+   "gagnees": 29,
+   "moyenne": 12.6,
    "statut": "officiel"
   },
   "8482667": {
@@ -3632,9 +3632,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 67,
-   "gagnees": 35,
-   "moyenne": 13.4,
+   "misesAuJeu": 59,
+   "gagnees": 30,
+   "moyenne": 11.8,
    "statut": "officiel"
   },
   "8482703": {
@@ -4101,7 +4101,7 @@
    "nom": "Jani Nyman",
    "equipe": "SEA",
    "pos": "R",
-   "matchs": 3,
+   "matchs": 4,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -4213,7 +4213,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 39,
-   "gagnees": 23,
+   "gagnees": 20,
    "moyenne": 7.8,
    "statut": "officiel"
   },
@@ -4712,9 +4712,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 50,
-   "gagnees": 23,
-   "moyenne": 10.0,
+   "misesAuJeu": 55,
+   "gagnees": 29,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8484801": {
