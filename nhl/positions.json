@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-10",
+ "dernierMatch": "2026-11-11",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -132,9 +132,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 82,
-   "gagnees": 37,
-   "moyenne": 16.4,
+   "misesAuJeu": 74,
+   "gagnees": 33,
+   "moyenne": 14.8,
    "statut": "officiel"
   },
   "8474189": {
@@ -322,9 +322,9 @@
    "equipe": "BUF",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8475726": {
@@ -442,9 +442,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 18,
-   "gagnees": 11,
-   "moyenne": 3.6,
+   "misesAuJeu": 21,
+   "gagnees": 12,
+   "moyenne": 4.2,
    "statut": "officiel"
   },
   "8475848": {
@@ -602,9 +602,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 13,
+   "misesAuJeu": 14,
    "gagnees": 4,
-   "moyenne": 2.6,
+   "moyenne": 2.8,
    "statut": "officiel"
   },
   "8476459": {
@@ -612,9 +612,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 80,
-   "gagnees": 48,
-   "moyenne": 16.0,
+   "misesAuJeu": 85,
+   "gagnees": 53,
+   "moyenne": 17.0,
    "statut": "officiel"
   },
   "8476460": {
@@ -642,9 +642,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 93,
-   "gagnees": 56,
-   "moyenne": 18.6,
+   "misesAuJeu": 87,
+   "gagnees": 51,
+   "moyenne": 17.4,
    "statut": "officiel"
   },
   "8476469": {
@@ -731,10 +731,10 @@
    "nom": "Yanni Gourde",
    "equipe": "TBL",
    "pos": "C",
-   "matchs": 1,
-   "misesAuJeu": 17,
-   "gagnees": 9,
-   "moyenne": 17.0,
+   "matchs": 2,
+   "misesAuJeu": 25,
+   "gagnees": 14,
+   "moyenne": 12.5,
    "statut": "officiel"
   },
   "8476872": {
@@ -762,9 +762,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
-   "gagnees": 55,
-   "moyenne": 18.0,
+   "misesAuJeu": 96,
+   "gagnees": 57,
+   "moyenne": 19.2,
    "statut": "officiel"
   },
   "8476880": {
@@ -911,10 +911,10 @@
    "nom": "Scott Sabourin",
    "equipe": "TBL",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.5,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8477380": {
@@ -942,9 +942,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 13,
-   "moyenne": 7.0,
+   "misesAuJeu": 33,
+   "gagnees": 12,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8477407": {
@@ -1637,6 +1637,16 @@
    "moyenne": 1.0,
    "statut": "officiel"
   },
+  "8478446": {
+   "nom": "Glenn Gawdin",
+   "equipe": "NYR",
+   "pos": "C",
+   "matchs": 1,
+   "misesAuJeu": 6,
+   "gagnees": 2,
+   "moyenne": 6.0,
+   "statut": "officiel"
+  },
   "8478449": {
    "nom": "Roope Hintz",
    "equipe": "DAL",
@@ -1742,9 +1752,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 61,
-   "gagnees": 37,
-   "moyenne": 12.2,
+   "misesAuJeu": 57,
+   "gagnees": 36,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8478542": {
@@ -1942,9 +1952,9 @@
    "equipe": "BUF",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8479365": {
@@ -2012,9 +2022,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 19,
-   "moyenne": 10.2,
+   "misesAuJeu": 50,
+   "gagnees": 20,
+   "moyenne": 10.0,
    "statut": "officiel"
   },
   "8479520": {
@@ -2112,9 +2122,9 @@
    "equipe": "TBL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479772": {
@@ -2312,9 +2322,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 61,
-   "gagnees": 27,
-   "moyenne": 12.2,
+   "misesAuJeu": 66,
+   "gagnees": 30,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8480029": {
@@ -2342,9 +2352,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 45,
-   "gagnees": 20,
-   "moyenne": 9.0,
+   "misesAuJeu": 50,
+   "gagnees": 22,
+   "moyenne": 10.0,
    "statut": "officiel"
   },
   "8480068": {
@@ -2532,9 +2542,9 @@
    "equipe": "CGY",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 7,
+   "misesAuJeu": 6,
    "gagnees": 3,
-   "moyenne": 1.4,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8480801": {
@@ -2552,9 +2562,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 32,
-   "gagnees": 17,
-   "moyenne": 6.4,
+   "misesAuJeu": 27,
+   "gagnees": 13,
+   "moyenne": 5.4,
    "statut": "officiel"
   },
   "8480813": {
@@ -2692,9 +2702,9 @@
    "equipe": "TBL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8481013": {
@@ -2722,9 +2732,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 48,
-   "gagnees": 17,
-   "moyenne": 9.6,
+   "misesAuJeu": 53,
+   "gagnees": 21,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8481032": {
@@ -2822,9 +2832,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 50,
-   "gagnees": 22,
-   "moyenne": 10.0,
+   "misesAuJeu": 42,
+   "gagnees": 18,
+   "moyenne": 8.4,
    "statut": "officiel"
   },
   "8481523": {
@@ -3142,9 +3152,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8481848": {
@@ -3272,9 +3282,9 @@
    "equipe": "BUF",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482109": {
@@ -3282,9 +3292,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8482110": {
@@ -3412,9 +3422,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 9,
-   "moyenne": 3.8,
+   "misesAuJeu": 17,
+   "gagnees": 7,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8482159": {
@@ -3532,9 +3542,9 @@
    "equipe": "BUF",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8482660": {
@@ -3582,9 +3592,9 @@
    "equipe": "CGY",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 14,
+   "misesAuJeu": 15,
    "gagnees": 6,
-   "moyenne": 2.8,
+   "moyenne": 3.0,
    "statut": "officiel"
   },
   "8482691": {
@@ -3832,9 +3842,9 @@
    "equipe": "NYR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8482896": {
@@ -3842,9 +3852,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 42,
-   "gagnees": 15,
-   "moyenne": 8.4,
+   "misesAuJeu": 39,
+   "gagnees": 16,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8482953": {
@@ -3952,9 +3962,9 @@
    "equipe": "TBL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 15,
-   "moyenne": 7.0,
+   "misesAuJeu": 33,
+   "gagnees": 13,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8483450": {
@@ -4102,9 +4112,9 @@
    "equipe": "BUF",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 15,
-   "moyenne": 9.8,
+   "misesAuJeu": 53,
+   "gagnees": 19,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8483505": {
@@ -4242,9 +4252,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
-   "gagnees": 30,
-   "moyenne": 11.8,
+   "misesAuJeu": 67,
+   "gagnees": 34,
+   "moyenne": 13.4,
    "statut": "officiel"
   },
   "8483695": {
@@ -4392,9 +4402,9 @@
    "equipe": "CGY",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 47,
-   "gagnees": 29,
-   "moyenne": 9.4,
+   "misesAuJeu": 52,
+   "gagnees": 32,
+   "moyenne": 10.4,
    "statut": "officiel"
   },
   "8484158": {
@@ -4645,6 +4655,16 @@
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8484770": {
+   "nom": "Sam O'Reilly",
+   "equipe": "TBL",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 10,
+   "gagnees": 3,
+   "moyenne": 10.0,
    "statut": "officiel"
   },
   "8484786": {
