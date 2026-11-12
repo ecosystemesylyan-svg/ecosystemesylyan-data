@@ -33,7 +33,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 1,
-   "gagnees": 1,
+   "gagnees": 0,
    "moyenne": 0.2,
    "statut": "centre_aile"
   },
@@ -42,9 +42,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 109,
-   "gagnees": 63,
-   "moyenne": 21.8,
+   "misesAuJeu": 111,
+   "gagnees": 65,
+   "moyenne": 22.2,
    "statut": "officiel"
   },
   "8473419": {
@@ -152,9 +152,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 19,
-   "moyenne": 7.0,
+   "misesAuJeu": 39,
+   "gagnees": 23,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8474586": {
@@ -182,9 +182,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
+   "misesAuJeu": 76,
    "gagnees": 43,
-   "moyenne": 15.4,
+   "moyenne": 15.2,
    "statut": "officiel"
   },
   "8475166": {
@@ -292,9 +292,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 38,
-   "gagnees": 16,
-   "moyenne": 7.6,
+   "misesAuJeu": 34,
+   "gagnees": 13,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8475413": {
@@ -382,9 +382,9 @@
    "equipe": "EDM",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8475791": {
@@ -412,9 +412,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
+   "misesAuJeu": 91,
    "gagnees": 45,
-   "moyenne": 18.0,
+   "moyenne": 18.2,
    "statut": "officiel"
   },
   "8475799": {
@@ -502,9 +502,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
-   "gagnees": 28,
-   "moyenne": 13.0,
+   "misesAuJeu": 62,
+   "gagnees": 27,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8476392": {
@@ -562,9 +562,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 33,
-   "moyenne": 13.2,
+   "misesAuJeu": 62,
+   "gagnees": 34,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8476453": {
@@ -582,9 +582,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 39,
-   "gagnees": 18,
-   "moyenne": 7.8,
+   "misesAuJeu": 36,
+   "gagnees": 17,
+   "moyenne": 7.2,
    "statut": "officiel"
   },
   "8476455": {
@@ -632,9 +632,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 39,
-   "gagnees": 23,
-   "moyenne": 7.8,
+   "misesAuJeu": 47,
+   "gagnees": 32,
+   "moyenne": 9.4,
    "statut": "officiel"
   },
   "8476468": {
@@ -712,9 +712,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 7,
+   "misesAuJeu": 6,
    "gagnees": 0,
-   "moyenne": 1.4,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8476822": {
@@ -733,7 +733,7 @@
    "pos": "C",
    "matchs": 2,
    "misesAuJeu": 25,
-   "gagnees": 14,
+   "gagnees": 15,
    "moyenne": 12.5,
    "statut": "officiel"
   },
@@ -782,9 +782,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 60,
-   "gagnees": 42,
-   "moyenne": 12.0,
+   "misesAuJeu": 61,
+   "gagnees": 39,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8476882": {
@@ -802,9 +802,9 @@
    "equipe": "NSH",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 3,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8476889": {
@@ -892,9 +892,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 46,
-   "gagnees": 22,
-   "moyenne": 9.2,
+   "misesAuJeu": 43,
+   "gagnees": 19,
+   "moyenne": 8.6,
    "statut": "officiel"
   },
   "8477070": {
@@ -1142,9 +1142,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 103,
-   "gagnees": 41,
-   "moyenne": 20.6,
+   "misesAuJeu": 105,
+   "gagnees": 44,
+   "moyenne": 21.0,
    "statut": "officiel"
   },
   "8477511": {
@@ -1203,7 +1203,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 77,
-   "gagnees": 48,
+   "gagnees": 49,
    "moyenne": 15.4,
    "statut": "officiel"
   },
@@ -1262,9 +1262,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 41,
-   "gagnees": 21,
-   "moyenne": 8.2,
+   "misesAuJeu": 34,
+   "gagnees": 17,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8477953": {
@@ -1312,9 +1312,9 @@
    "equipe": "VGK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 7,
    "gagnees": 1,
-   "moyenne": 0.8,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8477987": {
@@ -1332,9 +1332,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 76,
-   "gagnees": 44,
-   "moyenne": 15.2,
+   "misesAuJeu": 70,
+   "gagnees": 42,
+   "moyenne": 14.0,
    "statut": "officiel"
   },
   "8477998": {
@@ -1432,9 +1432,9 @@
    "equipe": "VGK",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8478133": {
@@ -1512,9 +1512,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 46,
+   "misesAuJeu": 49,
    "gagnees": 24,
-   "moyenne": 9.2,
+   "moyenne": 9.8,
    "statut": "officiel"
   },
   "8478403": {
@@ -1522,9 +1522,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 89,
+   "misesAuJeu": 90,
    "gagnees": 42,
-   "moyenne": 17.8,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8478413": {
@@ -1602,19 +1602,19 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 2,
-   "moyenne": 1.2,
-   "statut": "centre_aile"
+   "misesAuJeu": 13,
+   "gagnees": 3,
+   "moyenne": 2.6,
+   "statut": "officiel"
   },
   "8478439": {
    "nom": "Travis Konecny",
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478440": {
@@ -1692,9 +1692,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 1,
-   "moyenne": 0.6,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8478474": {
@@ -1702,9 +1702,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 0,
-   "moyenne": 0.2,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8478483": {
@@ -1782,9 +1782,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 16,
-   "moyenne": 7.0,
+   "misesAuJeu": 29,
+   "gagnees": 11,
+   "moyenne": 5.8,
    "statut": "officiel"
   },
   "8478831": {
@@ -1792,9 +1792,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
-   "gagnees": 40,
-   "moyenne": 13.0,
+   "misesAuJeu": 67,
+   "gagnees": 42,
+   "moyenne": 13.4,
    "statut": "officiel"
   },
   "8478856": {
@@ -1812,6 +1812,16 @@
    "equipe": "MIN",
    "pos": "L",
    "matchs": 5,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
+  "8478873": {
+   "nom": "Troy Terry",
+   "equipe": "ANA",
+   "pos": "R",
+   "matchs": 1,
    "misesAuJeu": 0,
    "gagnees": 0,
    "moyenne": 0.0,
@@ -1852,9 +1862,9 @@
    "equipe": "SJS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 0.2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8479066": {
@@ -1942,9 +1952,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 4,
-   "moyenne": 1.6,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8479359": {
@@ -1962,9 +1972,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 1.0,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8479368": {
@@ -2072,19 +2082,19 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 2,
-   "moyenne": 0.4,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8479638": {
    "nom": "Justin Brazeau",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 4,
+   "matchs": 5,
    "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.25,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8479661": {
@@ -2162,9 +2172,9 @@
    "equipe": "UTA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 2,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8479987": {
@@ -2353,7 +2363,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 50,
-   "gagnees": 22,
+   "gagnees": 21,
    "moyenne": 10.0,
    "statut": "officiel"
   },
@@ -2432,9 +2442,9 @@
    "equipe": "PHI",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 52,
-   "gagnees": 28,
-   "moyenne": 10.4,
+   "misesAuJeu": 50,
+   "gagnees": 27,
+   "moyenne": 10.0,
    "statut": "ailier_centre"
   },
   "8480259": {
@@ -2522,9 +2532,9 @@
    "equipe": "SJS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8480762": {
@@ -2602,9 +2612,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
-   "gagnees": 40,
-   "moyenne": 15.4,
+   "misesAuJeu": 84,
+   "gagnees": 42,
+   "moyenne": 16.8,
    "statut": "officiel"
   },
   "8480840": {
@@ -2632,9 +2642,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 34,
-   "gagnees": 16,
-   "moyenne": 6.8,
+   "misesAuJeu": 35,
+   "gagnees": 18,
+   "moyenne": 7.0,
    "statut": "officiel"
   },
   "8480849": {
@@ -2642,9 +2652,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 64,
-   "gagnees": 31,
-   "moyenne": 12.8,
+   "misesAuJeu": 61,
+   "gagnees": 30,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8480855": {
@@ -2652,9 +2662,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 23,
-   "gagnees": 11,
-   "moyenne": 4.6,
+   "misesAuJeu": 30,
+   "gagnees": 12,
+   "moyenne": 6.0,
    "statut": "officiel"
   },
   "8480870": {
@@ -2692,9 +2702,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 2,
-   "moyenne": 1.0,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8480995": {
@@ -2822,9 +2832,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 71,
-   "gagnees": 30,
-   "moyenne": 14.2,
+   "misesAuJeu": 77,
+   "gagnees": 38,
+   "moyenne": 15.4,
    "statut": "officiel"
   },
   "8481522": {
@@ -2872,9 +2882,9 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 26,
-   "gagnees": 14,
-   "moyenne": 5.2,
+   "misesAuJeu": 34,
+   "gagnees": 17,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8481534": {
@@ -2902,9 +2912,9 @@
    "equipe": "ANA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8481540": {
@@ -3142,9 +3152,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 1,
+   "gagnees": 1,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8481789": {
@@ -3332,9 +3342,9 @@
    "equipe": "ANA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8482121": {
@@ -3632,9 +3642,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 5,
    "gagnees": 1,
-   "moyenne": 1.2,
+   "moyenne": 1.0,
    "statut": "centre_aile"
   },
   "8482705": {
@@ -3742,9 +3752,9 @@
    "equipe": "PIT",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8482765": {
@@ -4051,10 +4061,10 @@
    "nom": "Rutger McGroarty",
    "equipe": "PIT",
    "pos": "R",
-   "matchs": 2,
+   "matchs": 3,
    "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 2.0,
+   "moyenne": 1.33,
    "statut": "officiel"
   },
   "8483489": {
@@ -4172,9 +4182,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 47,
+   "misesAuJeu": 53,
    "gagnees": 20,
-   "moyenne": 9.4,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8483525": {
@@ -4192,9 +4202,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "centre_aile"
   },
   "8483570": {
@@ -4352,10 +4362,10 @@
    "equipe": "PHI",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 14,
-   "gagnees": 6,
-   "moyenne": 2.8,
-   "statut": "officiel"
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
+   "statut": "centre_aile"
   },
   "8484144": {
    "nom": "Connor Bedard",
@@ -4392,9 +4402,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 24,
-   "moyenne": 13.2,
+   "misesAuJeu": 67,
+   "gagnees": 28,
+   "moyenne": 13.4,
    "statut": "officiel"
   },
   "8484154": {
@@ -4533,7 +4543,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 7,
-   "gagnees": 5,
+   "gagnees": 4,
    "moyenne": 1.4,
    "statut": "centre_aile"
   },
@@ -4582,9 +4592,9 @@
    "equipe": "PHI",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 2,
-   "moyenne": 1.2,
+   "misesAuJeu": 5,
+   "gagnees": 1,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8484388": {
@@ -4712,9 +4722,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 98,
-   "gagnees": 47,
-   "moyenne": 19.6,
+   "misesAuJeu": 101,
+   "gagnees": 44,
+   "moyenne": 20.2,
    "statut": "officiel"
   },
   "8484803": {
@@ -4762,9 +4772,9 @@
    "equipe": "SJS",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 42,
-   "gagnees": 18,
-   "moyenne": 8.4,
+   "misesAuJeu": 41,
+   "gagnees": 16,
+   "moyenne": 8.2,
    "statut": "ailier_centre"
   },
   "8484938": {
@@ -4852,9 +4862,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 41,
+   "misesAuJeu": 44,
    "gagnees": 18,
-   "moyenne": 8.2,
+   "moyenne": 8.8,
    "statut": "officiel"
   },
   "8485402": {
@@ -4862,9 +4872,9 @@
    "equipe": "SJS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 29,
-   "gagnees": 14,
-   "moyenne": 5.8,
+   "misesAuJeu": 16,
+   "gagnees": 8,
+   "moyenne": 3.2,
    "statut": "officiel"
   },
   "8485406": {
@@ -4882,9 +4892,9 @@
    "equipe": "PIT",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 42,
-   "gagnees": 15,
-   "moyenne": 8.4,
+   "misesAuJeu": 45,
+   "gagnees": 20,
+   "moyenne": 9.0,
    "statut": "officiel"
   },
   "8485469": {
@@ -4902,9 +4912,9 @@
    "equipe": "ANA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 73,
-   "gagnees": 34,
-   "moyenne": 14.6,
+   "misesAuJeu": 67,
+   "gagnees": 32,
+   "moyenne": 13.4,
    "statut": "officiel"
   },
   "8485554": {
@@ -4962,9 +4972,9 @@
    "equipe": "SJS",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8486130": {
@@ -4983,7 +4993,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 47,
-   "gagnees": 22,
+   "gagnees": 25,
    "moyenne": 9.4,
    "statut": "ailier_centre"
   },
@@ -5002,9 +5012,9 @@
    "equipe": "NSH",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   }
  }
