@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-13",
+ "dernierMatch": "2026-11-14",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -82,9 +82,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 102,
-   "gagnees": 58,
-   "moyenne": 20.4,
+   "misesAuJeu": 93,
+   "gagnees": 56,
+   "moyenne": 18.6,
    "statut": "officiel"
   },
   "8473986": {
@@ -752,9 +752,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 87,
-   "gagnees": 36,
-   "moyenne": 17.4,
+   "misesAuJeu": 78,
+   "gagnees": 34,
+   "moyenne": 15.6,
    "statut": "ailier_centre"
   },
   "8476878": {
@@ -822,9 +822,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 67,
-   "gagnees": 41,
-   "moyenne": 13.4,
+   "misesAuJeu": 60,
+   "gagnees": 35,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8476921": {
@@ -832,9 +832,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 7,
+   "misesAuJeu": 8,
    "gagnees": 2,
-   "moyenne": 1.4,
+   "moyenne": 1.6,
    "statut": "officiel"
   },
   "8476925": {
@@ -1062,9 +1062,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477479": {
@@ -1182,9 +1182,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 51,
-   "gagnees": 24,
-   "moyenne": 10.2,
+   "misesAuJeu": 55,
+   "gagnees": 31,
+   "moyenne": 11.0,
    "statut": "officiel"
   },
   "8477933": {
@@ -1232,9 +1232,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8477942": {
@@ -1592,9 +1592,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 73,
-   "gagnees": 42,
-   "moyenne": 14.6,
+   "misesAuJeu": 82,
+   "gagnees": 39,
+   "moyenne": 16.4,
    "statut": "officiel"
   },
   "8478434": {
@@ -2602,9 +2602,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 48,
-   "gagnees": 27,
-   "moyenne": 9.6,
+   "misesAuJeu": 38,
+   "gagnees": 20,
+   "moyenne": 7.6,
    "statut": "officiel"
   },
   "8480830": {
@@ -3592,9 +3592,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 63,
-   "gagnees": 29,
-   "moyenne": 12.6,
+   "misesAuJeu": 64,
+   "gagnees": 30,
+   "moyenne": 12.8,
    "statut": "officiel"
   },
   "8482667": {
@@ -3652,9 +3652,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
-   "gagnees": 30,
-   "moyenne": 11.8,
+   "misesAuJeu": 53,
+   "gagnees": 26,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8482703": {
@@ -3977,6 +3977,16 @@
    "moyenne": 0.0,
    "statut": "officiel"
   },
+  "8483442": {
+   "nom": "Jagger Firkus",
+   "equipe": "SEA",
+   "pos": "R",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8483445": {
    "nom": "Cutter Gauthier",
    "equipe": "ANA",
@@ -4232,9 +4242,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 39,
+   "misesAuJeu": 42,
    "gagnees": 20,
-   "moyenne": 7.8,
+   "moyenne": 8.4,
    "statut": "officiel"
   },
   "8483573": {
@@ -4602,9 +4612,9 @@
    "equipe": "SEA",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 15,
-   "gagnees": 6,
-   "moyenne": 3.0,
+   "misesAuJeu": 12,
+   "gagnees": 3,
+   "moyenne": 2.4,
    "statut": "officiel"
   },
   "8484242": {
@@ -4742,9 +4752,9 @@
    "equipe": "SEA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 55,
-   "gagnees": 29,
-   "moyenne": 11.0,
+   "misesAuJeu": 52,
+   "gagnees": 27,
+   "moyenne": 10.4,
    "statut": "officiel"
   },
   "8484801": {
