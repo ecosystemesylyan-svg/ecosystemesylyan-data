@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-15",
+ "dernierMatch": "2026-11-16",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -282,9 +282,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 3,
    "gagnees": 2,
-   "moyenne": 1.2,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8475343": {
@@ -453,7 +453,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 1,
-   "gagnees": 0,
+   "gagnees": 1,
    "moyenne": 0.2,
    "statut": "officiel"
   },
@@ -502,9 +502,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 90,
-   "gagnees": 51,
-   "moyenne": 18.0,
+   "misesAuJeu": 97,
+   "gagnees": 58,
+   "moyenne": 19.4,
    "statut": "officiel"
   },
   "8476392": {
@@ -612,9 +612,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 81,
-   "gagnees": 43,
-   "moyenne": 16.2,
+   "misesAuJeu": 86,
+   "gagnees": 44,
+   "moyenne": 17.2,
    "statut": "officiel"
   },
   "8476460": {
@@ -642,9 +642,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 80,
-   "gagnees": 44,
-   "moyenne": 16.0,
+   "misesAuJeu": 88,
+   "gagnees": 51,
+   "moyenne": 17.6,
    "statut": "officiel"
   },
   "8476469": {
@@ -672,9 +672,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 54,
-   "gagnees": 32,
-   "moyenne": 10.8,
+   "misesAuJeu": 59,
+   "gagnees": 33,
+   "moyenne": 11.8,
    "statut": "officiel"
   },
   "8476480": {
@@ -972,9 +972,9 @@
    "equipe": "NYR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8477426": {
@@ -1453,7 +1453,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 69,
-   "gagnees": 36,
+   "gagnees": 38,
    "moyenne": 13.8,
    "statut": "officiel"
   },
@@ -1643,7 +1643,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 8,
-   "gagnees": 3,
+   "gagnees": 4,
    "moyenne": 1.6,
    "statut": "officiel"
   },
@@ -1661,10 +1661,10 @@
    "nom": "Glenn Gawdin",
    "equipe": "NYR",
    "pos": "C",
-   "matchs": 2,
-   "misesAuJeu": 13,
-   "gagnees": 4,
-   "moyenne": 6.5,
+   "matchs": 3,
+   "misesAuJeu": 17,
+   "gagnees": 5,
+   "moyenne": 5.67,
    "statut": "officiel"
   },
   "8478449": {
@@ -1722,9 +1722,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 1,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8478483": {
@@ -1812,9 +1812,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 75,
-   "gagnees": 46,
-   "moyenne": 15.0,
+   "misesAuJeu": 76,
+   "gagnees": 47,
+   "moyenne": 15.2,
    "statut": "officiel"
   },
   "8478856": {
@@ -2102,9 +2102,9 @@
    "equipe": "UTA",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8479638": {
@@ -2282,9 +2282,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 113,
-   "gagnees": 68,
-   "moyenne": 22.6,
+   "misesAuJeu": 121,
+   "gagnees": 67,
+   "moyenne": 24.2,
    "statut": "officiel"
   },
   "8480014": {
@@ -2312,9 +2312,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 87,
-   "gagnees": 54,
-   "moyenne": 17.4,
+   "misesAuJeu": 85,
+   "gagnees": 50,
+   "moyenne": 17.0,
    "statut": "officiel"
   },
   "8480021": {
@@ -2412,9 +2412,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 53,
-   "gagnees": 27,
-   "moyenne": 10.6,
+   "misesAuJeu": 57,
+   "gagnees": 24,
+   "moyenne": 11.4,
    "statut": "officiel"
   },
   "8480113": {
@@ -2672,9 +2672,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 28,
-   "moyenne": 11.6,
+   "misesAuJeu": 62,
+   "gagnees": 35,
+   "moyenne": 12.4,
    "statut": "officiel"
   },
   "8480855": {
@@ -2682,9 +2682,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 47,
-   "gagnees": 21,
-   "moyenne": 9.4,
+   "misesAuJeu": 51,
+   "gagnees": 20,
+   "moyenne": 10.2,
    "statut": "officiel"
   },
   "8480870": {
@@ -2752,9 +2752,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 1,
-   "moyenne": 1.0,
+   "misesAuJeu": 3,
+   "gagnees": 0,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8481028": {
@@ -2772,10 +2772,10 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 25,
+   "misesAuJeu": 24,
    "gagnees": 10,
-   "moyenne": 5.0,
-   "statut": "ailier_centre"
+   "moyenne": 4.8,
+   "statut": "officiel"
   },
   "8481043": {
    "nom": "Cole Koepke",
@@ -2942,9 +2942,9 @@
    "equipe": "MTL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 1,
    "gagnees": 1,
-   "moyenne": 0.4,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8481553": {
@@ -3062,9 +3062,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 30,
-   "gagnees": 16,
-   "moyenne": 6.0,
+   "misesAuJeu": 35,
+   "gagnees": 18,
+   "moyenne": 7.0,
    "statut": "officiel"
   },
   "8481624": {
@@ -3212,9 +3212,9 @@
    "equipe": "VAN",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 5,
    "gagnees": 2,
-   "moyenne": 0.8,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8482062": {
@@ -3272,9 +3272,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 40,
-   "gagnees": 19,
-   "moyenne": 8.0,
+   "misesAuJeu": 39,
+   "gagnees": 16,
+   "moyenne": 7.8,
    "statut": "officiel"
   },
   "8482088": {
@@ -3332,9 +3332,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8482110": {
@@ -3462,9 +3462,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 13,
-   "gagnees": 5,
-   "moyenne": 2.6,
+   "misesAuJeu": 9,
+   "gagnees": 4,
+   "moyenne": 1.8,
    "statut": "officiel"
   },
   "8482159": {
@@ -3542,9 +3542,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8482475": {
@@ -3822,9 +3822,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 20,
+   "misesAuJeu": 19,
    "gagnees": 11,
-   "moyenne": 4.0,
+   "moyenne": 3.8,
    "statut": "officiel"
   },
   "8482784": {
@@ -3882,9 +3882,9 @@
    "equipe": "NYR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 4,
    "gagnees": 2,
-   "moyenne": 0.6,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8482896": {
@@ -3962,9 +3962,9 @@
    "equipe": "UTA",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 12,
-   "gagnees": 4,
-   "moyenne": 2.4,
+   "misesAuJeu": 20,
+   "gagnees": 9,
+   "moyenne": 4.0,
    "statut": "officiel"
   },
   "8483432": {
@@ -4202,9 +4202,9 @@
    "equipe": "MTL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 2,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 1,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8483516": {
@@ -4302,9 +4302,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 65,
+   "misesAuJeu": 66,
    "gagnees": 36,
-   "moyenne": 13.0,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8483695": {
@@ -4392,9 +4392,9 @@
    "equipe": "VAN",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 44,
+   "misesAuJeu": 42,
    "gagnees": 20,
-   "moyenne": 8.8,
+   "moyenne": 8.4,
    "statut": "officiel"
   },
   "8484142": {
@@ -4572,9 +4572,9 @@
    "equipe": "NYR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 2,
+   "misesAuJeu": 3,
    "gagnees": 0,
-   "moyenne": 0.4,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8484221": {
