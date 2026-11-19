@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-17",
+ "dernierMatch": "2026-11-18",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -492,9 +492,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 26,
-   "moyenne": 7.0,
+   "misesAuJeu": 33,
+   "gagnees": 23,
+   "moyenne": 6.6,
    "statut": "officiel"
   },
   "8476389": {
@@ -662,9 +662,9 @@
    "equipe": "NJD",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 2,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.4,
    "statut": "officiel"
   },
   "8476479": {
@@ -672,9 +672,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 59,
-   "gagnees": 33,
-   "moyenne": 11.8,
+   "misesAuJeu": 60,
+   "gagnees": 36,
+   "moyenne": 12.0,
    "statut": "officiel"
   },
   "8476480": {
@@ -882,9 +882,9 @@
    "equipe": "NJD",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
+   "misesAuJeu": 0,
    "gagnees": 0,
-   "moyenne": 0.2,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8477021": {
@@ -992,9 +992,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 89,
-   "gagnees": 45,
-   "moyenne": 17.8,
+   "misesAuJeu": 86,
+   "gagnees": 41,
+   "moyenne": 17.2,
    "statut": "officiel"
   },
   "8477444": {
@@ -1042,9 +1042,9 @@
    "equipe": "DET",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 22,
-   "moyenne": 11.6,
+   "misesAuJeu": 51,
+   "gagnees": 23,
+   "moyenne": 10.2,
    "statut": "ailier_centre"
   },
   "8477476": {
@@ -1102,9 +1102,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 102,
-   "gagnees": 69,
-   "moyenne": 20.4,
+   "misesAuJeu": 108,
+   "gagnees": 74,
+   "moyenne": 21.6,
    "statut": "officiel"
   },
   "8477497": {
@@ -1302,9 +1302,9 @@
    "equipe": "BOS",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8477960": {
@@ -1452,9 +1452,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 69,
+   "misesAuJeu": 68,
    "gagnees": 38,
-   "moyenne": 13.8,
+   "moyenne": 13.6,
    "statut": "officiel"
   },
   "8478147": {
@@ -1512,9 +1512,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 77,
-   "gagnees": 37,
-   "moyenne": 15.4,
+   "misesAuJeu": 73,
+   "gagnees": 36,
+   "moyenne": 14.6,
    "statut": "officiel"
   },
   "8478402": {
@@ -1552,9 +1552,9 @@
    "equipe": "NJD",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 5,
-   "moyenne": 1.6,
+   "misesAuJeu": 5,
+   "gagnees": 3,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8478420": {
@@ -1782,9 +1782,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 69,
-   "gagnees": 36,
-   "moyenne": 13.8,
+   "misesAuJeu": 61,
+   "gagnees": 34,
+   "moyenne": 12.2,
    "statut": "officiel"
   },
   "8478550": {
@@ -2223,7 +2223,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 60,
-   "gagnees": 23,
+   "gagnees": 27,
    "moyenne": 12.0,
    "statut": "officiel"
   },
@@ -2232,9 +2232,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 7,
-   "gagnees": 4,
-   "moyenne": 1.4,
+   "misesAuJeu": 6,
+   "gagnees": 3,
+   "moyenne": 1.2,
    "statut": "centre_aile"
   },
   "8480002": {
@@ -2243,7 +2243,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 106,
-   "gagnees": 54,
+   "gagnees": 50,
    "moyenne": 21.2,
    "statut": "officiel"
   },
@@ -2312,9 +2312,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 85,
-   "gagnees": 50,
-   "moyenne": 17.0,
+   "misesAuJeu": 88,
+   "gagnees": 52,
+   "moyenne": 17.6,
    "statut": "officiel"
   },
   "8480021": {
@@ -2402,9 +2402,9 @@
    "equipe": "MTL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "officiel"
   },
   "8480078": {
@@ -2512,9 +2512,9 @@
    "equipe": "DET",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 25,
-   "gagnees": 13,
-   "moyenne": 5.0,
+   "misesAuJeu": 31,
+   "gagnees": 14,
+   "moyenne": 6.2,
    "statut": "officiel"
   },
   "8480355": {
@@ -2523,7 +2523,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 33,
-   "gagnees": 23,
+   "gagnees": 22,
    "moyenne": 6.6,
    "statut": "officiel"
   },
@@ -2872,9 +2872,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 1,
+   "gagnees": 0,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8481528": {
@@ -2942,9 +2942,9 @@
    "equipe": "MTL",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 1,
-   "gagnees": 1,
-   "moyenne": 0.2,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
    "statut": "officiel"
   },
   "8481553": {
@@ -2982,9 +2982,9 @@
    "equipe": "NJD",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 43,
-   "gagnees": 12,
-   "moyenne": 8.6,
+   "misesAuJeu": 42,
+   "gagnees": 10,
+   "moyenne": 8.4,
    "statut": "officiel"
   },
   "8481577": {
@@ -3062,9 +3062,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 18,
-   "moyenne": 7.0,
+   "misesAuJeu": 34,
+   "gagnees": 20,
+   "moyenne": 6.8,
    "statut": "officiel"
   },
   "8481624": {
@@ -3133,7 +3133,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 2,
-   "gagnees": 1,
+   "gagnees": 0,
    "moyenne": 0.4,
    "statut": "officiel"
   },
@@ -3407,6 +3407,16 @@
    "moyenne": 0.0,
    "statut": "officiel"
   },
+  "8482132": {
+   "nom": "Brett Berard",
+   "equipe": "MTL",
+   "pos": "L",
+   "matchs": 1,
+   "misesAuJeu": 0,
+   "gagnees": 0,
+   "moyenne": 0.0,
+   "statut": "officiel"
+  },
   "8482145": {
    "nom": "Mavrik Bourque",
    "equipe": "NSH",
@@ -3502,9 +3512,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 0,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.2,
    "statut": "centre_aile"
   },
   "8482201": {
@@ -3832,9 +3842,9 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 19,
-   "gagnees": 11,
-   "moyenne": 3.8,
+   "misesAuJeu": 17,
+   "gagnees": 9,
+   "moyenne": 3.4,
    "statut": "officiel"
   },
   "8482784": {
@@ -3952,10 +3962,10 @@
    "equipe": "MTL",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 8,
-   "gagnees": 4,
-   "moyenne": 1.6,
-   "statut": "centre_aile"
+   "misesAuJeu": 10,
+   "gagnees": 5,
+   "moyenne": 2.0,
+   "statut": "officiel"
   },
   "8483428": {
    "nom": "Filip Bystedt",
@@ -4061,10 +4071,10 @@
    "nom": "Marco Kasper",
    "equipe": "DET",
    "pos": "C",
-   "matchs": 4,
-   "misesAuJeu": 28,
-   "gagnees": 19,
-   "moyenne": 7.0,
+   "matchs": 5,
+   "misesAuJeu": 31,
+   "gagnees": 20,
+   "moyenne": 6.2,
    "statut": "officiel"
   },
   "8483468": {
@@ -4122,9 +4132,9 @@
    "equipe": "BOS",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 49,
-   "gagnees": 26,
-   "moyenne": 9.8,
+   "misesAuJeu": 56,
+   "gagnees": 31,
+   "moyenne": 11.2,
    "statut": "officiel"
   },
   "8483491": {
@@ -4212,9 +4222,9 @@
    "equipe": "MTL",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 2,
-   "gagnees": 1,
-   "moyenne": 0.4,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8483516": {
@@ -4521,10 +4531,10 @@
    "nom": "Lenni Hameenaho",
    "equipe": "NJD",
    "pos": "R",
-   "matchs": 2,
-   "misesAuJeu": 0,
+   "matchs": 3,
+   "misesAuJeu": 1,
    "gagnees": 0,
-   "moyenne": 0.0,
+   "moyenne": 0.33,
    "statut": "officiel"
   },
   "8484180": {
@@ -4713,7 +4723,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 80,
-   "gagnees": 39,
+   "gagnees": 36,
    "moyenne": 16.0,
    "statut": "officiel"
   },
