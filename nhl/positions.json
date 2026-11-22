@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-21",
+ "dernierMatch": "2026-11-22",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -82,9 +82,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 74,
-   "gagnees": 49,
-   "moyenne": 14.8,
+   "misesAuJeu": 73,
+   "gagnees": 47,
+   "moyenne": 14.6,
    "statut": "officiel"
   },
   "8473986": {
@@ -612,9 +612,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 86,
-   "gagnees": 44,
-   "moyenne": 17.2,
+   "misesAuJeu": 83,
+   "gagnees": 38,
+   "moyenne": 16.6,
    "statut": "officiel"
   },
   "8476460": {
@@ -642,9 +642,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 88,
+   "misesAuJeu": 90,
    "gagnees": 51,
-   "moyenne": 17.6,
+   "moyenne": 18.0,
    "statut": "officiel"
   },
   "8476469": {
@@ -752,9 +752,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 62,
-   "gagnees": 31,
-   "moyenne": 12.4,
+   "misesAuJeu": 66,
+   "gagnees": 32,
+   "moyenne": 13.2,
    "statut": "ailier_centre"
   },
   "8476878": {
@@ -832,9 +832,9 @@
    "equipe": "CAR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 3,
-   "moyenne": 1.0,
+   "misesAuJeu": 4,
+   "gagnees": 2,
+   "moyenne": 0.8,
    "statut": "officiel"
   },
   "8476925": {
@@ -1592,9 +1592,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 88,
-   "gagnees": 49,
-   "moyenne": 17.6,
+   "misesAuJeu": 97,
+   "gagnees": 55,
+   "moyenne": 19.4,
    "statut": "officiel"
   },
   "8478434": {
@@ -1661,10 +1661,10 @@
    "nom": "Glenn Gawdin",
    "equipe": "NYR",
    "pos": "C",
-   "matchs": 3,
-   "misesAuJeu": 17,
-   "gagnees": 5,
-   "moyenne": 5.67,
+   "matchs": 4,
+   "misesAuJeu": 24,
+   "gagnees": 9,
+   "moyenne": 6.0,
    "statut": "officiel"
   },
   "8478449": {
@@ -2622,9 +2622,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 38,
-   "gagnees": 20,
-   "moyenne": 7.6,
+   "misesAuJeu": 32,
+   "gagnees": 17,
+   "moyenne": 6.4,
    "statut": "officiel"
   },
   "8480830": {
@@ -3212,9 +3212,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 3,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 2,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8481827": {
@@ -3342,9 +3342,9 @@
    "equipe": "CAR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 0,
-   "gagnees": 0,
-   "moyenne": 0.0,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8482097": {
@@ -3502,9 +3502,9 @@
    "equipe": "NYR",
    "pos": "L",
    "matchs": 5,
-   "misesAuJeu": 9,
-   "gagnees": 4,
-   "moyenne": 1.8,
+   "misesAuJeu": 5,
+   "gagnees": 1,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8482159": {
@@ -3712,9 +3712,9 @@
    "equipe": "CAR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 52,
-   "gagnees": 23,
-   "moyenne": 10.4,
+   "misesAuJeu": 58,
+   "gagnees": 24,
+   "moyenne": 11.6,
    "statut": "officiel"
   },
   "8482703": {
@@ -3932,9 +3932,9 @@
    "equipe": "NYR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 2,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8482896": {
@@ -4362,9 +4362,9 @@
    "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 66,
-   "gagnees": 36,
-   "moyenne": 13.2,
+   "misesAuJeu": 76,
+   "gagnees": 41,
+   "moyenne": 15.2,
    "statut": "officiel"
   },
   "8483695": {
@@ -4449,12 +4449,12 @@
   },
   "8484136": {
    "nom": "Max Sasson",
-   "equipe": "VAN",
+   "equipe": "NYR",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 35,
-   "gagnees": 19,
-   "moyenne": 7.0,
+   "misesAuJeu": 32,
+   "gagnees": 20,
+   "moyenne": 6.4,
    "statut": "officiel"
   },
   "8484142": {
@@ -4632,9 +4632,9 @@
    "equipe": "NYR",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 3,
+   "misesAuJeu": 5,
    "gagnees": 0,
-   "moyenne": 0.6,
+   "moyenne": 1.0,
    "statut": "officiel"
   },
   "8484221": {
