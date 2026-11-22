@@ -3303,7 +3303,7 @@
    "pos": "C",
    "matchs": 5,
    "misesAuJeu": 62,
-   "gagnees": 34,
+   "gagnees": 33,
    "moyenne": 12.4,
    "statut": "officiel"
   },
@@ -4283,7 +4283,7 @@
    "pos": "R",
    "matchs": 5,
    "misesAuJeu": 55,
-   "gagnees": 18,
+   "gagnees": 19,
    "moyenne": 11.0,
    "statut": "ailier_centre"
   },
