@@ -1,5 +1,5 @@
 {
- "dernierMatch": "2026-11-23",
+ "dernierMatch": "2026-11-24",
  "regle": {
   "matchs": 5,
   "minMatchs": 3,
@@ -292,9 +292,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 31,
-   "gagnees": 16,
-   "moyenne": 6.2,
+   "misesAuJeu": 24,
+   "gagnees": 14,
+   "moyenne": 4.8,
    "statut": "officiel"
   },
   "8475413": {
@@ -562,9 +562,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 79,
-   "gagnees": 45,
-   "moyenne": 15.8,
+   "misesAuJeu": 92,
+   "gagnees": 50,
+   "moyenne": 18.4,
    "statut": "officiel"
   },
   "8476453": {
@@ -582,9 +582,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 46,
-   "gagnees": 20,
-   "moyenne": 9.2,
+   "misesAuJeu": 36,
+   "gagnees": 14,
+   "moyenne": 7.2,
    "statut": "officiel"
   },
   "8476455": {
@@ -782,9 +782,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 58,
-   "gagnees": 31,
-   "moyenne": 11.6,
+   "misesAuJeu": 53,
+   "gagnees": 28,
+   "moyenne": 10.6,
    "statut": "officiel"
   },
   "8476882": {
@@ -1022,9 +1022,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 48,
-   "gagnees": 22,
-   "moyenne": 9.6,
+   "misesAuJeu": 44,
+   "gagnees": 21,
+   "moyenne": 8.8,
    "statut": "officiel"
   },
   "8477451": {
@@ -1212,9 +1212,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 114,
-   "gagnees": 60,
-   "moyenne": 22.8,
+   "misesAuJeu": 112,
+   "gagnees": 55,
+   "moyenne": 22.4,
    "statut": "officiel"
   },
   "8477935": {
@@ -1292,9 +1292,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
-   "gagnees": 4,
-   "moyenne": 0.8,
+   "misesAuJeu": 3,
+   "gagnees": 3,
+   "moyenne": 0.6,
    "statut": "officiel"
   },
   "8477955": {
@@ -1532,9 +1532,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 52,
-   "gagnees": 28,
-   "moyenne": 10.4,
+   "misesAuJeu": 66,
+   "gagnees": 37,
+   "moyenne": 13.2,
    "statut": "officiel"
   },
   "8478403": {
@@ -1542,9 +1542,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 101,
-   "gagnees": 53,
-   "moyenne": 20.2,
+   "misesAuJeu": 83,
+   "gagnees": 42,
+   "moyenne": 16.6,
    "statut": "officiel"
   },
   "8478413": {
@@ -1742,9 +1742,9 @@
    "equipe": "VGK",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 4,
+   "misesAuJeu": 6,
    "gagnees": 2,
-   "moyenne": 0.8,
+   "moyenne": 1.2,
    "statut": "officiel"
   },
   "8478493": {
@@ -1982,9 +1982,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 6,
-   "gagnees": 2,
-   "moyenne": 1.2,
+   "misesAuJeu": 7,
+   "gagnees": 3,
+   "moyenne": 1.4,
    "statut": "centre_aile"
   },
   "8479359": {
@@ -2002,9 +2002,9 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 5,
-   "gagnees": 2,
-   "moyenne": 1.0,
+   "misesAuJeu": 3,
+   "gagnees": 1,
+   "moyenne": 0.6,
    "statut": "centre_aile"
   },
   "8479368": {
@@ -3092,9 +3092,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 6,
+   "misesAuJeu": 7,
    "gagnees": 3,
-   "moyenne": 1.2,
+   "moyenne": 1.4,
    "statut": "officiel"
   },
   "8481618": {
@@ -3742,10 +3742,10 @@
    "equipe": "EDM",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 10,
-   "gagnees": 2,
-   "moyenne": 2.0,
-   "statut": "officiel"
+   "misesAuJeu": 7,
+   "gagnees": 1,
+   "moyenne": 1.4,
+   "statut": "centre_aile"
   },
   "8482705": {
    "nom": "Cole Sillinger",
@@ -4322,9 +4322,9 @@
    "equipe": "VGK",
    "pos": "C",
    "matchs": 5,
-   "misesAuJeu": 3,
-   "gagnees": 1,
-   "moyenne": 0.6,
+   "misesAuJeu": 2,
+   "gagnees": 0,
+   "moyenne": 0.4,
    "statut": "centre_aile"
   },
   "8483570": {
@@ -5142,9 +5142,9 @@
    "equipe": "EDM",
    "pos": "R",
    "matchs": 5,
-   "misesAuJeu": 36,
-   "gagnees": 17,
-   "moyenne": 7.2,
+   "misesAuJeu": 31,
+   "gagnees": 14,
+   "moyenne": 6.2,
    "statut": "ailier_centre"
   },
   "8486171": {
